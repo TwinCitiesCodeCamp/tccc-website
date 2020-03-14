@@ -17,11 +17,10 @@ layout: default
 <h4>{{ speaker.name }}</h4>
 
 <p>
-  {% if speaker.image != null %}
-  <img src="{{speaker.image}}" style="max-width: 100px"/>
-  {% else %}
-  <img src="https://twincitiescodecamp.com/content/images/unknown-speaker.jpg" style="max-width: 100px" />
-  {% endif %}
+
+{% assign img = speaker.image %}
+{% include speaker_image.md image=img %}
+
 </p>
 
 {{ talk.content }}

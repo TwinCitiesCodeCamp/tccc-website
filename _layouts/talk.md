@@ -8,7 +8,8 @@ layout: default
 
 <h3>{{speaker.name}} </h3>
 
-<p><img src="{{speaker.image}}" style="max-width: 200px;" /></p>
+{% assign img = speaker.image %}
+{% include speaker_image.md image=img %}
 
 {{ content }}
 

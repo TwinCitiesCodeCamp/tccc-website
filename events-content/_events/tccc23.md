@@ -3,6 +3,5 @@ layout: event
 event: tccc23
 title: TCCC 23
 slug: "23"
+eventDate: 2019-04-19
 ---
-
-<h1>Talks at TCCC23, Spring 2019.</h1>
