@@ -8,6 +8,9 @@ layout: default
 
 <h3>{{speaker.name}} </h3>
 
+<p>Room: {{ page.room }}<br/>
+Time: {{ page.time }}</p>
+
 {% assign img = speaker.image %}
 {% include speaker_image.md image=img %}
 

@@ -3,6 +3,8 @@ event: tccc23
 title: Improving Web Performance
 speaker: robertboedigheimer
 layout: talk
+room: P0838
+time: 9:15am
 ---
 
 This session starts with a traditional web page and shows step by step how to improve its performance and user experience! Discover performance techniques that everyone should use, then learn techniques that differ when targeting HTTP 1.1 vs. HTTP/2. Review tools that can help identify and validate sound performance best practices. Explore how to defer resource requests with lazing loading, asynchronous loading, and postponing 3rd party tag requests. Many other performance boosting techniques will also be discussed, which can reduce response time while also boosting the scalability and reliability of your site. Learn the techniques that can have the largest impact on web performance with the least amount of work.

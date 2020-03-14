@@ -9,6 +9,15 @@
       integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
       crossorigin="anonymous"
     />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/font-awesome/css/all.min.css' | relative_url }}"
+    />
+    <style>
+      img {
+        max-width: 100%;
+      }
+    </style>
   </head>
   <body>
     <header>
@@ -33,7 +42,12 @@
 
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="{{ '/' | relative_url }}">Home</a>
+              <a class="nav-link" href="{{ '/event' | relative_url }}">Event</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ '/schedule' | relative_url }}"
+                >Schedule</a
+              >
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ latestEvent.url | relative_url }}"
@@ -50,12 +64,30 @@
                 >Past Events</a
               >
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ '/policies' | relative_url }}"
+                >Code of Conduct</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ '/about' | relative_url }}">About</a>
+            </li>
           </ul>
         </div>
       </nav>
     </header>
-    <div class="container">
-      {{ content }}
-    </div>
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+    <footer class="mt-5">
+      <p class="text-center">
+        <small
+          >&copy; 2020 Twin Cities Code Camp. Built with
+          <a href="https://jekyllrb.com">Jekyll</a>.</small
+        >
+      </p>
+    </footer>
   </body>
 </html>
