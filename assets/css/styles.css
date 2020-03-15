@@ -1,0 +1,98 @@
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #ebebeb;
+  background-color: #2b3e50;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+header {
+  background-image: url("../images/wide_sepia.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 20px 0 black;
+}
+
+header nav {
+  background-color: #4e5d6c;
+  font-size: 18px;
+  color: #ebebeb;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ebebeb;
+}
+
+header .nav-item {
+  margin-right: 1rem;
+}
+
+.colored-code {
+  color: #df691a;
+  text-shadow: 1px 4px #f0ad4e, 2px 8px #5cb85c, 3px 12px #5bc0de;
+  -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(rgba(255, 255, 255, 0.2)));
+}
+header {
+  font-family: "Titillium Web", sans-serif;
+}
+
+header h1 {
+  font-size: 4rem;
+}
+
+.home-text {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.home-text h1 {
+  font-size: 2.4rem;
+}
+
+.card {
+  color: #ebebeb;
+  background-color: #2b3e50;
+}
+
+.icon-circle {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  border-radius: 50px;
+  padding-top: 22px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card .fa {
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+.bg-info-tccc {
+  background-color: #5bc0de;
+}
+
+.bg-danger-tccc {
+  background-color: #d9534f;
+}
+
+.bg-warning-tccc {
+  background-color: #f0ad4e;
+}
+
+.bg-success-tccc {
+  background-color: #5cb85c;
+}
+
+.bg-primary-tccc {
+  background-color: #df691a;
+}
