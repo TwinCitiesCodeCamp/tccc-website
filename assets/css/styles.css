@@ -96,3 +96,9 @@ header h1 {
 .bg-primary-tccc {
   background-color: #df691a;
 }
+
+a,
+a:link,
+a:visited {
+  color: #fff;
+}
