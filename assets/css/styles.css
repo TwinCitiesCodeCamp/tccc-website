@@ -1,5 +1,5 @@
 body {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.42857143;
   color: #ebebeb;
@@ -16,7 +16,7 @@ h6 {
 }
 
 header {
-  background-image: url("../images/wide_sepia.jpg");
+  background-image: url('../images/wide_sepia.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0 4px 20px 0 black;
@@ -42,7 +42,7 @@ header .nav-item {
   -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(rgba(255, 255, 255, 0.2)));
 }
 header {
-  font-family: "Titillium Web", sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 header h1 {
@@ -50,7 +50,7 @@ header h1 {
 }
 
 .home-text {
-  font-family: "Titillium Web", sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 .home-text h1 {
@@ -100,5 +100,22 @@ header h1 {
 a,
 a:link,
 a:visited {
-  color: #fff;
+  color: #df691a;
+}
+
+.speaker-image-wrapper {
+  width: 15rem;
+  margin-right: 1rem;
+}
+
+.speaker-image-wrapper img {
+  border-radius: 50%;
+  width: 15rem;
+  box-shadow: 1px 1px 15px 0 #222;
+}
+
+.talk-unit {
+  background-color: #3d5871;
+  padding: 1rem;
+  box-shadow: 2px 2px 5px 0 #19242f;
 }
