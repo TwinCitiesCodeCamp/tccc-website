@@ -108,9 +108,15 @@ a:visited {
   margin-right: 1rem;
 }
 
-.speaker-image-wrapper img {
+.speaker-image-wrapper-small {
+  width: 10rem;
+  margin-right: 1rem;
+}
+
+.speaker-image-wrapper img,
+.speaker-image-wrapper-small img {
   border-radius: 50%;
-  width: 15rem;
+  width: 100%;
   box-shadow: 1px 1px 15px 0 #222;
 }
 
