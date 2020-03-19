@@ -46,7 +46,11 @@ header {
 }
 
 header h1 {
-  font-size: 4rem;
+  font-size: 5rem;
+}
+
+header h2 {
+  font-size: 3rem;
 }
 
 .home-text {
