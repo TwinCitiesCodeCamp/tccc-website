@@ -1,0 +1,224 @@
+ToddH.:
+  name: Todd H.
+  image: 
+  bio: "Todd H. Gardner is a Senior Software Developer at the Toro Company, where he works in C# and the alt.net community. He is a graduate of the University of Minnesota Technological Leadership Institute and has a background in application and infrastructure architecture."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+ScottDavis:
+  name: Scott Davis
+  image: 
+  bio: "Scott Davis is a seasoned consultant with a decade of consulting experience on both the Microsoft and Java platforms, involving mostly Web application development. Recent work for Scott has primarily revolved around Microsoft Silverlight, starting with the 1.1 Alpha release. Scott has experience in web, desktop, mobility, reporting, and database design and development, as well as project &#38; staff management. Scott is currently the owner and principal consultant for Ignition Point Solutions; he is the leader of the Twin Cities Silverlight User Group; he is the president of BizLounge, a local entrepreneur group; and he is a member of the adjunct faculty in the information technology management master&#39;s degree program at St Mary&#39;s University in Minneapolis."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+DanNordquist:
+  name: Dan Nordquist
+  image: 
+  bio: "Dan Nordquist is a developer with Popular Front, an interactive marketing agency in Northeast Minneapolis. Dan has been working with SQL, ASP, and .NET for over ten years. During this time, he&#39;s helped introduce smarter development practices to a variety of companies."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+RobertBoedigheimer:
+  name: Robert Boedigheimer
+  image: 
+  bio: "Robert Boedigheimer works for Schwans Shared Services, LLC providing business solutions with web technologies and leads Robert Boedigheimer Consulting, LLC. Robert has been designing and developing web sites for the past 15 years including the early days of ASP and ASP.NET. He is a columnist for aspalliance.com, an ASP.NET MVP, an author, an &#34;Early Achiever&#34; MCSD for .NET with C#, an MCPD: Web with C#, MCPD: ASP.NET 3.5, and a 2nd degree black belt in Tae Kwon Do. Robert has spoken at industry conferences including the Heartland Developers Conference, DevLink, DevTeach, Tulsa Tech Fest, DevWeek, TechEd, AJAXWorld, and numerous national and international events."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+JavierLozano:
+  name: Javier Lozano
+  image: 
+  bio: "Javier Lozano is an ASP.NET Insider and MVP that specializes in ASP.NET, system architecture, and training. He has helped co-found the Iowa .NET Users Group as well as the Iowa Code Camp. On his blog, &#60;a href=&#34;http://blog.lozanotek.com&#34; target=&#34;_blank&#34;&#62; http://blog.lozanotek.com &#60;/a&#62;, you can find posts on ASP.NET, Silverlight, architecture, and design patterns just to name a few topics. Javier is an avid supporter of the community and likes to give back by speaking at user groups, local/regional .NET events, participating in forums, and by writing articles. In his spare time, Javier loves spending time with his family and enjoys writing about himself in the third person."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+JeffBrand:
+  name: Jeff Brand
+  image: 
+  bio: "Jeff Brand is a .NET Developer in Microsoft&#39;s Developer and Platform Group. Jeff assists customers in evaluating, developing and deploying applications built on the .NET Framework and the Microsoft platform. He has been with Microsoft for thirteen years and has served in variety of roles including infrastructure consultant, e-commerce technology specialist, and enterprise technology advisor."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+JWynia:
+  name: J Wynia
+  image: 
+  bio: "J Wynia is an independent software consultant, writer and geek generalist. He&#39;s been working in the field of IT and software development for 10+ years. When he&#39;s not working on billable software, he is often working on software to solve his own problems or to enhance any of a wide range of hobbies."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+KeithDahlby:
+  name: Keith Dahlby
+  image: 
+  bio: "Keith Dahlby is a .NET developer and language geek from Cedar Rapids, IA. He works as a software guru at J&#38;J Cycles and blogs about various software development topics at Los Techies. Keith has spoken at community events around the midwest and studied Human-Computer Interaction at Iowa State University."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+ScottColestock:
+  name: Scott Colestock
+  image: 
+  bio: "Scott Colestock lives and works in the Twin Cities. He is a partner at Marcato (&#60;a href=&#34;http://www.marcatopartners.com&#34; target=&#34;_blank&#34;&#62;marcatopartners.com&#60;/a&#62;), which focuses on delivering agile coaching services. He is also a BizTalk MVP, performance engineering guy, and &#34;Team Foundation Server + Scrum&#34; resource."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+KurtChristensen:
+  name: Kurt Christensen
+  image: 
+  bio: "Kurt Christensen has been getting paid to write code for 15 years, using a variety of different programming languages. For the last 7 years he&#39;s also been &#34;coaching agile teams&#34; (whatever the hell that means)."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+BrianHogan:
+  name: Brian Hogan
+  image: 
+  bio: "Brian Hogan is a a web developer, author, accessibility expert, and technology consultant living in Eau Claire, Wisconsin. He develops web sites with HTML5, JQuery, and Ruby, and loves to teach web development techniques to others. He is the author of &#34;Web Design For Developers&#34; and is working on a book about developing accessible sites with HTML5 and CSS3."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+DanBennett:
+  name: Dan Bennett
+  image: 
+  bio: "Dan Bennett is Senior Director, New Product Technology for Thomson Reuters Core Legal based in Eagan, MN. A web developer since the mid nineties, Dan led the online development of WestlawNext and browser optimization efforts in Q3/4 of 2009"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+GlennLeifheit:
+  name: Glenn Leifheit
+  image: 
+  bio: "Glenn Leifheit, CSSLP is a Lead information Security Consultant at FICO (Formerly Fair Isaac Corporation) with responsibilities in Application Security Architecture and Secure Software Development. He is also an active member of TechMasters, a Toastmasters club for technologists."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+JonStonecash:
+  name: Jon Stonecash
+  image: 
+  bio: "Jon Stonecash is a senior consultant at Magenic, a Microsoft Gold Partner consulting company. Jon Stonecash has worked in software development for much longer than he would like to admit. In that time Jon has had the opportunity to make most of the serious software development mistakes at least once. He has programmed in over a dozen languages including several different assembly languages, Fortran, COBOL, SNOBOL, classic Visual Basic, VB.NET, and C#. He has survived the structured programming revolution and the object-oriented revolutions (having inexplicably missed out on the sexual revolution). Jon&#39;s software development activities have included the development of operating systems, scientific and engineering applications, and enterprise systems. He has worked in every phase of software development from the initial specification of requirements through to customer support. Along the way, he picked up a BS in Mathematics and an MBA. He still has hopes of finding something that he can be reasonably good at. His long term interests center about databases and the aspects of the application that handle data access and business logic. He is also interested in the tools and processes that assist the development process. Jon can be reached at &#60;a href=&#34;mailto:jons@magenic.com&#34; target=&#34;_blank&#34;&#62;jons@magenic.com&#60;/a&#62;. Jon also has an active blog on &#34;Designing Out Loud in the .NET Space&#34; at &#60;a href=&#34;http://blog.magenic.com/blogs/jons/default.aspx&#34; target=&#34;_blank&#34;&#62;http://blog.magenic.com/blogs/jons/default.aspx&#60;/a&#62;."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+PatrickKragthorpe-Shirley:
+  name: Patrick Kragthorpe-Shirley
+  image: 
+  bio: "Patrick Kragthorpe-Shirley is a Senior Consultant at RBA Consulting with over 10 years of development experience. He is focused on providing enterprise solutions that leverage Microsoft&#39;s .Net technologies while applying best patterns and practices. Patrick has a BS in computer science from California Lutheran University and is a Microsoft Certified Application Developer."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+AaronErickson:
+  name: Aaron Erickson
+  image: 
+  bio: "&#60;a href=&#34;http://nomadic-developer.com/&#34; target=&#34;_blank&#34;&#62;Aaron Erickson&#60;/a&#62; is a software developer/technology writer/agilist based out of Chicago, IL, where he is a Lead Consultant for ThoughtWorks. His life&#39;s work is to help convert the human intellectual capital into results for companies that empower both the knowledge workers who produce software, and the people for whom that software is designed to serve. He frequently speaks at events such as TechEd, DevTeach, VSLive, and .NET user groups - with a goal of furthering the exchange of ideas - be they technology contributions - or observations about the technology consulting business.&#60;p&#62; He is a co-author of the upcoming book, &#60;a href=&#34;http://www.amazon.com/Professional-F-1-0-Ted-Neward/dp/047052801X&#34; target=&#34;_blank&#34;&#62;Professional F#&#60;/a&#62;. He is also the author of the book, &#60;a href=&#34;http://www.amazon.com/Nomadic-Developer-Surviving-Technology-Consulting/dp/0321606396&#34; target=&#34;_blank&#34;&#62;The Nomadic Developer&#60;/a&#62;, a career guide for technology consultants. In his spare time he likes to buy random ingredients at the store and have &#34;iron chef&#34; night with his wife, play video games with his kids, and occasionally, log on to World of Warcraft where he has a level 80 Rogue named EffSharper on the Bloodscalp server.&#60;/p&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+DonnFelker:
+  name: Donn Felker
+  image: 
+  bio: "Donn Felker is an independent consultant with over 9 years of professional experience in various markets that include &#8211; entertainment, health, retail, insurance, financial, and real estate. He is a Microsoft ASP Insider, an MCTS in Web Client Development for .NET 2.0 and 3.5 and is also a certified ScrumMaster. He is the founder and coordinator of the Twin Cities Give Camp, leader of the Twin Cities Developers Guild and the founder of Twin Cities Pragmatic Beer. He is also a writer, presenter and consultant on various topics ranging from architecture, development in general, agile practices and patterns &#38; practices. Follow Donn on twitter: @donnfelker or read his blog here: &#60;a href=&#34;http://blog.donnfelker.com&#34; target=&#34;_blank&#34;&#62;http://blog.donnfelker.com&#60;/a&#62;."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+ChrisSutton:
+  name: Chris Sutton
+  image: 
+  bio: "Chris Sutton is a software developer and technical trainer in Eastern Iowa. He helps run CRineta.org in Cedar Rapids, Iowa and he co-founded the Iowa Code Camp in 2008. Chris is a Microsoft MVP, a Microsoft Certified Trainer (MCT) and holds the MCPD:Enterprise certification. He has been consulting and speaking on web related topics since the beginning of 2005 and loves developing for the web. He also enjoys hiking and biking in the summer with his family and snowshoeing in the winter."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+KevinGisi:
+  name: Kevin Gisi
+  image: 
+  bio: "&#60;a href=&#34;http://www.kevingisi.com&#34; target=&#34;_blank&#34;&#62;Kevin W. Gisi&#60;/a&#62; is a Ruby developer in Eau Claire, Wisconsin. Co-founder of the Eau Claire Ruby User Group, he co-organized the Chippewa Valley Ruby Camp. Kevin has a strong interest in promoting community involvement in technology, and is currently one of the organizers for the Rails Rumble annual competition."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+LeeBrandt:
+  name: Lee Brandt
+  image: 
+  bio: "Lee Brandt is a Project Lead Consultant for Adventure Tech Group, Inc. in Kansas City. Lee has been programming professionally for more than a decade and developing solutions in .NET and C# since the early beta releases. He is an advocate for behavior driven development, design patterns and lean software methodologies. Lee spends most of his free time reading about programming, discussing process and hanging out with his wife Stacey and their dog (daughter) Frieda."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+ShannonBraun:
+  name: Shannon Braun
+  image: 
+  bio: "&#60;a href=&#34;http://www.sysknowlogy.com/&#34; target=&#34;_blank&#34;&#62;Shannon Braun&#60;/a&#62; is an independent consultant and founder of Sysknowlogy, which provides consulting and development services using Microsoft technologies. Shannon focuses on assisting corporations adopt Microsoft technologies and has helped companies solve business problems with Microsoft .NET, BizTalk, Commerce Server, SharePoint, Windows Presentation Foundation (WPF) and Web Services. Shannon has served as a member of the .NET Partner Advisory Committee, Microsoft Architecture Partner Board, Microsoft Architecture Advisory Board and is currently a member of the Visual Studio Partner Advisory Board. Shannon has been nominated both as a Microsoft Solution Architect MVP and a Microsoft Client Application Development MVP."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+JonvonGillern:
+  name: Jon von Gillern
+  image: 
+  bio: "Jon von Gillern is a consultant and owner of Nitriq Code Analysis, a tool that helps .net developers better understand their code base and helps enforce rules to keep their code clean. He has been programming for over 14 years and in his free time enjoys politics, poker and paintball. You can read his blog at &#60;a href=&#34;http://blog.nitriq.com&#34; target=&#34;_blank&#34;&#62;blog.nitriq.com&#60;/a&#62;."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+GusEmery:
+  name: Gus Emery
+  image: 
+  bio: "Gus Emery is a consultant in the Twin Cities ares with over fifteen years experience architecting and implementing highly-scalable ASP.Net applications and distributed n-tiered applications across a broad array of industries within the Twin Cities area. Gus has been working with Visual Basic since v3.0 and .Net since Beta #1, and loves to seek out new and exciting technologies to serve his customers technological needs! He has also been very active as a conference speaker, which he loves to do in his spare time."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+RockfordLhotka:
+  name: Rockford Lhotka
+  image: 
+  bio: "Rockford Lhotka is the creator of the popular CSLA .NET development framework, and is the author of numerous books, including Expert C# 2008 Business Objects and Expert VB 2008 Business Objects. He is a Microsoft Regional Director, MVP and INETA speaker. He contributes to several major magazines and regularly presents at major conferences around the world. Rockford is the Principal Technology Evangelist for &#60;a href=&#34;http://www.magenic.com&#34; target=&#34;_blank&#34;&#62;Magenic&#60;/a&#62;, a company focused on delivering business value through applied technology and one of the nation&#39;s premiere Microsoft Gold Certified Partners. For more information go to &#60;a href=&#34;http://www.lhotka.net&#34; target=&#34;_blank&#34;&#62;www.lhotka.net&#60;/a&#62;."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8
+
+BrentEdwards:
+  name: Brent Edwards
+  image: 
+  bio: "Brent Edwards is a Consultant for Magenic, a Microsoft Gold Partner consulting company. Brent has been knocking around the .NET world for over five years, working on projects ranging from ASP.NET MVC with C# and jQuery to WPF with VB.NET. When not cranking out code, you can find him hanging out with his wife and three kids or riding his wakeboard, snowboard or mountain bike."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc8

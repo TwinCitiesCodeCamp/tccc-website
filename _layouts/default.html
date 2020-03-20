@@ -56,7 +56,7 @@
           </button>
 
           <div class="collapse navbar-collapse" id="navbarNav">
-            {% assign latestEvent = site.events | sort: "eventDate" | reverse |
+            {% assign latestEvent = site.events | where: "event", "tccc23" |
             first %}
 
             <ul class="navbar-nav">

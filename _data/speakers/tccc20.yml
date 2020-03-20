@@ -1,0 +1,314 @@
+ScottAddie:
+  name: Scott Addie
+  image: https://pbs.twimg.com/profile_images/657706218241167360/wbQTuaE4_400x400.png
+  bio: "Scott Addie is an ambitious, self-driven software architect &#38; technical evangelist specializing in JavaScript and the modern Microsoft web stack. He is a Microsoft Certified Solutions Developer (MCSD &#8211; Web Applications), a Visual Studio Code Insider, a frequent conference, code camp, and user group attendee, an ASP.NET and JavaScript blogger, and a technical speaker who has been developing enterprise web applications professionally since 2005."
+  speakerUrl: https://t.co/eJZBltzRVC
+  twitter: Scott_Addie
+  github: 
+  event: tccc20
+
+JasonBock:
+  name: Jason Bock
+  image: https://pbs.twimg.com/profile_images/467736259515797504/NeueR5Qc_400x400.png
+  bio: "Jason Bock is a Practice Lead for Magenic (http://www.magenic.com) and a Microsoft MVP (C#). He has 20 years of experience working on a number of business applications using a diverse set of frameworks and languages such as C#, .NET, and JavaScript. He is the author of &#34;Metaprogramming in .NET&#34;, &#34;Applied .NET Attributes&#34;, and &#34;CIL Programming: Under the Hood of .NET&#34;. He has written numerous articles on software development issues and has presented at a number of conferences and user groups. He is a leader of the Twin Cities Code Camp (http://www.twincitiescodecamp.com). Jason holds a Master&#39;s degree in Electrical Engineering from Marquette University. Visit his web site at http://www.jasonbock.net."
+  speakerUrl: http://www.jasonbock.net/
+  twitter: jasonbock
+  github: 
+  event: tccc20
+
+MattChristian:
+  name: Matt Christian
+  image: https://pbs.twimg.com/profile_images/691244537956532224/N_HVeGA3_400x400.jpg
+  bio: "Matt Christian is a full time software developer in a traditional development job by day and indie game developer by night. He holds both a Bachelors degree in Applied Mathematics and Computer Science: Software Development from the University of Wisconsin - Stout, and an Associates degree in Information Technology - Programmer/Analyst from Northcentral Technical College. In 2014 he started Subject Matter Games, a small indie game studio in central Wisconsin and is developing Super Wall Crash, a procedurally generated infinite runner for mobile devices. Find out more about Matt and his projects at http://www.insidegamer.org or more about Subject Matter Games at http://www.submattergames.com."
+  speakerUrl: http://www.submattergames.com
+  twitter: matchristian
+  github: 
+  event: tccc20
+
+AnneBougie:
+  name: Anne Bougie
+  image: https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/048/3c3/2d5816c.jpg
+  bio: "Anne Bougie is a senior software engineer with Skyline Technologies. She has been a developer for 18 years in the Fox Cities area working as a consultant in a variety of companies and industries. She has worked with many platforms and languages with a focus on Microsoft technologies. She specializes in MVC, Javascript, Azure, application design, and developer mentoring."
+  speakerUrl: http://www.geekswithblogs.net/AnneBougie/Default.aspx
+  twitter: bougiefever
+  github: 
+  event: tccc20
+
+BrandonH:
+  name: Brandon H
+  image: https://pbs.twimg.com/profile_images/378800000331918104/7b867cb6c510a285eaf5d252aae4d0bc_400x400.gif
+  bio: "Brandon is a Principle Mobile Architect for Dow Jones in Minneapolis and has been doing mobile development since 2010. You can find him on twitter at @bc3tech or on the web at http://bc3.tech."
+  speakerUrl: https://about.me/bc3tech
+  twitter: bc3tech
+  github: 
+  event: tccc20
+
+DanCallahan:
+  name: Dan Callahan
+  image: https://pbs.twimg.com/profile_images/576841343793655808/-7TXbZgD_400x400.jpeg
+  bio: "Dan Callahan is a Staff Software Engineer in Mozilla&#39;s Developer Relations team, where he focuses on Firefox add-ons and Servo parallel browser engine project. Dan previously worked on the Mozilla Persona project, an attempt at replacing passwords with user friendly public key cryptography built on open web standards.&#60;br&#62;&#60;br&#62;Dan tweets as @callahad and swears he has every intention to blog at http://dancallahan.info."
+  speakerUrl: http://dancallahan.info/
+  twitter: callahad
+  github: 
+  event: tccc20
+
+KevinHakanson:
+  name: Kevin Hakanson
+  image: https://pbs.twimg.com/profile_images/3660694165/3f57eb62f0059337cb4e4d376f956b42_400x400.png
+  bio: "Kevin Hakanson (@hakanson) is an Sr. Software Architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master&#8217;s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family."
+  speakerUrl: http://about.me/kevin.hakanson
+  twitter: hakanson
+  github: 
+  event: tccc20
+
+KevinGisi:
+  name: Kevin Gisi
+  image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/000/2a1/3e3/3cbbbd7.jpg
+  bio: "Kevin Gisi is fascinated by the intersection of computing, games, and outer space. When not goofing around on side-projects, he can be found slinging Ruby and JavaScript code for Mashable."
+  speakerUrl: https://www.linkedin.com/in/gisikw
+  twitter: cheerskevin
+  github: 
+  event: tccc20
+
+SreenathPillai:
+  name: Sreenath Pillai
+  image: https://pbs.twimg.com/profile_images/1325492857/sreenath3_400x400.jpg
+  bio: "Sreenath Pillai is an entrepreneur and software development veteran. He has been programming as a hobby since the age of 8, having the great privilege of using his Dad&#39;s Sun workstations. Since then, he has worked with a ton of companies in the Madison, WI area and started his own consultancy. He has spent over 10 years immersed in the academic, industrial, and startup scenes of the tech world. He is most passionate about listening to and helping people, building things, and thinking."
+  speakerUrl: http://flow-enterprises.com
+  twitter: nathcoder
+  github: 
+  event: tccc20
+
+MikeRosack:
+  name: Mike Rosack
+  image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/1f0/1f5/0104be6.jpg
+  bio: "Mike Rosack has been working as a Solutions Consultant at Omni Resources in Appleton, WI for 5 years. He&#39;s spent most of his career working on all sorts of .NET projects, but recently has been working on MEANer things. He&#39;s very sad that Calvin Johnson retired."
+  speakerUrl: https://www.linkedin.com/in/mrosack
+  twitter: 
+  github: 
+  event: tccc20
+
+BradBroulik:
+  name: Brad Broulik
+  image: https://pbs.twimg.com/profile_images/1280547293/image_400x400.jpg
+  bio: "Brad Broulik is an author, trainer, and principal web engineer specializing in enterprise mobile development at HealthPartners. His recent book is Pro jQuery Mobile. He blogs at http://bradbroulik.blogspot.com and tweets via @BradBroulik."
+  speakerUrl: http://bradbroulik.blogspot.com/
+  twitter: BradBroulik
+  github: 
+  event: tccc20
+
+BenoyJohn:
+  name: Benoy John
+  image: https://pbs.twimg.com/profile_images/378800000754039812/c1c9b58d829b85ef1fff6612e84fc2d9_400x400.jpeg
+  bio: "Benoy John is a Software Engineering Professional/Agile Developer Coach with experience in all phases of product development and design aspects. He continues to help organizations to figure out better ways to deliver value through improving software development practices and improving business process. He works as Technical Mentor/Coach at both the Leadership and Team levels, building the supporting agile adoption framework, providing agile adoption guidance to leadership, and working with the team on the execution of proven practices and techniques that bring agility to the projects. He is actively involved in Agile Coaching, mentoring, training and building high performance professional agile teams. He has great passion in Test Driven Development, Business Driven Development and Domain Driven Design practices in software development and believes in collaboration and team work for success. Follow @benoyjohnv"
+  speakerUrl: http://valayathil.blogspot.com/
+  twitter: benoyjohnv
+  github: 
+  event: tccc20
+
+DaveStrebel:
+  name: Dave Strebel
+  image: https://pbs.twimg.com/profile_images/714174329991331842/O11VKeJw_400x400.jpg
+  bio: "Dave Strebel currently serves as Cloud Technical Specialist for Microsoft, with a long term focus on distributed system design and cloud computing technologies. Dave brings over 15 years of hands-on experience in the architecture of distributed and virtualized systems. On the side, he is the organizer of the Minnesota Cloud Foundry and Docker Meetups."
+  speakerUrl: https://github.com/dstrebel
+  twitter: hybridcloud_guy
+  github: 
+  event: tccc20
+
+RockfordLhotka:
+  name: Rockford Lhotka
+  image: https://pbs.twimg.com/profile_images/555774892277116928/gaNy7cRE_400x400.jpeg
+  bio: "Rockford Lhotka is the CTO of Magenic, and is the creator of the widely used CSLA .NET development framework. He is the author of numerous books, and regularly speaks at major conferences around the world. Rockford is a Microsoft Regional Director and MVP. Magenic (www.magenic.com) addresses your toughest, most complex software development challenges and delivers results. For more information go to www.lhotka.net."
+  speakerUrl: http://www.lhotka.net/
+  twitter: RockyLhotka
+  github: 
+  event: tccc20
+
+DanKraft:
+  name: Dan Kraft
+  image: https://pbs.twimg.com/profile_images/682033832439058432/T8vIoF-t_400x400.jpg
+  bio: "Though Dan&#39;s primary residence is the internet, he currently dwells in Wausau, WI. He is employed as a full-stack web developer for Roastar Inc, a company who produces attractive labeling and flexible packaging for companies in niche markets like coffee roasting and cannabis products.&#60;br&#62;&#60;br&#62;A true master of none, he enjoys creating music, reading books, and playing Dungeons &#38; Dragons. He is passionate about open source software, and hopes his GitHub profile will properly reflect that... someday.&#60;br&#62;&#60;br&#62;You can find him online at http://frigginglorio.us/. His band, The Essentials (http://essentials.rocks/) will be releasing an EP shortly."
+  speakerUrl: http://frigginglorio.us/
+  twitter: frigginglorious
+  github: 
+  event: tccc20
+
+KamranAyub:
+  name: Kamran Ayub
+  image: https://pbs.twimg.com/profile_images/2319233356/filb50s4xaftitgj10sc_400x400.jpeg
+  bio: "Kamran Ayub is a Web Applications Consultant working at General Mills doing DevOpsy work who is passionate about technology and sharing his experiences with others. On the side, he works on his passion project Keep Track of My Games, has contributed to multiple open source libraries, travels around the world when he finds the time, and attempts to balance his coding and gaming hobbies, often unsuccessfully. He&#8217;s been in the web and software industry for over a decade, working on multiple development teams within General Mills for over 5 years. Follow him @kamranayub or on his blog, kamranicus.com."
+  speakerUrl: http://kamranicus.com/
+  twitter: kamranayub
+  github: 
+  event: tccc20
+
+VinceBullinger:
+  name: Vince Bullinger
+  image: https://pbs.twimg.com/profile_images/64445273/MiniMe.jpg
+  bio: "Vince has been a passionate developer and consultant since 2005. He is currently an independent contractor. He received his MCSD for .NET with C# back in 2008. In recent years, he&#39;s immersed himself in front end technologies. Even more recently, he&#39;s developed a passion for mobile development, specifically of the cross-platform variety. Outside of work, he&#39;s a husband and father and enjoys sports, games and learning everything about everything."
+  speakerUrl: http://vincebullinger.com/
+  twitter: vbullinger
+  github: 
+  event: tccc20
+
+MikeBenkovich:
+  name: Mike Benkovich
+  image: https://pbs.twimg.com/profile_images/2680092022/1a98a8f0f69a2fd1906f137251bc0d99_400x400.jpeg
+  bio: "Energy, laughter, and a contagious passion for coding&#8212;Mike brings it all with him. In a career that has taken him from minion to business owner, from database administrator (DBA) to developer, from author to evangelist, Mike has seen it all. In more than 25 years of working in the technology industry, he has been part of the latest waves to sweep the industry, and he is compelled to share it all. Whether delivering MSDN Events live or webcast presentations, whether on the developer resource site www.BenkoTips.com or his blog, Mike brings enthusiasm for the tools and an energy for the search to find an better way. Join us each week to see what&#39;s new in &#34;BenkoTIPS Live and On-Demand&#34; as he helps developers explore the possible."
+  speakerUrl: http://www.benkotips.com/
+  twitter: mbenko
+  github: 
+  event: tccc20
+
+SeanMacAvaney:
+  name: Sean MacAvaney
+  image: https://pbs.twimg.com/profile_images/674034792317378560/hjytFRJ9_400x400.jpg
+  bio: "Sean is a Software Engineering student at Milwaukee School of Engineering (MSOE) and a Junior Web Developer at iit/SourceTech. Topics that interest Sean include web technologies, machine learning, and embedded systems. When he&#8217;s not behind the keyboard, you will probably find him pedaling a bicycle, nocking an arrow, or casting a line."
+  speakerUrl: https://macavaney.us/
+  twitter: seanmacavaney
+  github: 
+  event: tccc20
+
+JasonLattimer:
+  name: Jason Lattimer
+  image: https://pbs.twimg.com/profile_images/3684202102/4d1a90a3212022920f6f4da3883ac132_400x400.jpeg
+  bio: "Jason Lattimer is a Sr. Technical Architect with PowerObjects and a Microsoft MVP for Business Solutions. Other interests outside of developing custom solutions for Dynamics CRM include Azure, mobile, and developer tools. You can often find him helping out in the MSDN and Dynamics Community forums, talking to user groups, and occasionally putting some helpful tools on CodePlex &#38; GitHub. Twitter: @JLattimer Blog: http://jlattimer.blogspot.com"
+  speakerUrl: http://jlattimer.blogspot.com/
+  twitter: JLattimer
+  github: 
+  event: tccc20
+
+JeremyAbbott:
+  name: Jeremy Abbott
+  image: https://az697891.vo.msecnd.net/speakerphotos/7dd5a2bb-0eae-4af2-bcd7-de2912b6dfe5.png
+  bio: "I&#39;m a developer at Shreveport development shop Praeses, where I work as a project architect, developer, and recruiter. I work hard to deliver clean, extensible, and maintainable solutions to customers&#39; business problems. I&#39;m passionate about software as a profession and craft and work to cultivate that mindset in my team members through constant training. When I&#39;m not writing code I&#39;m advocating for LGBT equality."
+  speakerUrl: https://github.com/jeremyabbott
+  twitter: mrjabbott
+  github: 
+  event: tccc20
+
+ShawnLawson:
+  name: Shawn Lawson
+  image: https://pbs.twimg.com/profile_images/2164896818/LawsonNA_400x400.png
+  bio: "Shawn Lawson is an experiential media artist creating the computational sublime. As Obi-Wan Codenobi, he live-codes, real-time computer graphics with his open source software, The Force. He has performed or exhibited in England, Scotland, Spain, Denmark, Russia, Italy, Korea, Portugal, Brazil, Turkey, Malaysia, Iran, Canada, and the USA. He received grants from NYSCA and the Experimental Television Center, and he has been in residence at CultureHub and Signal Culture. Lawson studied at CMU and &#201;NSBA. He received his MFA in Art and Technology Studies from SAIC. He is an Associate Professor in the Department of Art at RPI."
+  speakerUrl: http://www.shawnlawson.com/
+  twitter: EachTweetCounts
+  github: 
+  event: tccc20
+
+AlecWojciechowski:
+  name: Alec Wojciechowski
+  image: http://3t7bol18ef963l8x6yzv7ja1.wpengine.netdna-cdn.com/wp-content/uploads/Alec_400sq.jpg
+  bio: "Alec Wojciechowski is an experienced senior software developer, having worked at nearly a dozen different companies around the Twin Cities. Recently, he has had the pleasure of teaching complete newbies the craft of software development in a 12 week boot camp put on by The Software Guild in downtown Minneapolis. In addition, he takes new, passionate software developers in entry level roles and helps them reach their full potential. When he&#39;s not writing code or mentoring, he&#39;s probably somewhere above the Twin Cities in a Cessna 150."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc20
+
+MaggiePint:
+  name: Maggie Pint
+  image: https://pbs.twimg.com/profile_images/657629683220021248/levj6wJ0_400x400.jpg
+  bio: "Maggie Pint is the Web Development Manager at TempWorks Software. She spent the first several years of her career working as a SSRS developer and accidental DBA before converting into a full-stack ASP.NET developer. She currently specializes mostly in Angular JS, but there is a special place in her heart for bridging the gap between developers and DBAs. In her spare time, Maggie shows and breeds Australian Shepherds, hangs out with her three year old son, and engages in a constant battle of technical one-upmanship with her husband Joe &#8211; also a .NET developer."
+  speakerUrl: 
+  twitter: maggiepint
+  github: 
+  event: tccc20
+
+LanceLarsen:
+  name: Lance Larsen
+  image: https://pbs.twimg.com/profile_images/3661268999/497aec9b0ea0ef3aa197e34b0e7a228a_400x400.png
+  bio: "Lance Larsen (www.LanceLarsen.com | @lancelarsen) is an avid community speaker -and- president of the Madison .NET developer community (www.MADdotNET.com).&#60;br&#62;&#60;br&#62;Lance is the owner of HoloSoft (www.HoloSoft.net) and consults with companies to build the future with the latest .NET technologies -- if you have a AR / VR project you or your company needs assistance with, let me know. :)&#60;br&#62;&#60;br&#62;Lance is also one of the original organizers for That Conference (www.ThatConference.com) - August 8th - 10th, 2016 - the original Summer Camp for Geeks in the Wisconsin Dells!"
+  speakerUrl: http://www.lancelarsen.com/
+  twitter: lancelarsen
+  github: 
+  event: tccc20
+
+BrianHogan:
+  name: Brian Hogan
+  image: https://pbs.twimg.com/profile_images/683416517455695872/DxDhO4LH_400x400.jpg
+  bio: "Brian Hogan is a programmer who loves to teach other programmers. He currently works with Elixir and Ruby, building applications to help people learn faster."
+  speakerUrl: http://bphogan.com
+  twitter: bphogan
+  github: 
+  event: tccc20
+
+KevinStanton:
+  name: Kevin Stanton
+  image: https://pbs.twimg.com/profile_images/413324440/n128722057646_1237_1__400x400.jpg
+  bio: "Ex Merchant Marine (Professional Sailor). PHP Software Engineer. Meetup Fanatic (JavaScriptMN, mn-php, h-f-minneapolis, NodeMN, tcdnug, et al). Interests: Reducing Cloud Loads, Passing less Data on network. Inspirations to speak: Asked Questions about AJAX that got me thrown out of Javascript Stackoverflow chats, Asked at a javascript meetup about making ajax fed data &#34;shiny&#34; which left people scratching their heads"
+  speakerUrl: 
+  twitter: kevin_stanton
+  github: 
+  event: tccc20
+
+ToddGardnerandJordanGriffin:
+  name: Todd Gardner and Jordan Griffin
+  image: https://pbs.twimg.com/profile_images/479976283204358144/ACiTP2w9_400x400.jpeg
+  bio: "Jordan Griffin has been professionally developing software for a decade and is currently a partner at TrackJS(https://trackjs.com) as well as an independent consultant. The scope and scale of his work has varied from local to international, two person projects to two hundred person projects. Jordan believes the key to success for a project of any size, no matter whether you own the company or not, is pride of ownership. Todd H. Gardner is the president and co-founder of TrackJS (trackjs.com) and an independent software consultant. With over a decade of experience building software systems, Todd has built large enterprise systems, complex software products, and launched businesses. Todd is a veteran of software conferences and an international speaker."
+  speakerUrl: http://trackjs.com
+  twitter: toddhgardner
+  github: 
+  event: tccc20
+
+BarryStahl:
+  name: Barry Stahl
+  image: https://pbs.twimg.com/profile_images/324942332/twitterProfilePhoto_400x400.jpg
+  bio: "Barry is a .NET Software Engineer who has been creating business solutions for enterprise customers for more than 25 years. Barry is also an Election Integrity Activist, baseball and hockey fan, husband of one genius and father of another, and a 30+ year resident of Phoenix Arizona USA. When Barry is not traveling around the world to speak at Conferences, Code Camps and User Groups or to participate in GiveCamps, he spends his days as Principal Application Architect for Crew Systems at American Airlines, the worlds largest airline, and his nights thinking about the next Arizona GiveCamp, an annual event where software developers come together to build websites and apps for some great non-profit organizations.&#60;br&#62;&#60;br&#62;You can follow Barry on Twitter @bsstahl or read his blog at http://www.cognitiveinheritance.com."
+  speakerUrl: http://www.cognitiveinheritance.com/
+  twitter: bsstahl
+  github: 
+  event: tccc20
+
+DanNordquist:
+  name: Dan Nordquist
+  image: https://pbs.twimg.com/profile_images/581109210085109760/4gNn-rU7_400x400.jpg
+  bio: "Dan Nordquist got his start speaking at Code Camps in 2010, and has since spoken around the country with Modern Apps Live. Dan works at Magenic as a consultant, and is passionate about technology, mentoring, DevOps, agile teams, and process improvement."
+  speakerUrl: https://about.me/nordquist
+  twitter: dnord
+  github: 
+  event: tccc20
+
+JonathanDexter:
+  name: Jonathan Dexter
+  image: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/08a/3fc/25e2e9c.jpg
+  bio: "Jonathan Dexter has been a Software Developer and technology enthusiast for over 10 years. He currently works as the Technology Manager for .NET at the Nerdery, defining the Nerdery&#8217;s technologies and tools that are used, supporting the practice, and positioning the offering for success. He&#8217;s worked in many .NET technologies, ranging from ASP.NET to WinForms to WPF and more."
+  speakerUrl: https://www.linkedin.com/in/jonathan-dexter-48150080
+  twitter: mandest
+  github: 
+  event: tccc20
+
+PhilipNelson:
+  name: Philip Nelson
+  image: https://media.licdn.com/media/p/3/000/005/255/39204b8.jpg
+  bio: "Philip Nelson is the Research and Innovation Leader at Omni Resources as well as a full time developer and architect. He has worked with the internet since before there was a WWW and unfortunately is still attracted to shiny new things in tech. Devops and machine learning are high on the list of shiny things these days, but in the past he has been interested in agile methods, REST and hypermedia, object oriented programming, model driven development, object relational mapping, business process management, scalable architectures and a couple of others. Some of these worked out, and some not so much, and that just another topic to be interested in! When not coding, you may see him up on a stage playing a guitar around in Wisconsin, or out coaching kids in cross country skiing."
+  speakerUrl: https://panmanphil.wordpress.com
+  twitter: panmanphil
+  github: 
+  event: tccc20
+
+JenniferStrater:
+  name: Jennifer Strater
+  image: http://chippewavalleycodecamp.com/img/speakers/jennifer-strater.jpg
+  bio: "Jennifer &#34;Jenn&#34; Strater is currently a Senior Consultant at Object Partners and co-founder of Gr8Ladies. She&#39;s an experienced Groovy and Grails developer and is an active participant in the Gr8 (Groovy, Grails, Griffon, Gradle, etc) community. She regularly attends the local user group, GroovyMN, and annual conferences including Gr8ConfUS. Jenn has presented introductory interactive sessions at various Minnesota tech events including as part of the Gr8Workshops initiative and internationally at Greach, Gr8Conf EU, Gr8Conf US, and Devoxx Belgium."
+  speakerUrl: http://www.jennstrater.com/
+  twitter: codeJENNerator
+  github: 
+  event: tccc20
+
+WendyIstvanick:
+  name: Wendy Istvanick
+  image: https://pbs.twimg.com/profile_images/1097018523/DSCN4564_-_La_Montagne_St-Victoire_400x400.jpg
+  bio: "I have been a developer with ThoughtWorks for over 20 years and have enjoyed solving technical problems and making people happy along the way. I also love to travel. So life as a consultant has been great, giving me many chances to enable solutions while living in places I never would have dreamed of living while growing up, including Brazil, France, and India.&#13;&#10;&#13;&#10;In addition to coding on many projects I have had the opportunity to facilitate training both internal to ThoughtWorks and at client sites over the years thus being able to share my craft with others."
+  speakerUrl: http://jemappellewendyi.com/
+  twitter: jemappellewendy
+  github: 
+  event: tccc20
+
+NateTaylor:
+  name: Nate Taylor
+  image: https://avatars2.githubusercontent.com/u/928403?v=3&s=460
+  bio: "Nate Taylor is a software developer, speaker and Pluralsight author. He&#39;s worked on projects ranging from 1 developer for an internal application, to large teams writing revenue generating applications. He&#39;s worked for a Fortune 50 company, and he&#39;s worked for startups. He&#39;s developed software in C++, Java, .Net and JavaScript. Over the past 15 years he&#39;s developed a passion for TDD, clean code, and professionalism. In his spare time, Nate trains Brazilian Jiu Jitsu and tries to wrangle a herd of cats, rabbits and other pets at home."
+  speakerUrl: http://taylonr.com/
+  twitter: taylonr
+  github: 
+  event: tccc20

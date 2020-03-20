@@ -1,0 +1,179 @@
+BillRyan:
+  name: Bill Ryan
+  image: 
+  bio: "Bill Ryan"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+DougNelson:
+  name: Doug Nelson
+  image: 
+  bio: "Doug Nelson is a Practice Partner with ILM. He provides expert application development services for a growing number of clients with a primary focus on solving complex business problems. These applications developed are based on a Sql Server backend database with a web based front-end. He has been doing web development since 1996, transitioning from CGI applications to classic ASP and on to ASP.Net. In addition to the web development, these applications also support WinForms and Pocket PCs. He has extensive experience implementing truly distributed applications involving windows services, message queueing and web services.&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.ilmservice.com&#34;&#62;ILM Services&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+D'ArcyLussier:
+  name: D'Arcy Lussier
+  image: 
+  bio: "Part of the emerging Canadian Developer Community 2.0, D&#39;Arcy Lussier has been an active member of the developer community for many years. In addition to being part of the leadership for the Winnipeg .NET User Group, he is also the INETA Membership Mentor for Manitoba, Saskatchewan, and Alberta, and has organized various user group tours which saw Roy Osherove, Jean-Paul Boodhoo, and Jean-Luc David (among others) make their way across central Canada. In addition to his community efforts, D&#39;Arcy holds an MCSD and has been developing with .NET since the initial beta. His focus over the last 6 years has been on web development with ASP.NET and has presented at the Winnipeg .NET User Group and the recent Calgary Code Camp on the subject."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+RockfordLhotka:
+  name: Rockford Lhotka
+  image: 
+  bio: "Rockford Lhotka is the author of several books, including the Expert VB 2005 Business Objects and Expert C# 2005 Business Objects books. He is a Microsoft Regional Director, MVP and INETA speaker. He contributes to several major magazines and regularly presents at major conferences around the world - including Microsoft PDC, Tech Ed, VS Live! and VS Connections. Rockford is the Principal Technology Evangelist for Magenic, a company focused on delivering business value through applied technology and one of the nation&#39;s premiere Microsoft Gold Certified Partners.&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.magenic.com&#34;&#62;Magenic&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.lhotka.net&#34;&#62;Personal Blog&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+Unknown:
+  name: Unknown
+  image: 
+  bio: ""
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+JeffBrand:
+  name: Jeff Brand
+  image: 
+  bio: "Jeff Brand is a .NET Developer in Microsoft&#39;s Developer and Platform Group. Jeff assists customers in evaluating, developing and deploying applications built on the .NET Framework and the Microsoft platform. He has been with Microsoft for eleven years and has served in variety of roles including infrastructure consultant, e-commerce technology specialist, and enterprise technology advisor."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+DanBennett:
+  name: Dan Bennett
+  image: 
+  bio: "Dan Bennett is a technology director with the online applications development group of Thomson West. A software developer/lead/architect for 15 years, Dan has now joined the ranks of pointy haired managers. However, all is not lost as he remains a keen &#39;hobby&#39; developer in a variety of languages ranging from C to F#.&#60;h3&#62; Links&#60;/h3&#62;&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.ambientdevices.com/&#34;&#62;Ambient Orb&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.arduino.cc/&#34;&#62;Arduino&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+RobertBoedigheimer:
+  name: Robert Boedigheimer
+  image: 
+  bio: "Robert Boedigheimer works for Schwans Shared Services, LLC providing business solutions with web technologies and runs Robert Boedigheimer Consulting, LLC. Robert has been designing and developing web sites for the past 12 years including the early days of ASP and ASP.NET. He was the lead architect, designer, and developer for the schwans.com rewrite with ASP.NET, and recently implemented a large ASP.NET 2.0 project. He is a columnist for aspalliance.com, an &#34;Early Achiever&#34; MCSD for .NET with C#, an MCPD: Web with C#, and a 2nd degree black belt in Tae Kwon Do. Robert has spoken at industry conferences including the Heartland Developers Conference, Twin Cities Code Camp, Tulsa Tech Fest, Microsoft&#39;s Visual DevCon, and numerous national and international VSLive! events.&#60;h3&#62; Links&#60;/h3&#62;&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://aspadvice.com/blogs/robertb/&#34;&#62;Personal Blog&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.schwans.com&#34;&#62;Schwans&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+AaronErickson:
+  name: Aaron Erickson
+  image: 
+  bio: "Aaron Erickson is a Principal Consultant for Magenic. He is a ruthless advocate for concentrating on creating the most business value in the least amount of time when his clients entrust him to deliver a technical solution. Aaron has been delivering solutions on the Microsoft platform for over 14 years, and currently leads open source development efforts related to LINQ, including Indexes of Objects (i4o) and LINQ to Expressions (MetaLinq).&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.magenic.com&#34;&#62;Magenic&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://blog.magenic.com/blogs/aarone/default.aspx&#34;&#62;Personal Blog&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+JonStonecash:
+  name: Jon Stonecash
+  image: 
+  bio: "Jon Stonecash is a Senior Consultant at Magenic. Jon Stonecash has worked in software development for much longer than he would like to admit. In that time Jon has had the opportunity to make most of the serious software development mistakes at least once. He has programmed in over a dozen languages including several different assembly languages, Fortran, COBOL, SNOBOL, classic Visual Basic, VB.NET, and C#. He has survived the structured programming revolution and the object-oriented revolutions (having inexplicably missed out on the sexual revolution). Jon&#39;s software development activities have included the development of operating systems, scientific and engineering applications, and enterprise systems. He has worked in every phase of software development from the initial specification of requirements through to customer support. Along the way, he picked up a BS in Mathematics and an MBA. He still has hopes of finding something that he can be reasonably good at. His long term interests center about databases and the aspects of the application that handle data access and business logic. He is also interested in the tools and processes that assist the development process. Jon can be reached at jons@magenic.com.&#60;h3&#62; Links&#60;/h3&#62;&#60;ul&#62; &#60;li&#62; &#60;a href=&#34;http://blog.magenic.com/blogs/jons/default.aspx&#34;&#62; Personal Blog (&#34;Designing Out Loud in the .NET Space&#34;) &#60;/a&#62; &#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+PeterStromquist:
+  name: Peter Stromquist
+  image: 
+  bio: "Peter Stromquist is a lead software engineer for Reuters, a world leader in news and financial data. He&#39;s been in software architect and developer roles for over eight years, working in industries such as financial data, banking, manufacturing, and commercial software. Peter enjoys spending time with his family, biking, eating good food, and screwing around with .NET."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+JustinChase:
+  name: Justin Chase
+  image: 
+  bio: "Justin Chase is a Software Professional working with Magenic Technologies for the last two years. He is the lead developer on the open source project NBusiness. In his spare time he likes to play paintball, brew beer and play games. He has participated in judging a few home brew competitions with the Minnesota Home Brewers Association over the last two years including the Minnesota State Fair."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+JasonBock:
+  name: Jason Bock
+  image: 
+  bio: "Jason Bock and Mike Hodnick&#60;h3&#62; Links&#60;/h3&#62;&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.magenic.com&#34;&#62;Magenic&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.jasonbock.net&#34;&#62;Personal Blog (Jason)&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.inetium.com&#34;&#62;Inetium&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.kindohm.com&#34;&#62;Personal Blog (Mike)&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.gigamic.com/gigamic-jeux-quixo.html&#34;&#62;Quixo&#60;/a&#62;&#60;/li&#62; &#60;li&#62; &#60;a href=&#34;http://www.educationallearninggames.com/how-to-play-quixo-game-rules.asp&#34;&#62; Quixo Rules &#60;/a&#62; &#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+ScottYokiel:
+  name: Scott Yokiel
+  image: 
+  bio: "Scott Yokiel is a consultant at RBA Consulting. He has been in the IT space for 7 years with the last 4 dedicated to Microsoft .NET. He has served in many rolls in his career from BA to developer; currently he is concentrated in the asp.net space and looking to leverage 3.0. Outside of developing software Scott enjoys skiing in the winter and camping in the summer, as long as there is no wi-fi access he&#39;s a relaxing.&#60;h3&#62; Links&#60;/h3&#62;&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.RBAConsulting.com&#34;&#62;RBA Consulting&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+MichaelDunn:
+  name: Michael Dunn
+  image: 
+  bio: "Michael Dunn is a Technical Evangelist for Magenic, specializing in speech recognition. He is the author of the APress book, &#34;Pro: Microsoft Speech Server 2007&#34; and a MVP for Office Communications Server.&#60;h3&#62; Links&#62;&#60;/h3&#62;&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.magenic.com&#34;&#62;Magenic&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;mailto:michaeldu@magenic.com&#34;&#62;E-mail&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://gotspeech.net/blogs/michaeldunn/default.aspx&#34;&#62;Personal Blog&#60;/a&#62;&#60;/li&#62; &#60;li&#62; &#60;a href=&#34;http://msdn2.microsoft.com/en-us/robotics/default.aspx&#34;&#62; Microsoft Robotics Studio &#60;/a&#62; &#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://www.phidgets.com/&#34;&#62;Phidgets&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+Unknown:
+  name: Unknown
+  image: 
+  bio: ""
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+MikeBenkovich:
+  name: Mike Benkovich
+  image: 
+  bio: "Mike Benkovich is a published author, technology specialist and an MSDN developer evangelist based in Minneapolis, Minnesota. Focusing on the effective use of relational technologies for scalable, high-performance, and mission-critical applications, Mike has worked as an architect, project manager, developer, and technical writer. He speaks regularly at technical conferences and corporations."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+SteveHughes:
+  name: Steve Hughes
+  image: 
+  bio: "Steve Hughes is the Senior Data Architect at XATA Corporation, the expert in optimizing fleet operations through an on demand software service for the trucking industry. He has been working with SQL Server since version 7.0. Steve currently sets the direction for storing and using data at XATA which includes using SQL Server 2005 and its many attached services. He is also a co-author of &#34;SQL Server 2005: Applied Techniques Step by Step&#34; by MS Press and Solid Quality Mentors."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+ChrisWilliams:
+  name: Chris Williams
+  image: 
+  bio: "Chris Williams&#60;h3&#62; Links&#60;/h3&#62;&#60;ul&#62; &#60;li&#62;&#60;a href=&#34;http://www.magenic.com&#34;&#62;Magenic&#60;/a&#62;&#60;/li&#62; &#60;li&#62;&#60;a href=&#34;http://geekswithblogs.net/cwilliams&#34;&#62;Personal Blog&#60;/a&#62;&#60;/li&#62;&#60;/ul&#62;"
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3
+
+Unknown:
+  name: Unknown
+  image: 
+  bio: ""
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc3

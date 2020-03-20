@@ -1,0 +1,269 @@
+AdamNordquist:
+  name: Adam Nordquist
+  image: http://bitshuvafiles01.com/tccc/21/AdamNordquist775.jpg
+  bio: "Hi there! My name&#39;s Adam, and I&#39;m 13, but will be 14 when Code Camp rolls around. I&#39;m an 8th grader at Richfield Middle School, and I&#39;m rather funny and smart (at least I think so). I have been interested in coding and development for a while, and it&#39;s changed my life in some ways. TCCC21 is the first conference I&#39;ve ever spoken at, or at least any big-ish event."
+  speakerUrl: 
+  twitter: 
+  github: 
+  event: tccc21
+
+HaoLuo:
+  name: Hao Luo
+  image: http://bitshuvafiles01.com/tccc/21/HaoLuo779.jpg
+  bio: "I am a developer living in Chicago. I work for Microsoft as a technical evangelist. I&#39;m also getting married in July :)"
+  speakerUrl: 
+  twitter: howlowck
+  github: howlowck
+  event: tccc21
+
+DustinEwers:
+  name: Dustin Ewers
+  image: http://bitshuvafiles01.com/tccc/21/DustinEwers774.jpg
+  bio: "Dustin Ewers is a consultant at Centare, where he works to help businesses build better software. Dustin has been building software for over 10 years, specializing in Microsoft technologies. He is an active member of the technical community, speaking at user groups and conferences in and around Wisconsin.&#10;&#11;While not building the software of the future, Dustin likes a mix of low tech and high tech hobbies, including reading, cooking, hiking, and photography.&#10;&#10;&#11;He blogs about technology at https://www.dustinewers.com/."
+  speakerUrl: 
+  twitter: dustinjewers
+  github: https://github.com/DustinEwers
+  event: tccc21
+
+JohnUrberg:
+  name: John Urberg
+  image: http://bitshuvafiles01.com/tccc/21/JohnUrberg786.jpg
+  bio: "John Urberg is a Systems Architect at Lifetouch. He has over two decades experience in the software field working in all aspects of software development. When not working with stakeholders to design solutions, he&#39;s spending time with his family or playing the bass guitar."
+  speakerUrl: 
+  twitter: jurberg
+  github: https://github.com/jurberg
+  event: tccc21
+
+JWynia:
+  name: J Wynia
+  image: http://bitshuvafiles01.com/tccc/21/JWynia785.jpg
+  bio: "Software sellsword, writer and geek. Traditional folk musician. Brewer of beer, mead, and cider. MN Wild fan. Owned by basset hounds. CoFounder of 7 Interruptions"
+  speakerUrl: 
+  twitter: jwynia
+  github: jwynia
+  event: tccc21
+
+JasonBock:
+  name: Jason Bock
+  image: http://bitshuvafiles01.com/tccc/21/JasonBock738.jpg
+  bio: "Jason Bock is a Practice Lead for Magenic (http://www.magenic.com) and a Microsoft MVP (C#). He has over 20 years of experience working on a number of business applications using a diverse set of frameworks and languages such as C#, .NET, and JavaScript. He is the author of &#34;.NET Development Using the Compiler API&#34;, &#34;Metaprogramming in .NET&#34;, and &#34;Applied .NET Attributes&#34;. He has written numerous articles on software development issues and has presented at a number of conferences and user groups. He is a leader of the Twin Cities Code Camp (http://www.twincitiescodecamp.com). Jason holds a Master&#39;s degree in Electrical Engineering from Marquette University. Visit his web site at http://www.jasonbock.net."
+  speakerUrl: 
+  twitter: jasonbock
+  github: https://github.com/jasonbock
+  event: tccc21
+
+TimRayburn:
+  name: Tim Rayburn
+  image: http://bitshuvafiles01.com/tccc/21/TimRayburn782.jpg
+  bio: "Tim Rayburn is a Vice President of Consulting with Improving Enterprises, a software and project management consulting company in Dallas, TX. He is a passionate advocate of apprenticeship and mentorship in corporate environments. Since 2007 he has been awarded the Microsoft MVP in recognition of his expertise and community leadership. He is also a conference organizer, an author, and can be found speaking across the nation on agile processes, software design, and career management. He lives in the North Dallas area with his amazing wife Kate and their loyal dog Gandalf."
+  speakerUrl: 
+  twitter: trayburn
+  github: trayburn
+  event: tccc21
+
+KevinLeung:
+  name: Kevin Leung
+  image: http://bitshuvafiles01.com/tccc/21/KevinLeung773.jpg
+  bio: "Kevin Leung is a Technical Evangelist at Microsoft working with students, startups and community developers in the Chicago metro and has recently been working with the Microsoft Bot Framework (.NET and Node) and ASP.NET Core technologies in the Open-source area alongside Microsoft&#39;s engineering teams. His interests include health and safety innovation with a focus on IoT, hardware and machine learning. Kevin holds a BS in Electrical and Computer Engineering from Rutgers University School of Engineering Class of 2016. His undergraduate career includes a focus with Operating Systems, Embedded Systems, FPGAs and graduate work in VLSI."
+  speakerUrl: 
+  twitter: KSLHacks
+  github: KSLHacks
+  event: tccc21
+
+DavidWashington:
+  name: David Washington
+  image: http://bitshuvafiles01.com/tccc/21/DavidWashington778.jpg
+  bio: "David Washington is a self-proclaimed hacker. He&#8217;s Microsoft veteran of 12 years, where he&#8217;s led the developer teams that built the user experience the Windows Explorer, new form factors and the touch keyboard. He&#8217;s picked up awards for winning hacks at TechCrunch Disrupt, he&#8217;s regularly asked to speak at technical conferences around the US, and has delivered developer sessions at PDC, BUILD, MidwestJS, MobileMarch, KCDC and HDC. Besides holding multiple design and utility patents, he is continually building projects with open source, IoT, iOS, and the mobile web. David has a particular passion for working with non-technical people to enable things that have never been done with technology before. Currently a Director of developers at Microsoft, where his team works to help and enable startups, students and independent developers do more."
+  speakerUrl: 
+  twitter: dwcares
+  github: dwcares
+  event: tccc21
+
+DaveVoyles:
+  name: Dave Voyles
+  image: http://bitshuvafiles01.com/tccc/21/DaveVoyles739.jpg
+  bio: "I am a construction worker turned Technical Evangelist at Microsoft and based out of Philadelphia, PA. My biggest passion is in working with students and startups across the country, to help get their projects off the ground.&#10;&#10;My work frequently has me building projects on game consoles, the web, and high performance mobile applications.&#10;&#10;My role has me speaking in front of audiences of all ages and technical backgrounds on a weekly basis. From that experience, I&#39;ve learned to put on dynamic and engaging presentations which keep the audience involved in a dialogue, instead of being lectured to."
+  speakerUrl: 
+  twitter: DaveVoyles
+  github: DaveVoyles
+  event: tccc21
+
+JoshLonganecker:
+  name: Josh Longanecker
+  image: http://bitshuvafiles01.com/tccc/21/JoshLonganecker771.jpg
+  bio: "Josh is a self-taught developer who has worked everywhere from entry-level to team lead over the last 6 years. He is currently working on side projects and guiding local developers through Free Code Camp."
+  speakerUrl: 
+  twitter: joshlovesdesign
+  github: notarypublic
+  event: tccc21
+
+SarahSexton:
+  name: Sarah Sexton
+  image: http://bitshuvafiles01.com/tccc/21/SarahSexton795.jpg
+  bio: "Sarah Sexton is a Technical Evangelist, a dedicated advocate for technology, committed to highlighting strengths and seeing more women and minorities get involved in game development. Her responsibilities at Microsoft include public speaking, writing code, blogging and tweeting about cool services, and interacting with communities in the Midwest. She helps developers find success on Windows platforms through meetups, conferences, university workshops, and game jams. She is also a co-founder of the Voxelles: Chicago&#8217;s Women in Game Development. She focuses on Unity, Construct2, BizSpark, Visual Studio, C#, Node.js, Bootstrap, and Git. She is most passionate about diversity, inclusion, and communicating clearly."
+  speakerUrl: 
+  twitter: Saelia
+  github: SarahSexton
+  event: tccc21
+
+ScottAddie:
+  name: Scott Addie
+  image: http://bitshuvafiles01.com/tccc/21/ScottAddie770.jpg
+  bio: "Scott Addie is an avid blogger and technical evangelist of the modern web who has reached masses of developers through speaking engagements at user groups, code camps, and conferences across North America. With a strong emphasis on JavaScript and the Microsoft web technology stack, Scott holds numerous industry-recognized Microsoft development certifications and has been named a Microsoft MVP in the award category of Visual Studio and Development Technologies. As a firm believer in giving back to the community, Scott is a frequent open source contributor to high-profile GitHub projects, including ASP.NET Core, OmniSharp, Visual Studio Code, and a plethora of Visual Studio proper extensions."
+  speakerUrl: 
+  twitter: Scott_Addie
+  github: scottaddie
+  event: tccc21
+
+DanCallahan:
+  name: Dan Callahan
+  image: http://bitshuvafiles01.com/tccc/21/DanCallahan792.jpg
+  bio: "Dan Callahan is a Staff Software Engineer in Mozilla&#39;s Developer Relations team, where he focuses on emerging technologies including WebAssembly, Rust/Servo, and Firefox&#39;s new WebExtension add-on API. Dan previously worked on the Mozilla Persona project, an attempt at replacing passwords with user-friendly public key cryptography built on open web standards. Dan tweets as @callahad and swears he has every intention to blog at https://dancallahan.info."
+  speakerUrl: 
+  twitter: callahad
+  github: callahad
+  event: tccc21
+
+LanceLarsen:
+  name: Lance Larsen
+  image: http://bitshuvafiles01.com/tccc/21/LanceLarsen787.jpg
+  bio: "Lance Larsen is a Microsoft MVP, an avid Community Speaker -and- president of Madison&#39;s .NET developer community (www.MADdotNET.com), he has his Master&#8217;s Degree in Computer Science with a focus on&#160;Artificial&#160;Intelligence&#160;and&#160;Computer Cognition.&#10;&#10;Lance is a founder of HOLOSOFT&#8482; (www.HOLOSOFT.net) - AR / VR software and hardware - where&#160;the technological&#160;evolution&#160;of the&#160;Immersive Human-to-Machine Interface&#160;is being redefined.&#10;&#10;Lance is also one of the original organizers of That Conference (www.ThatConference.com) - the original Summer Camp for Geeks in the Wisconsin Dells!&#10;&#10;LanceLarsen.com - lance@lancelarsen.com"
+  speakerUrl: 
+  twitter: lancelarsen
+  github: lancelarsen
+  event: tccc21
+
+JasonLattimer:
+  name: Jason Lattimer
+  image: http://bitshuvafiles01.com/tccc/21/JasonLattimer784.jpg
+  bio: "Jason Lattimer (Greenville, WI) is a Development Manager with PowerObjects (Minneapolis, MN) and a Microsoft Business Solutions MVP. Other interests outside of creating custom solutions for Dynamics CRM/365 include Azure and developer tools. When not helping out in forums or talking to user groups he&#39;s busy writing code and tools to hopefully make other developer&#39;s lives easier."
+  speakerUrl: 
+  twitter: JLattimer
+  github: https://github.com/jlattimer
+  event: tccc21
+
+BrianHogan:
+  name: Brian Hogan
+  image: http://bitshuvafiles01.com/tccc/21/BrianHogan772.jpg
+  bio: "Brian Hogan is a web developer, editor, and author of nine technical books including &#34;Exercises for Programmers&#34; and &#34;tmux 2 - Productive Mouse-Free Developmnet.&#34; He currently works at DigitalOcean, helping developers like you learn how to put their apps into production."
+  speakerUrl: 
+  twitter: bphogan
+  github: napcs
+  event: tccc21
+
+DaveStrebel:
+  name: Dave Strebel
+  image: http://bitshuvafiles01.com/tccc/21/DaveStrebel790.jpg
+  bio: "Dave Strebel currently serves as Cloud Technical Specialist for Microsoft, with a long-term focus on distributed system design and cloud computing technologies. Dave brings over 15 years of hands-on experience in the architecture of distributed and virtualized systems. On the side, he is the organizer of the Minnesota Cloud Foundry and Docker Meetups."
+  speakerUrl: 
+  twitter: dave_strebel
+  github: http://www.github.com/dstrebel
+  event: tccc21
+
+KeithVoels:
+  name: Keith Voels
+  image: http://bitshuvafiles01.com/tccc/21/KeithVoels783.jpg
+  bio: "I&#39;ve been a .NET Developer for 15 years. Right now I am an application architect at Aon. My department develops internal line of business applications using Microsoft technologies. I am in charge of the shared services framework with a focus on bringing in new technologies and establishing new frameworks and patterns."
+  speakerUrl: 
+  twitter: 
+  github: keithdv
+  event: tccc21
+
+KristinaDurivage:
+  name: Kristina Durivage
+  image: http://bitshuvafiles01.com/tccc/21/KristinaDurivage791.jpg
+  bio: "Kristina Durivage is a software engineer by day and a hardware hacker by night."
+  speakerUrl: 
+  twitter: gelicia
+  github: gelicia
+  event: tccc21
+
+JenSimon:
+  name: Jen Simon
+  image: http://bitshuvafiles01.com/tccc/21/JenSimon737.jpg
+  bio: "Jennifer has been in sales for over 20 years, she focuses on partnering with clients to develop and maintain relationships. Jennifer takes care of her clients by listening to business needs, matching the correct consultant/team and continually works on creating deep partner relationships. She also has a passion for technology and continually wants to learn more."
+  speakerUrl: 
+  twitter: jenniferlsimon
+  github: 
+  event: tccc21
+
+IqbalKhan:
+  name: Iqbal Khan
+  image: http://bitshuvafiles01.com/tccc/21/IqbalKhan781.jpg
+  bio: "Iqbal is Alachisoft&#8217;s President and Technology Evangelist. His Master&#8217;s of Computer Science from Indiana University, 25+ years of software architecture, design and development, plus deep business experience make him a great resource. He speaks frequently at .NET events including DevWeek London, TechDays France and VS Live! shows along with local .NET Code Camps and Meetups. He has written for MSDN magazine, CodeProject and Visual Studio Magazine."
+  speakerUrl: 
+  twitter: ncache
+  github: 
+  event: tccc21
+
+JimWooley:
+  name: Jim Wooley
+  image: http://bitshuvafiles01.com/tccc/21/JimWooley769.jpg
+  bio: "By day, Jim Wooley is a Solution Architect for Slalom Consulting, In his free time, Jim is a frequent speaker, MVP, and author of &#34;LINQ in Action&#34;. He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since its announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including MIX, VS Live, CodeMash, KCDC, That Conference, DevWeek, and CodeStock."
+  speakerUrl: 
+  twitter: jimwooley
+  github: jwooley
+  event: tccc21
+
+JeremyWagner:
+  name: Jeremy Wagner
+  image: http://bitshuvafiles01.com/tccc/21/JeremyWagner789.jpg
+  bio: "Jeremy Wagner is a performance-obsessed front end developer, author and speaker living and working in the frozen wastes of Saint Paul, Minnesota. He is also the author of the Manning Publications book Web Performance in Action, a web developer&#39;s companion guide for creating fast websites."
+  speakerUrl: 
+  twitter: malchata
+  github: malchata
+  event: tccc21
+
+ChrisJohnson:
+  name: Chris Johnson
+  image: http://bitshuvafiles01.com/tccc/21/ChrisJohnson776.jpg
+  bio: "Chris Johnson is a developer, author, teacher and technology consultant living outside of Madison, Wisconsin. He has been developing application professionally since 2003 when he got his first paycheck as a freelancer. He believes that software development is a craft and an art form, not a science. He enjoys crafting clean code and showing what he has accomplished no matter the tools and materials. When he&#39;s not developing he enjoys tinkering with technology and mechanical things, photography, video games, playing hockey along with spending time with his wife, their two daughters and their two dogs."
+  speakerUrl: 
+  twitter: johnsonch
+  github: johnsonch
+  event: tccc21
+
+KenHoward:
+  name: Ken Howard
+  image: http://bitshuvafiles01.com/tccc/21/KenHoward793.jpg
+  bio: "Ken is President of Improving Houston, and has been involved in most aspects of software development, training and mentoring for over 30 years. Ken&#8217;s specialty is helping companies increase productivity through efficient practices and pragmatic organizational dynamics, which was the topic of the Addison-Wesley book that he co-authored titled Individuals and Interactions: An Agile Guide."
+  speakerUrl: 
+  twitter: kenhoward01
+  github: 
+  event: tccc21
+
+DavidBerry:
+  name: David Berry
+  image: http://bitshuvafiles01.com/tccc/21/DavidBerry777.jpg
+  bio: "I&#39;m a Solutions Architect with over 20 years of experience in building software systems. I started out as a Java developer and then switched to .NET in 2003. I&#39;ve also done significant work with SQL Server and Oracle. I&#39;m a Pluralsight author and I have presented talks at That Conference, Iowa Code Camp, Twin Cities Code Camp, Fox Valley .NET Users Group and the Cedar Rapids .NET Users Group.&#10;&#10;In addition to my Pluralsight coursework and speaking experience, I&#39;ve done lots of work in helping to mentor others in how to design and build better software systems. I try to bring a pragmatic approach to everything I do, making sure the software I build is simple, understandable and balances responsibilities between different components of the system. When speaking or teaching, I emphasize real world scenarios encountered by developers every day and show how to solve them so you can be more effective at what you do."
+  speakerUrl: 
+  twitter: DavidCBerry13
+  github: 
+  event: tccc21
+
+DavidGiard:
+  name: David Giard
+  image: http://bitshuvafiles01.com/tccc/21/DavidGiard780.jpg
+  bio: "David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over 2 decades. Currently, David helps people build solutions in his role as a Microsoft Technical Evangelist. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups around the world; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV show Technology and Friends. He is the co-author of the Wrox book Real World .NET, C#, and Silverlight. You can read his latest thoughts at www.DavidGiard.com. His hobbies include video, photography, sports, and embarrassing his sons."
+  speakerUrl: 
+  twitter: davidgiard
+  github: https://github.com/davidGiard
+  event: tccc21
+
+ScottDavis:
+  name: Scott Davis
+  image: http://bitshuvafiles01.com/tccc/21/ScottDavis788.jpg
+  bio: "Scott is the CEO and lead cloud + mobile developer for QONQR, an indie mobile gaming company in Minneapolis. QONQR (pronounced Conquer) is the GeoSocial game of World Domination. Players battle to capture and control their home towns and surrounding cities. Today QONQR players have captured over a million towns and cities in every country in the world. QONQR players now control over 35% of the populated earth. Prior to QONQR, Scott spent over a decade as a software consultant, business analyst, and project manager, including time as a district manager overseeing 50 direct reports. Scott holds an MBA with an emphasis in Venture management and is a former adjunct professor in the Information Technology Management master&#39;s program at St Mary&#39;s University."
+  speakerUrl: 
+  twitter: scottkdavis
+  github: 
+  event: tccc21
+
+AnneBougie:
+  name: Anne Bougie
+  image: http://bitshuvafiles01.com/tccc/21/AnneBougie794.jpg
+  bio: "Anne Bougie is a Senior Software Developer at Concurrency, Inc. Anne has been in software development since the mid-90s in many different roles including developer, architect, business analyst, tester, project manager and teacher. She has expertise in a variety of languages and platforms and enjoys speaking as an opportunity to break down complex technical topics to help other understand them. She has been developing for the cloud since 2009. When she is not coding, she is either maintaining her beehives or playing with Arduino projects for beekeeping."
+  speakerUrl: 
+  twitter: bougiefever
+  github: https://github.com/Bougiefever
+  event: tccc21

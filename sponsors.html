@@ -1,0 +1,42 @@
+---
+layout: default
+title: Sponsors
+---
+
+<h1>Sponsors of Twin Cities Code Camp</h1>
+
+<p>
+  A huge THANK YOU to our sponsors; these are the excellent companies who enable
+  us to put on Code Camp. Please check out their websites and utilize their
+  services as a way to thank them for their support.
+</p>
+
+<p>
+  Interested in becoming a sponsor? It's easy. Head over to sponsorship details.
+</p>
+
+{% assign currentSponsors = site.data.sponsors[site.currentEvent] %} {% assign
+diamondSponsors = currentSponsors | where: "level", "Diamond" %} {% assign
+platinumSponsors = currentSponsors | where: "level", "Platinum" %} {% assign
+silverSponsors = currentSponsors | where: "level", "Silver" %} {% assign
+goldSponsors = currentSponsors | where: "level", "Gold" %}
+
+<h2>Diamond</h2>
+
+{% for sponsor in diamondSponsors %} {% include sponsor.html sponsor=sponsor %}
+{% endfor %}
+
+<h2>Platinum</h2>
+
+{% for sponsor in platinumSponsors %} {% include sponsor.html sponsor=sponsor %}
+{% endfor %}
+
+<h2>Gold</h2>
+
+{% for sponsor in goldSponsors %} {% include sponsor.html sponsor=sponsor %} {%
+endfor %}
+
+<h2>Silver</h2>
+
+{% for sponsor in silverSponsors %} {% include sponsor.html sponsor=sponsor %}
+{% endfor %}
