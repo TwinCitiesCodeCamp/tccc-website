@@ -1,4 +1,4 @@
-{% assign speakers = site.speakers | where:"event",site.currentEvent %} {%
+{% assign speakers = site.speakers | where:"event",site.currentEvent | reverse %} {%
 assign talks = site.talks | where: "event",site.currentEvent %} {% assign tags =
 site.talks | map: 'tags' | join: ',' | split: ',' | uniq %}
 
