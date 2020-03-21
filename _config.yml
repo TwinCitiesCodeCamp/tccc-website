@@ -31,7 +31,7 @@ github_username: jekyll
 
 currentEvent: tccc23
 
-collections_dir: events-content
+collections_dir: _collections
 
 collections:
   events:

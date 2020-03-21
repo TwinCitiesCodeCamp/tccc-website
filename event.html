@@ -1,0 +1,43 @@
+---
+layout: default
+title: Event
+---
+
+{% assign currentEvent = site.events | where: "event",site.currentEvent | first
+%} {% if currentEvent == null %}
+<p>No event is currently scheduled.</p>
+{% else %}
+
+<div class="current-event-details">
+  <p class="lead">
+    Code Camp takes place {{ currentEvent.eventDate | date: "%a, %b %d, %Y" }}
+    at {{ currentEvent.locationName }}.
+  </p>
+
+  <p>
+    <h3><a href="https://google.com/maps/search/{{ currentEvent.address }}"
+      >{{ currentEvent.address }}</a
+    ></h3>
+  </p>
+
+  <p class="lead">Coming to the event? Please <a href="{{ currentEvent.registerUrl}} ">register</a>!</p>
+
+  <p>
+    <img
+      src="https://twincitiescodecamp.com/Content/Images/Location/normandale-entrance.jpg"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://twincitiescodecamp.com/Content/Images/Location/normandale-first-floor.jpg"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://twincitiescodecamp.com/Content/Images/Location/normandale-second-floor.jpg"
+    />
+  </p>
+</div>
+{% endif %}
