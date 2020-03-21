@@ -5,5 +5,7 @@ speaker: JonStonecash
 layout: talk
 room: 
 time: 
+tags: []
 ---
+
 <p>    The world of computing is becoming more and more parallel. A lot of the computing    technology that we use is an attempt to hide the chaos of mouse and keyboard events,    messages, and other asynchronous events from our programs. The approaches used to    date have limited succeeded in part by limiting what can be done with parallel processes.    The Reactive Extensions in .NET allow the program logic to handle external events    as first class citizens. Programs can manipulate events using LINQ expressions.</p><p>    Take the example of example of handling a drag-and-drop operation from a source    region of the screen to target region. Without the Reactive Extension logic, this    might take dozens of lines of code to keep track of the state of operation and to    invoke the drop logic at the right time. With Reactive Extensions, you could handle    this in as little as one line of code.</p><p>    The Reactive Extensions are more than a shorthand for multiple lines of code; they    are a different mindset. They provide a way to "collect" events and route them to    the appropriate logic in a very simple way. The final bonus is that the Reactive    Extensions provide a way to de-couple the event source from the event consumer in    such a way that unit testing event handling is very simple and understandable.</p>

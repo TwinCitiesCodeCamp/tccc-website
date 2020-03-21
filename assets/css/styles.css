@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.42857143;
   color: #ebebeb;
@@ -16,7 +16,7 @@ h6 {
 }
 
 header {
-  background-image: url('../images/wide_sepia.jpg');
+  background-image: url("../images/wide_sepia.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0 4px 20px 0 black;
@@ -42,7 +42,7 @@ header .nav-item {
   -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(rgba(255, 255, 255, 0.2)));
 }
 header {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
 }
 
 header h1 {
@@ -54,7 +54,7 @@ header h2 {
 }
 
 .home-text {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
 }
 
 .home-text h1 {
@@ -128,4 +128,14 @@ a:visited {
   background-color: #3d5871;
   padding: 1rem;
   box-shadow: 2px 2px 5px 0 #19242f;
+}
+
+.tag {
+  color: #fff;
+  display: inline-block;
+  padding: 8px 12px 8px 12px;
+  background-color: rgba(255, 255, 255, 0.3);
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
 }

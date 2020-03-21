@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% assign speaker = site.speakers | where: "event",page.event | where: "speakerId",page.speaker | first%}
+{% assign speaker = site.speakers | where: "event",page.event | where:
+"speakerId",page.speaker | first%}
 
 <div class="media">
   <span class="speaker-image-wrapper">
@@ -19,6 +20,11 @@ layout: default
     <h2 class="mt-0">
       {{ page.title }}
     </h2>
+    <h6>
+      {% for tag in page.tags %}
+      <span class="tag"> <i class="fa fa-tag"></i> {{ tag }} </span>
+      {% endfor %}
+    </h6>
     <h5>
       by {{ speaker.name }} {% if speaker.twitter != null%}
       <a href="//twitter.com/{{ speaker.twitter}}"

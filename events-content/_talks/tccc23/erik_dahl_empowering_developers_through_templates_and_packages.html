@@ -5,5 +5,7 @@ speaker: ErikDahl
 layout: talk
 room: P0806 A&B
 time: 3:00 p.m.
+tags: [".net", "templating", "tooling", "asp.net core"]
 ---
+
 Many teams are trying to peel parts of their monolithic applications into smaller chunks that can stand on their own and even be deployed independently of other applications (microservices, anyone??).  This talk will describe the benefit that creating starters, templates, and packages can have on teams doing this kind of work -- or even simply starting more than one new application.  The concrete examples will be shown using .NET Core, but these concepts can apply to any language and team that is trying to break down  monoliths.  Packages and templates can encapsulate your opinions and make them sharable and updatable much better than saying "copy / paste these pieces from another project".  Demonstrated in this talk will be an ASP.NET Core Web API template that includes bearer token authentication, error handling / logging, and Swagger, as well as an ASP.NET Core Web MVC project that includes standard npm packages, OpenId/OAuth2 setup for authentication, and logging.  We'll spend most of our time looking at the mechanics of the templates - the templates themselves, publishing as Nuget packages, and using the CLI to instantiate projects.
