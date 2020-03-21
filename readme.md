@@ -175,9 +175,23 @@ Tags are used to display tag stats on the main page.
 Let's say that you need to create an event for the
 100th code camp event. This event will be identified as `tccc100` .
 
-1. Create a new event file: `_collections/_events/tccc100.html` .
+1. Create a new event file: `_collections/_events/tccc100.html` :
 
-2. In the new event file, set the `event` attribute in the YAML front-matter equal to `tccc100` , and fill in the rest of the metadata (reference the Event file information above).
+Make sure to set the `event` attribute in the YAML front-matter equal to `tccc100` , and fill in the rest of the metadata (reference the Event file information above).
+
+``` 
+---
+layout: event
+event: tccc100
+title: TCCC 100
+eventDate: 2051-04-17
+address: "199 W Kellogg Blvd, St Paul, MN 55102"
+locationName: "XCel Energy Center"
+number: 100
+registerUrl: http://tccc100.tccc.com/register 
+seasonYear: "Spring 2051"
+---
+```
 
 2. Create a new speakers, sponsors, and talks subfolders: 
 
@@ -185,10 +199,7 @@ Let's say that you need to create an event for the
 `_collections/_sponsors/tccc100/` <br/>
 `_collections/_talks/tccc100/` 
 
-3. Create individual speakers, sponsors, and talks files in their
-
-respective subfolders. Make sure to set the `event` attribute in the
-YAML front-matter equal to `tccc100` 
+3. Create individual speakers, sponsors, and talks files in their respective subfolders. Make sure to set the `event` attribute in the YAML front-matter equal to `tccc100` 
 
 4. When creating related speaker and talk files, make sure to link them by using the same `speakerId` attribute value in the two files.
 
