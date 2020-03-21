@@ -193,7 +193,7 @@ seasonYear: "Spring 2051"
 ---
 ```
 
-2. Create a new speakers, sponsors, and talks subfolders: 
+2. Create new speakers, sponsors, and talks subfolders: 
 
 `_collections/_speakers/tccc100/` <br/>
 `_collections/_sponsors/tccc100/` <br/>
