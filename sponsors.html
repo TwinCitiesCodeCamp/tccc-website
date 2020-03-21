@@ -15,10 +15,10 @@ title: Sponsors
   Interested in becoming a sponsor? It's easy. Head over to sponsorship details.
 </p>
 
-{% assign currentSponsors = site.data.sponsors[site.currentEvent] %} {% assign
-diamondSponsors = currentSponsors | where: "level", "Diamond" %} {% assign
-platinumSponsors = currentSponsors | where: "level", "Platinum" %} {% assign
-silverSponsors = currentSponsors | where: "level", "Silver" %} {% assign
+{% assign currentSponsors = site.sponsors | where: "event",site.currentEvent %}
+{% assign diamondSponsors = currentSponsors | where: "level", "Diamond" %} {%
+assign platinumSponsors = currentSponsors | where: "level", "Platinum" %} {%
+assign silverSponsors = currentSponsors | where: "level", "Silver" %} {% assign
 goldSponsors = currentSponsors | where: "level", "Gold" %}
 
 <h2>Diamond</h2>
