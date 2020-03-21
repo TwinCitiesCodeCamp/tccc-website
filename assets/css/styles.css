@@ -117,8 +117,15 @@ a:visited {
   margin-right: 1rem;
 }
 
+.speaker-image-wrapper-stats {
+  width: 2.5rem;
+  margin-right: 1rem;
+  display: inline-block;
+}
+
 .speaker-image-wrapper img,
-.speaker-image-wrapper-small img {
+.speaker-image-wrapper-small img,
+.speaker-image-wrapper-stats img {
   border-radius: 50%;
   width: 100%;
   box-shadow: 1px 1px 15px 0 #222;
@@ -142,4 +149,12 @@ a:visited {
 
 .current-event-details img {
   width: 100%;
+}
+
+.stat-talk {
+  background-color: #4e5d6c;
+}
+
+.stat-talk a {
+  color: #fff;
 }
