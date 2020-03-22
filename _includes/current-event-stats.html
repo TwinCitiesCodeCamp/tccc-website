@@ -38,7 +38,7 @@ site.talks | map: 'tags' | join: ',' | split: ',' | uniq %}
           {% assign shuffledTalks = talks | shuffle %}
         {% for talk in shuffledTalks limit:6 %}
         {% assign speaker = site.speakers | where: "event",site.currentEvent | where:
-        "speakerId",talk.speaker | first %}
+        "speakerId",talk.speakerId | first %}
         
           <li>
             <div class="media position-relative mb-3 p-1 stat-talk">
