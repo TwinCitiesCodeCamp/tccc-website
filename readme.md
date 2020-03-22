@@ -37,6 +37,13 @@ Build and run the site with Jekyll:
 bundle exec jekyll serve
 ```
 
+If you want to try Jekyll's experimental "incremental" builds and reduce 
+site build time, you can use the `--incremental` flag:
+
+``` 
+bundle exec jekyll serve --incremental
+```
+
 # Site Structure
 
 All data about events, talks, speakers, and sponsors is store
