@@ -14,7 +14,7 @@
       <h5 class="card-title text-center">{{ speakers | size }} Speakers</h5>
       <p class="card-text">
         {% for speaker in speakers %}
-        <img src="{{ speaker.image }}" class="m-0" style="width: 60px" />
+        <img src="{{ speaker.image | relative_url }}" class="m-0" style="width: 60px" />
         {% endfor %}
       </p>
     </div>
@@ -49,7 +49,7 @@
             <div class="media position-relative mb-3 p-1 stat-talk">
               <span class="speaker-image-wrapper-stats">
                 {% if speaker.image != null %}
-                <img src="{{ speaker.image }}" alt="{{ speaker.name }}" />
+                <img src="{{ speaker.image | relative_url }}" alt="{{ speaker.name }}" />
                 {% else %}
                 <img
                 src="{{ '/assets/images/unknown-speaker.jpg' | relative_url }}"
