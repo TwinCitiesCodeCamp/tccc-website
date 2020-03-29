@@ -13,7 +13,10 @@ layout: default
     <li class="media mb-5 talk-unit">
       <span class="speaker-image-wrapper">
         {% if speaker.image != null %}
-        <img src="{{ speaker.image }}" alt="{{ speaker.name }}" />
+        <img
+          src="{{ speaker.image | relative_url }}"
+          alt="{{ speaker.name }}"
+        />
         {% else %}
         <img
           src="{{ '/assets/images/unknown-speaker.jpg' | relative_url }}"
