@@ -22,7 +22,7 @@ title: Twin Cities Code Camp
 email: tccodecamp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Twin Cities Code Camp
-baseurl: "/tccc-prototype" # the subpath of your site, e.g. /blog
+baseurl: "/tccc-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tccodecamp
 github_username: twincitiescodecamp
