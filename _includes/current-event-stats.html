@@ -2,9 +2,11 @@
 
 {% assign talks = site.talks | where: "event",site.currentEvent %} 
 
-{% assign tags = site.talks | map: 'tags' | join: ',' | split: ',' | uniq %}
+{% assign tags = site.talks | where: "event",site.currentEvent | map: 'tags' | join: ',' | split: ',' | uniq %}
 
 {% assign latestEvent = site.events | where: "event", site.currentEvent | first %}
+
+{% if currentEvent != null %}
 
 
 <div class="card-group">
@@ -71,3 +73,5 @@
     </div>
   </div>
 </div>
+
+{% endif %}

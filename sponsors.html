@@ -6,14 +6,27 @@ title: Sponsors
 <h1>Sponsors of Twin Cities Code Camp</h1>
 
 <p>
+  Interested in becoming a sponsor? It's easy. Head over to 
+  <a href="sponsorship-details">sponsorship details</a>.
+</p>
+
+
+{% assign currentEvent = site.events | where: "event",site.currentEvent | first
+%} 
+
+{% if currentEvent == null %}
+
+{% include no-event.html %}
+
+{% else %}
+
+
+<p>
   A huge THANK YOU to our sponsors; these are the excellent companies who enable
   us to put on Code Camp. Please check out their websites and utilize their
   services as a way to thank them for their support.
 </p>
 
-<p>
-  Interested in becoming a sponsor? It's easy. Head over to sponsorship details.
-</p>
 
 {% assign currentSponsors = site.sponsors | where: "event",site.currentEvent %}
 {% assign diamondSponsors = currentSponsors | where: "level", "Diamond" %} {%
@@ -40,3 +53,5 @@ endfor %}
 
 {% for sponsor in silverSponsors %} {% include sponsor.html sponsor=sponsor %}
 {% endfor %}
+
+{% endif %}

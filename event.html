@@ -4,8 +4,10 @@ title: Event
 ---
 
 {% assign currentEvent = site.events | where: "event",site.currentEvent | first
-%} {% if currentEvent == null %}
-<p>No event is currently scheduled.</p>
+%} 
+
+{% if currentEvent == null %}
+{% include no-event.html %}
 {% else %}
 
 <div class="current-event-details">
