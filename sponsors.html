@@ -14,7 +14,7 @@ title: Sponsors
 {% assign currentEvent = site.events | where: "event",site.currentEvent | first
 %} 
 
-{% if currentEvent == null %}
+{% if site.currentEvent == null %}
 
 {% include no-event.html %}
 
