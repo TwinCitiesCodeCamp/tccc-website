@@ -1,0 +1,46 @@
+---
+layout: default
+permalink: "event/index.html"
+renderData:
+  title: "Event"
+---
+
+{% if currentEvent == null %}
+{% include no-event %}
+
+{% else %}
+
+<div class="current-event-details">
+  <p class="lead">
+    Code Camp takes place {{ currentEvent.dateTime | date: "%a, %b %d, %Y" }}
+    at {{ currentEvent.locationFriendlyName }}.
+  </p>
+
+  <p>
+    <h3><a href="https://google.com/maps/search/{{ currentEvent.address }}"
+      >{{ currentEvent.address }}</a
+    ></h3>
+  </p>
+
+  <p class="lead">Coming to the event? Please <a href="{{ currentEvent.registerUrl}} ">register</a>!</p>
+
+  <p>
+    <img
+      src="https://www.normandale.edu/Images/maps/big-map750x611.jpg"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://www.normandale.edu/Images/maps/Partnership%20Center_Grnd%20Flr.png"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://www.normandale.edu/Images/maps/Partnership%20Center_1st%20Flr.png"
+    />
+  </p>
+</div>
+
+{% endif %}

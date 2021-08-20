@@ -1,0 +1,25 @@
+---
+layout: default
+renderData:
+  title: Sponsors
+---
+
+<h1>Sponsors of Twin Cities Code Camp</h1>
+
+{% if currentEvent == null %}
+  {% include no-event %}
+{% else %}
+
+<p>
+  Interested in becoming a sponsor? It's easy. Head over to 
+  <a href="/sponsorship-details">sponsorship details</a>.
+</p>
+
+{% include sponsor-list, sponsorList: currentSponsors.diamond, level: 'Diamond' %}
+{% include sponsor-list, sponsorList: currentSponsors.platinum, level: 'Platinum' %}
+{% include sponsor-list, sponsorList: currentSponsors.gold, level: 'Gold' %}
+{% include sponsor-list, sponsorList: currentSponsors.silver, level: 'Silver' %}
+{% include sponsor-list, sponsorList: currentSponsors.bronze, level: 'Bronze' %}
+
+
+{% endif %}

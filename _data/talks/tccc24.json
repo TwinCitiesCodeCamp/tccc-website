@@ -1,0 +1,879 @@
+[
+  {
+    "eventId": "tccc24",
+    "title": "Azure Kinect + Azure IoT AI Camera",
+    "abstract": "Azure Kinect DK and the Azure IoT AI Camera are two of the most advanced Computer Vision devices available for developers today!\n\nCombining advanced depth sensor, spatial microphone array, video cameras with sophisticated computer vision and speech AI models, the Kinect is gives us an unparalleled tool for building cutting edge computer vision applications.\n\nWe'll specifically be diving into the Kinect's Body Tracking SDK - allowing for amazing kinematic and movement tracking. Think of the possibilities in Sports, Health and the Life Sciences fields -- as well as Games and other amazing user experiences!\n\nJoin Lance Larsen (Microsoft MVP) in looking how to start building your next computer vision application today!",
+    "author": "Lance Larsen",
+    "authorBio": "Lance Larsen is a Microsoft MVP, a founder and the Chief Visionary Officer (CVO) of Holosoft™ (Holosoft.com) as well avid Community Speaker!\n\nAt Holosoft™, we’ve thrown ourselves into the deep end of Mixed Reality, Augmented Reality and Virtual Reality (MR/AR/VR). Our mission is to evangelize what we’ve learned about available technologies, emerging technologies and the techniques we use to write beautiful applications.\n\n@holosoftnet | Holosoft.com\n@lancelarsen | LanceLarsen.com",
+    "authorEmail": "lance@lancelarsen.com",
+    "authorUrl": null,
+    "authorTwitter": "lancelarsen",
+    "authorGitHub": "lancelarsen",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://i0.wp.com/lancelarsen.com/wp-content/uploads/2017/02/LanceMVP.png",
+    "tags": [
+      "azure",
+      "cloud"
+    ],
+    "submissionDate": "2020-01-09T21:03:45.8068671Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/1020",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:56:00.1057580Z",
+      "Raven-Last-Modified": "2020-02-23T15:56:00.1057580",
+      "@etag": "01000000-0001-231C-0000-000000000001",
+      "SerializedSizeOnDisk": 1868
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Rescuing your GIT Repositories using Reset, Revert, Rebase, and Cherry-Picking",
+    "abstract": "I just pushed a commit to remote master! \nWe merged two features to master but only one of them needs to go to production ASAP! \nI messed up my branch on rebase or something, and I can't figure out what happened, but I think I lost my work, can you help?  \nIn this session, we'll discuss the GIT commands of Reset, Revert, Rebase, and Cherry-Picking to perform surgery on our repository when the stuff hits the fan.",
+    "author": "Brian Gorman",
+    "authorBio": "am an experienced .Net developer with MCSA: Web App Certification, MCSD: App Builder, and MCT certifications. I have a masters of science degree in computer information systems, and a bachelor of science degree in computer science. I also have many years of experience instructing college courses online in SQL databases, C#/VB .Net programming, Java programming, and Microsoft Office. I have created many online technical training courses that can be found on various platforms like O'Reilly/InfiniteSkills, Udemy, and others. I also run MajorGuidanceSolutions, a training and consulting company ,while working fulltime as a .Net developer.",
+    "authorEmail": "blgorman@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "blgorman",
+    "authorGitHub": "blgorman",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://sessionize.com/image?f=48ffdbd4ac01bd29bd7581da7472b20c,200,200,1,0,c9-6be8-40d0-b588-674d3b783472.e0f54947-4610-41f2-aa75-92b40941bb47.jpg",
+    "tags": [
+      "git",
+      "git-bash",
+      "github",
+      "git reset"
+    ],
+    "submissionDate": "2020-01-17T19:56:42.0438856Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3193",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:56:24.3746093Z",
+      "Raven-Last-Modified": "2020-02-23T15:56:24.3746093",
+      "@etag": "01000000-0001-231C-0000-000000000004",
+      "SerializedSizeOnDisk": 1829
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Dungeons & Dragons, for Developers",
+    "abstract": "In this session,  I will teach the basics of the world's oldest and most popular role-playing game: Dungeons & Dragons.\n\nI will cover basic rules, dice mechanics, character creation, and running a game. Will also provide resources and insights based on my > 40 years of experience.",
+    "author": "Chris G Williams",
+    "authorBio": "Techie Dev guy, loves hardware, software and hashbrowns. When not 3D printing miniatures, I write a bit of code here and there.",
+    "authorEmail": "chrisgwilliams@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "Chrisgwilliams",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "",
+    "tags": [
+      "gaming",
+      "d&d",
+      "fun"
+    ],
+    "submissionDate": "2020-01-16T16:15:55.6635272Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3129",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:56:27.4614127Z",
+      "Raven-Last-Modified": "2020-02-23T15:56:27.4614127",
+      "@etag": "01000000-0001-231C-0000-000000000005",
+      "SerializedSizeOnDisk": 986
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Pushing AI to the Client Using WebAssembly and Blazor",
+    "abstract": "WebAssembly has opened up a world of new possibilities for building Artificial Intelligences. We now have the tools we need to push sophisticated AI models to the client for execution in any environment. In this talk we will take a deep dive into building AI models for use on the client side. We create AI models using open-source tooling and use Blazor to operationalize those models into WebAssembly running in the client's browser.",
+    "author": "Barry S. Stahl",
+    "authorBio": "Barry (he/his) is a Software Engineer who has been creating business solutions for enterprise customers for more than 30 years. Barry is also an Election Integrity Activist, baseball and hockey fan, husband of one genius and father of another, and a 30+ year resident of Phoenix Arizona USA. When Barry is not traveling around the world to speak at Conferences, Code Camps and User Groups or to participate in GiveCamps, he spends his days as a Solution Architect for Carvana and his nights thinking about the next AZGiveCamp, an annual event where software developers come together to build websites and apps for some great non-profit organizations.",
+    "authorEmail": "barry@bsstahl.com",
+    "authorUrl": null,
+    "authorTwitter": "@bsstahl",
+    "authorGitHub": "bsstahl",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "http://www.cognitiveinheritance.com/pics/Headshot_250x250.png",
+    "tags": [
+      "ai",
+      "ml",
+      "blazor",
+      "wasm"
+    ],
+    "submissionDate": "2020-01-09T23:32:15.6408002Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3002",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:56:36.0591426Z",
+      "Raven-Last-Modified": "2020-02-23T15:56:36.0591426",
+      "@etag": "01000000-0001-231C-0000-000000000007",
+      "SerializedSizeOnDisk": 1731
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "#RemoteLife",
+    "abstract": "In this talk, Mike will present tips and techniques that he has learned over several years working remotely. We’ll cover what you can do when you have issues staying motivated because you are isolated physically from the rest of your team. We’ll review a few different kinds of communication breakdowns and what you can do if you feel like a second rate employee of the company. We’ll also look at ways to foster a good remote relationship with your manager and co-workers.\n\nWorking remotely is culturally becoming a viable option more and more as time passes, increasing by 140% since 2005. There are great opportunities available to people that may feel stuck or restricted geographically. This presentation is aimed at giving you a headstart or boost in your remote life.",
+    "author": "Mike Cole",
+    "authorBio": "Mike Cole is a developer currently focusing on .NET working remotely from Cedar Falls, IA. He's been around the proverbial block in the IT profession and has a wide array of experience in many fields. He is incredibly lazy and is always looking for easier and more streamlined ways to solve everyday problems. His passions in life include his family, sarcastic memes, the outdoors, and always having the last word.",
+    "authorEmail": "cole.mike@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "colemike",
+    "authorGitHub": "mikecole",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://colemike.com/headshot.jpg",
+    "tags": [
+      "career development",
+      "remote work"
+    ],
+    "submissionDate": "2020-01-10T01:21:40.3015689Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3004",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:56:48.8165708Z",
+      "Raven-Last-Modified": "2020-02-23T15:56:48.8165708",
+      "@etag": "01000000-0001-231C-0000-000000000009",
+      "SerializedSizeOnDisk": 1781
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Big Numbers",
+    "abstract": "Numbers. How are they stored in computer programs? How big can they get? What the largest number ever calculated in a program? What is a \"big\" number, anyway? In this session, I'll cover numbers galore, especially as it pertains to development. We'll talk about floating-point, arbitrary-sized integers, fast algorithms, and some truly monstrous numbers in mathematics that we have no hope of ever expressing in code.",
+    "author": "Jason Bock",
+    "authorBio": "Jason Bock is a Practice Lead for Magenic (http://www.magenic.com) and a Microsoft MVP (C#). He has over 20 years of experience working on a number of business applications using a diverse set of frameworks and languages such as C#, .NET, and JavaScript. He is the author of \".NET Development Using the Compiler API\", \"Metaprogramming in .NET\", and \"Applied .NET Attributes\". He has written numerous articles on software development issues and has presented at a number of conferences and user groups. He is a leader of the Twin Cities Code Camp (http://www.twincitiescodecamp.com). Jason holds a Master's degree in Electrical Engineering from Marquette University. Visit his web site at http://www.jasonbock.net.",
+    "authorEmail": "jasonb@magenic.com",
+    "authorUrl": null,
+    "authorTwitter": "jasonbock",
+    "authorGitHub": "jasonbock",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "",
+    "tags": [],
+    "submissionDate": "2020-01-10T17:52:43.2901012Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3040",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:57:09.2357382Z",
+      "Raven-Last-Modified": "2020-02-23T15:57:09.2357382",
+      "@etag": "01000000-0001-231C-0000-00000000000C",
+      "SerializedSizeOnDisk": 1657
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Innovating with IoT Devices (Yes, TESLA demo included!)",
+    "abstract": "Walk a trail of ideation to create innovative solutions involving IoT devices. Experience how to electronically interface with Raspberry pi to control interactive devices via web interfaces. Transform individually addressable LED strips from simple room lighting into interactive experiences. Coming out of this session, you will be familar with Python programming basics and micro-frameworks using flask for web control,  electronically interfacing with the Raspberry Pi GPIO pins.  BONUS: Watch me tap into aTesla JSON API to control my car as witnessed from the room with a camera aimed at the parking lot.  If you are excited to embrace the future of smart technology, and need some interactive motivation, than this session is for you!",
+    "author": "Mike Lockett",
+    "authorBio": "I am a consultant with Daugherty Business Solutions with an Electro-Mechanical engineering degree from Michigan Technological University and a Bachelors of Science in Management. My career spans 20 years in the Information technology field delivering advanced solutions to customers, including serving as a Technical Account Manager with Microsoft Corporation and my current role managing Global IT projects with Daugherty and Cargill. My passion is solving advanced problems using intelligent technology and innovation solutions. I live in Lakeville, MN with my wife and three children and my pastimes include running, developing, innovating, music, and spending time with my family.",
+    "authorEmail": "michael.lockett@daugherty.com",
+    "authorUrl": null,
+    "authorTwitter": "@CoolDevTech",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Developer_Profile_Image.jpg",
+    "tags": [
+      "iot",
+      "raspberry pi"
+    ],
+    "submissionDate": "2020-01-10T16:01:23.7371806Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3033",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T15:57:18.6824312Z",
+      "Raven-Last-Modified": "2020-02-23T15:57:18.6824312",
+      "@etag": "01000000-0001-231C-0000-00000000000D",
+      "SerializedSizeOnDisk": 2104
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Run the world from the palm of your hand",
+    "abstract": "In this session, we will look at how Xamarin Mobile apps can be used to interface with headless devices through wireless technology. With the strong adoption of Internet of Things devices, or devices without a direct interface, a common form of interaction is widely used. That interaction is through the computer most people carry with them every day, a mobile phone. After this presentation, attendees will have a strong understanding of how to use Xamarin in their Internet of Things story.",
+    "author": "Jared Rhodes",
+    "authorBio": "As a Microsoft MVP for Azure and Pluralsight Author, I focus on IoT, Mobile, and Cloud; trying to find the subsection of those and make them work together. Lately, I have working with AI and Edge computing as the they evolve together. I enjoy public speaking, walks on the beach, and no linker errors.",
+    "authorEmail": "jrhodes@qimata.com",
+    "authorUrl": null,
+    "authorTwitter": "@qimata",
+    "authorGitHub": "qimata",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://jaredrhodes.com/wp-content/uploads/2017/10/cropped-73fdd5d2a4bbf46c1c20d53e4affd15c-e1509484936680.png",
+    "tags": [
+      "iot",
+      "mobile"
+    ],
+    "submissionDate": "2020-01-15T19:29:36.6714520Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3097",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:01:03.7662600Z",
+      "Raven-Last-Modified": "2020-02-23T16:01:03.7662600",
+      "@etag": "01000000-0001-231C-0000-000000000011",
+      "SerializedSizeOnDisk": 1463
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Don't Get Lost in the Random Forest",
+    "abstract": "As more and more data are amassed, focus has increased on getting information out of the data. Data Science is becoming mainstream. \n\nMachine learning can play a key role when using Data Science to find a solution to a problem. There are numerous algorithms used to programmatically learning about and from data. Random Forest is one that is both popular and powerful.\n\nIn this talk I present the theory behind Random Forests and the Decision Trees form which they are made. Consider this theory your compass.\n\nI then move on to examine the attributes of a small data set. Consider the values and the relationships between them as your map.\n\nFinally, with our compass and map in hand I look at a Random Forest implementation that makes predictions from the data without getting lost.",
+    "author": "Wendy Istvanick",
+    "authorBio": "I have been a developer with ThoughtWorks for almost 25 years and have enjoyed solving technical problems and making people happy along the way. I also love to travel. So life as a consultant has been great, giving me many chances to enable solutions while living in places I never would have dreamed of living while growing up, including Brazil, France, and India, and Zambia.\n\nIn addition to coding on many projects I have had the opportunity to facilitate training both internal to ThoughtWorks and at client sites over the years thus being able to share my craft with others. Most recently this includes delivering application security training to consultants around the globe, including training other trainers to deliver the same material.",
+    "authorEmail": "wendyi@thoughtworks.com",
+    "authorUrl": null,
+    "authorTwitter": "",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "",
+    "tags": [
+      "data science",
+      "machine learning"
+    ],
+    "submissionDate": "2020-01-15T20:10:44.9999601Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3098",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:01:10.0466670Z",
+      "Raven-Last-Modified": "2020-02-23T16:01:10.0466670",
+      "@etag": "01000000-0001-231C-0000-000000000012",
+      "SerializedSizeOnDisk": 2111
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "The Path to Build Happiness",
+    "abstract": "In a healthy engineering culture, everyone is a part of the release process, but that’s not always the case for builds. Sometimes the developers own it. Sometimes the ops team owns it. In many organizations, no one owns it. Because of this, engineers have grown complacent with inefficient builds and even joke about how bad build times are. But it doesn't have to be that way. Now that she works for a company that focuses on build automation, Jenn realizes that many of the habits she developed as a software engineer are incredibly inefficient and can be improved with Developer Productivity Engineering.\n\nJoin in to learn these tool-agnostic steps to achieve build happiness:\n* Measure your builds.\n* Analyze the data to see how developers and CI systems are running builds.\n* Optimize build script logic and the processes to run them.\n* Iterate to maintain build builds and happy engineers.",
+    "author": "Jenn Strater",
+    "authorBio": "Jennifer Strater is a developer advocate for Gradle. She is the owner of the Groovy Community slack and a contributor to various Open Source projects including Spring REST Docs, Codenarc, Groovy, and Gradle.",
+    "authorEmail": "jenn.strater@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "codeJENNerator",
+    "authorGitHub": "jlstrater",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://drive.google.com/file/d/1uLFkyDk_uuubk3Dw0tCJKYO9lvNbLz59/view",
+    "tags": [
+      "developer productivity",
+      "build tools",
+      "gradle",
+      "maven",
+      "java",
+      "advanced",
+      "automation"
+    ],
+    "submissionDate": "2020-01-15T22:56:55.6993982Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3100",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:01:17.7797160Z",
+      "Raven-Last-Modified": "2020-02-23T16:01:17.7797160",
+      "@etag": "01000000-0001-231C-0000-000000000014",
+      "SerializedSizeOnDisk": 1816
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "The Background on Background Tasks in .NET Core",
+    "abstract": "Need to run a task in the background in .NET Core?  There are lots of scenarios for background tasks ranging from a task that runs for a long time, or perhaps an operation that needs to be retried multiple times if it fails, and many other scenarios in between.  While there are lots of scenarios for background tasks, there are also lots of solutions to this problem that can leave a .NET developer unsure of which to choose from.  Solutions such as IHostedServices, BackgroundServices, Worker Services, Hangfire, and more.  In this talk, we'll break down all of these solutions with their pro's and con's and when to choose one over the other, as well as a deep dive on how these all work under the hood.",
+    "author": "Scott Sauber",
+    "authorBio": "I'm a software consultant at Lean TECHniques Inc. where I do web development using ASP.NET Core and JavaScript. My second dev passion behind web development is building DevOps pipelines and automating everything automatable. I co-organize the Iowa .NET User Group (iadnug.org) and I am a member of a couple .NET Foundation action groups (Technical Review and Speakers+Meetups). You can find me on Twitter @scottsauber or on my blog at scottsauber.com.",
+    "authorEmail": "stsauber@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "scottsauber",
+    "authorGitHub": "scottsauber",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://scottsauber.files.wordpress.com/2019/07/photo.png",
+    "tags": [
+      ".net core",
+      "c#"
+    ],
+    "submissionDate": "2020-01-16T03:46:58.6564824Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3103",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:01:31.7534741Z",
+      "Raven-Last-Modified": "2020-02-23T16:01:31.7534741",
+      "@etag": "01000000-0001-231C-0000-000000000017",
+      "SerializedSizeOnDisk": 1791
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "TMUX - A terminal multiplexer",
+    "abstract": "TMUX can be a valuable tool for improving developers' experiences with terminals. In this presentation, I will be providing an introduction to TMUX and reviewing some of the many use cases for it. I will also demo some different ways to expand TMUX further to build tools for your needs.",
+    "author": "nicholas diesslin",
+    "authorBio": "Pizza acrobat 🍕, typographer, gardener, bicyclist, juggler, web developer, all around whittler of the web.",
+    "authorEmail": "nicholasdiesslin@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://pbs.twimg.com/profile_images/629496355883368448/Qxq8SquL_400x400.jpg",
+    "tags": [
+      "tmux",
+      "command line",
+      "linux"
+    ],
+    "submissionDate": "2020-01-16T05:30:54.3142832Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3105",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:15:58.2801629Z",
+      "Raven-Last-Modified": "2020-02-23T16:15:58.2801629",
+      "@etag": "01000000-0001-231C-0000-000000000019",
+      "SerializedSizeOnDisk": 1043
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Knowledge Mining with Azure Cognitive Search",
+    "abstract": "We all know that providing a good search experience for website visitors is hard. Everyone expects it to “just” work like Google. Maybe there is a better way, maybe we fix this with a little help from AI robot friends.\n\nJoin the session to see how you can leverage Cognitive Services with Azure Search in your mobile and web apps. You will learn how to enhance and enrich search through Cognitive Service Skills like natural language processing, image analysis, and entity recognition. Don't know what those are? Well that's not a problem because you will find out.\n\nYou can expect to walk away knowing how to generate your own enrichment pipeline that leverages the power of AI to solve your search woes.",
+    "author": "Brian McKeiver",
+    "authorBio": "Brian McKeiver is Co-Owner & Solutions Architect at BizStream, a software development company in Allendale, MI. He has over 17 years of experience leading his agency of more than 30+ employees, about a hundred clients spread out across North America, and one heck of an interesting story of how it all started from a two-person team. In addition to his expertise in web development, integration, and digital marketing, Brian is active with the tech community via his blog at Mcbeev.com.",
+    "authorEmail": "bmckeiver@bizstream.com",
+    "authorUrl": null,
+    "authorTwitter": "@mcbeev",
+    "authorGitHub": "mcbeev",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://www.kentico.com/CMSPages/GetFile.aspx?guid=9a949097-fa8c-4fd5-b2f7-d36aef25d94b",
+    "tags": [
+      "azure",
+      "azure cognitive search",
+      ".net core",
+      "search"
+    ],
+    "submissionDate": "2020-01-18T21:14:51.6910834Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3226",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:16:30.2456633Z",
+      "Raven-Last-Modified": "2020-02-23T16:16:30.2456633",
+      "@etag": "01000000-0001-231C-0000-00000000001E",
+      "SerializedSizeOnDisk": 1900
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Using Firebase for Your Web and Mobile Back-End Services",
+    "abstract": "Today there are a plethora of cloud-native services and frameworks that allow you to quickly bootstrap the beck-end services of your applications.  Authentication, Storage, Database and Monitoring - just to name a few.  Firebase is a suite of services from Google that help you quickly add back-end services for your applications.  In this talk we'll cover the benefits of each of these services and give real examples of how to integrate them into web and mobile applications.  When we're done, you'll be well on your way to using Firebase to enable these features in your own applications.",
+    "author": "Mike Marshall",
+    "authorBio": "Mike Marshall has been a software developer for over 20 years.  His work has run the gamut from his early days creating desktop applications in C++ and MFC, to his current work on Angular web applications with .NET and .NET Core back-ends.  He's done a number of talks at TCCC, and in his free time works on his podcast episodes and spends time with his fiancee and 4 daughters.",
+    "authorEmail": "mikes.mailslot@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "mndevguy",
+    "authorGitHub": "mike-marshall",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://secure.gravatar.com/avatar/a941bca1d5534b305acfcd22cb90b4de?s=300",
+    "tags": [
+      "firebase",
+      "mobile",
+      "web"
+    ],
+    "submissionDate": "2020-01-21T18:46:01.4783001Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3258",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:17:20.1046296Z",
+      "Raven-Last-Modified": "2020-02-23T16:17:20.1046296",
+      "@etag": "01000000-0001-231C-0000-000000000021",
+      "SerializedSizeOnDisk": 1649
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Developer coding tests – friend or foe?",
+    "abstract": "Love it or hate it, something that is getting more common in software engineering and developer interviews are coding tests.  They come in a variety of forms ranging from writing actual program code, to design and “whiteboard” problems.  In this session, we’ll discuss it from both the employer and employee perspectives, talk about what employers and teams are really looking for, and some strategies for putting your best foot forward.",
+    "author": "Mark Kalal",
+    "authorBio": "Mark is a software development and IT professional, father of three, and technology enthusiast.",
+    "authorEmail": "mdkalal@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "@markkalal",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "",
+    "tags": [
+      "interviewing"
+    ],
+    "submissionDate": "2020-01-27T02:53:46.4864798Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3290",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:17:32.3016679Z",
+      "Raven-Last-Modified": "2020-02-23T16:17:32.3016679",
+      "@etag": "01000000-0001-231C-0000-000000000023",
+      "SerializedSizeOnDisk": 1091
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "The Microservices of Microsoft Learn",
+    "abstract": "We will dive into the many microservices which together make Microsoft Learn an online interactive learning platform. Microsoft Learn is built upon Azure in .NET using multiple services including Web Apps, Azure Functions, Traffic Managers, Service Bus, Event Grid, and Cosmos Db. Each of the services incorporates CI/CD which allows for independent development and deployment to increase the speed at which new features and changes can be completed.",
+    "author": "Andrew Cook",
+    "authorBio": "Andrew is a full stack .NET Developer, @Microsoft Engineer on docs.microsoft.com and Microsoft Learn, presenter, retired paramedic he/him",
+    "authorEmail": "codingwithcookie@outlook.com",
+    "authorUrl": null,
+    "authorTwitter": "codingwcookie",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "",
+    "tags": [
+      "azure",
+      "intermediate",
+      "architecture",
+      "microservices"
+    ],
+    "submissionDate": "2020-01-30T02:48:28.9855821Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3321",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:17:40.7042214Z",
+      "Raven-Last-Modified": "2020-02-23T16:17:40.7042214",
+      "@etag": "01000000-0001-231C-0000-000000000024",
+      "SerializedSizeOnDisk": 1200
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Building Cloud Native ASP.NET Core Applications",
+    "abstract": "There's no shortage of digital ink spilled on what the cloud can do for you. Instead of hitching your wagon to a specific provider, why not build your apps so they can work in nearly any cloud, including your own data center?\n\nIn this talk, you're going to learn how to build cloud native ASP.NET Core applications. You'll learn how to design ASP.NET Core apps that work well in cloud environments. You'll also learn how to use Docker and Kubernetes to host your apps on whatever cloud you want. By the end of this talk, you'll be ready to build ASP.NET apps that can run anywhere.",
+    "author": "Dustin Ewers",
+    "authorBio": "Dustin Ewers is a consultant at Centare, where he works to help businesses build better software. Dustin has been building software for over 10 years, specializing in Microsoft technologies. He is an active member of the technical community, speaking at user groups and conferences in and around Wisconsin.",
+    "authorEmail": "dustin.ewers@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "dustinjewers",
+    "authorGitHub": "DustinEwers",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://secure.gravatar.com/avatar/6b60b18cf3e765f76e6ef453d00c8d76",
+    "tags": [
+      "asp.net core",
+      "kubernetes",
+      "cloud"
+    ],
+    "submissionDate": "2020-01-30T12:29:57.6594287Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3353",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:17:49.6590731Z",
+      "Raven-Last-Modified": "2020-02-23T16:17:49.6590731",
+      "@etag": "01000000-0001-231C-0000-000000000025",
+      "SerializedSizeOnDisk": 1561
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Modernize my Compute: Compute options in Azure",
+    "abstract": "Azure started as a Platform as a Service with Cloud Services, but since it launched has evolved to include several newer and very useful options for compute. Depending on your hosting model and how you do DevOps, requirements for scalability and availability you have tradeoffs that affect your long term costs and decision. We will explore the options for compute in Azure including  Iaas, Application Services, Containers with Kubernetes and Dev Spaces,  and Serverless with Functions. We'll show this using the tools in Visual Studio and in VS Code as well as DevOps, and we'll help you understand the tradeoffs and help you make smart decisions on what makes the most sense to ensure you can maximize the return on your investment",
+    "author": "Mike Benkovich",
+    "authorBio": "Mike Benkovich is an advocate for the developer community who has spent his career helping developers and enterprises explore and apply new technologies to solving information challenges. His website www.benkotips.com provides developers with resources to get started and work with technologies including cloud, data and devices. Follow him on twitter @mbenko.",
+    "authorEmail": "mike@benko.com",
+    "authorUrl": null,
+    "authorTwitter": "@mbenko",
+    "authorGitHub": "mbenko",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://benkotips.blob.core.windows.net/images/Mike/Headshot2017-3.jpg",
+    "tags": [
+      "azure",
+      "compute",
+      "containers",
+      "docker",
+      "vscode",
+      "visual studio"
+    ],
+    "submissionDate": "2020-02-02T12:58:48.1230362Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3385",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:00.8918464Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:00.8918464",
+      "@etag": "01000000-0001-231C-0000-000000000026",
+      "SerializedSizeOnDisk": 1773
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Who needs stinking servers!? Not you! Introducing the Basics of the Serverless Framework on AWS.",
+    "abstract": "An introduction to the Serverless Framework on AWS. This will show how to use the Serverless Framework to deploy some simple API endpoints with interactions with a NoSQL database. Using Ruby, these simple \"run only as needed functions\" will allow you to maintain a highly available and cost affordable API because you will no longer need to maintain servers to keep your APIs available. You can rely on AWS (or maybe another cloud provider) to do that heavy lifting for you. Get an introduction with a demo on just how easy it is to get a simple API up & running, persisting data to a database, and adding a basic authorizer.\n\nhttps://slides.com/danitornow/serverless-framework#/\nhttps://github.com/danitornow/serverless",
+    "author": "Dani Tornow",
+    "authorBio": "Dani Tornow is a Lead Software Engineer at Sanford Health in Sioux Falls, SD, working on the Imagenetics team to bring genetic testing to Sanford's patients and beyond. She loves systems, software, databases, and just making things work. She's been using AWS for over 2 years now and loves to share her information with others. In a past life, she might have been a unicorn, but in this one, she loves software, board games, and bad jokes.",
+    "authorEmail": "DANITORNOW@GMAIL.COM",
+    "authorUrl": null,
+    "authorTwitter": "@danitornow",
+    "authorGitHub": "danitornow",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://photos.app.goo.gl/1SvAe2s64DnAwp5J6",
+    "tags": [
+      "api",
+      "web",
+      "intermediate",
+      "backend",
+      "aws",
+      "serverless",
+      "ruby",
+      "nosql"
+    ],
+    "submissionDate": "2020-02-03T16:11:18.0581046Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3417",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:11.8509428Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:11.8509428",
+      "@etag": "01000000-0001-231C-0000-000000000027",
+      "SerializedSizeOnDisk": 1889
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Kicked Upstairs - Career Advice from a Techie Turned Manager",
+    "abstract": "There are many paths a career in technology career can take, and not all of them involve computers. Keeping up to date on the latest technology trends while learning how to lead teams, address the needs of users, and communicate effectively with stakeholders can be a difficult balancing act. In this talk we'll share some hard won knowledge from years of dealing with both machines and people, and what happens as your role evolves.",
+    "author": "Brian Seebacher",
+    "authorBio": "Brian Seebacher has worked as technologist since the first dot com boom in the late 1990's, when knowledge of basic HTML was a foot in the door to a field that was changing the world. Since then, he's built networks, web applications, services, databases, and analytics tools as part of his day job at Hargrove & Associates, Inc., where in 2014 he was named Vice President and Chief Technology Officer. \n\nIn his spare time he manages a broomball team, tinkers with hobby electronics (poorly), plays video games with his 8 year old, and is the proud husband to a wife who is changing the world.",
+    "authorEmail": "bseebacher@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "@brianseebacher",
+    "authorGitHub": "bseebacher",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://avatars3.githubusercontent.com/u/7266719?s=400&u=29530e13249d1ff099fdbad41ed90fac2aa0ff25&v=4",
+    "tags": [
+      "career development",
+      "career building",
+      "team building"
+    ],
+    "submissionDate": "2020-02-04T18:37:06.7820929Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3418",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:22.2211998Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:22.2211998",
+      "@etag": "01000000-0001-231C-0000-000000000028",
+      "SerializedSizeOnDisk": 1767
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Should You Be the Boss?",
+    "abstract": "Programming careers can be unpredictable, but at some point, you'll probably be confronted by the idea of becoming a manager. Management jobs can vary widely, though, and it can be hard to know if being the boss is something you'd even like. Join Dan Nordquist as he walks through what he knows about leadership, \"career tracks\", promotions, teams, and making one of the most important decisions in your life.",
+    "author": "Dan Nordquist",
+    "authorBio": "Dan Nordquist was working on the web in 1994, and has followed his interest in the internet and love of problem-solving ever since. He is the director of technology at Bluespire, a marketing agency headquartered in Edina. Dan has talked at multiple Code Camp events going as far back as TCCC8.",
+    "authorEmail": "dan@dnord.com",
+    "authorUrl": null,
+    "authorTwitter": "@dnord",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://www.dropbox.com/s/jbw5635nywxjgxf/1380007_10201596285521900_1126035894_n.jpg?dl=0",
+    "tags": [
+      "career development"
+    ],
+    "submissionDate": "2020-02-05T19:13:30.3995139Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3449",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:28.3614801Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:28.3614801",
+      "@etag": "01000000-0001-231C-0000-000000000029",
+      "SerializedSizeOnDisk": 1325
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "The Opportunity of Open Source Software",
+    "abstract": "Open source software is everywhere. Whether it was the central focus or an upstream dependency, open source software has likely been involved in the projects you work on. From individual developers to large corporations, we can all work to advance technological progress through transparency and collaboration. After establishing how open source software benefits developers both directly and indirectly, this session will focus on the breadth of ways to contribute to open source software. Wherever you are in your career, you have the opportunity to positively impact modern technology through contributions to open source software. Attendees will leave this session with an understanding of how to contribute to open source software, including:\n-\tIdentifying projects to help\n-\tReadMe.MD, Contributing.MD, and other common structures\n-\tSubmitting fixes, documentation, and new features\n-\tSupporting the health of a project",
+    "author": "Drew Skwiers-Koballa",
+    "authorBio": "Drew Skwiers-Koballa is a developer and open source advocate with several extensions published for Azure Data Studio.  By day Drew is Director of IT for Inside Edge CIS. For the past 8 years, he has been doing database development while leading web application and ERP development. Drew serves on the Advisory Committee for the Dynamics SL User Group and has earned the Data Platform MCSE.",
+    "authorEmail": "drew.koballa@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "sysadmindrew",
+    "authorGitHub": "dzsquared",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://www.drewsk.tech/wp-content/uploads/2019/10/2016_cropped.jpg",
+    "tags": [
+      "opensource",
+      "community",
+      "growth"
+    ],
+    "submissionDate": "2020-02-06T16:16:19.1235724Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3481",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:35.5904914Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:35.5904914",
+      "@etag": "01000000-0001-231C-0000-00000000002A",
+      "SerializedSizeOnDisk": 1990
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "VarChars - T-SQL Performance Poison",
+    "abstract": "I will show how to improve the performance of a T-SQL view or stored procedure by separating out the interaction with VarChar fields. I am going to demo three specific cases: Temp Tables, Group By and DISTINCT. Then I'll finish with some other T-SQL misconceptions including using NOLOCK. Throughout all of the demos we'll look at tools in SSMS to analyze performance.",
+    "author": "Keith Voels",
+    "authorBio": "I have been a .NET developer for over 15 years. The last 5 years I have been an application architect. Currently I am a principal architect at Ecolab.",
+    "authorEmail": "keith@poorexcuse.com",
+    "authorUrl": null,
+    "authorTwitter": "",
+    "authorGitHub": "keithdv",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://twincitiescodecamp.com/files/getTalkProfileImage?talkId=talks/977",
+    "tags": [
+      "tsql",
+      "sql",
+      "performance"
+    ],
+    "submissionDate": "2020-02-07T02:29:51.0022464Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3513",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:42.3511293Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:42.3511293",
+      "@etag": "01000000-0001-231C-0000-00000000002C",
+      "SerializedSizeOnDisk": 1154
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "GraphQL: Why, What and How",
+    "abstract": "GraphQL offers a compelling alternative to REST for services which have multiple clients, or clients with frequently changing needs. In this session, Kurt Christensen will show the motivation for GraphQL, and how to implement a GraphQL API using Clojure and the Lacinia GraphQL library.",
+    "author": "Kurt Christensen",
+    "authorBio": "Kurt Christensen has been working as a computer programmer since 1995, and has been paid to write code in a variety of different programming languages. Kurt has also worked as a coach and teacher for teams and organizations since 2003.",
+    "authorEmail": "kurt.j.christensen@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "http://www.gravatar.com/avatar/768018c300c3836888c1c3959d5c0d4a?s=400",
+    "tags": [
+      "graphql",
+      "clojure",
+      "aws"
+    ],
+    "submissionDate": "2020-02-07T16:54:43.2242474Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3545",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:45.2962673Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:45.2962673",
+      "@etag": "01000000-0001-231C-0000-00000000002D",
+      "SerializedSizeOnDisk": 1157
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "REST, GraphQL, and gRPC: What's an API developer to do?",
+    "abstract": "Most API developers are familiar with JSON-based REST type methods used to define their routes.  But GraphQL and gRPC have recently been introduced, and both have some key advantages that can be leveraged in certain situations.  What are those advantages?  When should you use GraphQL- or gRPC-flavored APIs?  Are there security implications of these API protocols?  We will explore the differences between these three options, as well as look at some concrete demos of each and see how they behave in practice.  The demos will be done using ASP.NET Core, but the techniques and protocols are consistent across any language used to develop APIs.",
+    "author": "Erik Dahl",
+    "authorBio": "Erik Dahl has been developing software and architecture for 20+ years, mostly doing in-house development for his employers, currently RealPage. His recent work has included a multi-tenant B2B implementation, defining templates using .NET Core to expedite microservice implementations, and driving enterprise architecture initiatives.  Erik currently works at RealPage as a Principal Architect, supporting all kinds of teams working on different products and stacks, especially in the areas of development practices and OpenID Connect and OAuth2 techniques.",
+    "authorEmail": "dahlsailrunner@yahoo.com",
+    "authorUrl": null,
+    "authorTwitter": "@dahlsailrunner",
+    "authorGitHub": "dahlsailrunner",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://secure.gravatar.com/avatar/4da33a823cd4c210b5c3e5e97c9c7adc",
+    "tags": [
+      "api",
+      "graphql",
+      "rest",
+      ".net core"
+    ],
+    "submissionDate": "2020-02-09T17:56:04.9520091Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3609",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:18:55.5401607Z",
+      "Raven-Last-Modified": "2020-02-23T16:18:55.5401607",
+      "@etag": "01000000-0001-231C-0000-00000000002E",
+      "SerializedSizeOnDisk": 1887
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Dependency Injection with ASP.NET Core 3.1.x",
+    "abstract": "Unity. Ninject. Autofac. These are all popular frameworks that have been made redundant with the new ASP.NET Core built-in dependency injection (DI) framework. In this talk, we'll explore some new features of ASP.NET Core such as the request handling pipeline, defining custom middleware components, the configuration framework, and the options pattern for storing and and retrieving configuration values. We'll finish the talk by going over some brief examples of how this all ties together with a demo that tests Azure's AD B2C auth and some forms validation with FluentValidation.",
+    "author": "Mitchell Volk",
+    "authorBio": "Mitchell is a senior technical consultant with Robert Half Technology on their Salaried Professional Services team. He's been programming\n professionally since 2014 in primarily C# .NET, SQL, and JavaScript. He is a husband and a father, and is a firm believer that the only edible choices in \n a pan of brownies are the corner pieces. (everyone else is wrong)",
+    "authorEmail": "mitch@volktech.com",
+    "authorUrl": null,
+    "authorTwitter": "@mitchvolk",
+    "authorGitHub": "volkmt",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://www.dropbox.com/s/ik0ffme6xqreuv8/profile_pic.jpg?dl=0",
+    "tags": [
+      "di",
+      "asp.net core",
+      "c#",
+      "azure"
+    ],
+    "submissionDate": "2020-02-11T16:40:05.8834587Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3642",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:19:09.3408575Z",
+      "Raven-Last-Modified": "2020-02-23T16:19:09.3408575",
+      "@etag": "01000000-0001-231C-0000-000000000031",
+      "SerializedSizeOnDisk": 1592
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "Productivity Hacks for Busy Developers",
+    "abstract": "Want to learn a few hacks for becoming more productive? In this talk, we’ll explore the latest tips and techniques to maximize productivity. Topic discussed will include:\nProductivity anti-patterns: <ul><li>Hero anti-pattern</li><li>Tech lead anti-pattern</li><li>Overtime anti-pattern</li><li>No breaks and no fun anti-pattern</li></ul>\nProductivity patterns: <ul><li>Continuous learning patterns</li><li>Team of Teams patterns</li><li>Effective ChatOps management</li><li>Effective meetings</li></ul>",
+    "author": "Brad Broulik",
+    "authorBio": "Brad Broulik is an author, independent training consultant, and principal developer specializing in full-stack development at HealthPartners. He blogs at http://bradbroulik.blogspot.com and tweets via @BradBroulik.",
+    "authorEmail": "BradBroulik@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "BradBroulik",
+    "authorGitHub": "BradBroulik",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://secure.meetupstatic.com/photos/member/2/0/5/e/highres_295988286.jpeg",
+    "tags": [
+      "team building",
+      "agile",
+      "collaboration",
+      "fun",
+      "soft skills"
+    ],
+    "submissionDate": "2020-02-12T12:54:44.1356214Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3644",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:19:14.5175706Z",
+      "Raven-Last-Modified": "2020-02-23T16:19:14.5175706",
+      "@etag": "01000000-0001-231C-0000-000000000032",
+      "SerializedSizeOnDisk": 1413
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "WebGL Wizardry: From Zero to Merlin",
+    "abstract": "WebGL is a very powerful way to generate 2D or 3D graphics for the web. If you have ever been curious about webgl for building visualizations, data processing, or making a game, come to this talk to learn how you can build your next experience.\n\nIn this talk, I’ll demystify the WebGL API and explain what the various pieces are and how they fit together to build visuals. I’ll cover some debugging techniques, writing shaders, performance tricks, and introduce some libraries that can make your life easier. You too can become a WebGL wizard!",
+    "author": "Erik Onarheim",
+    "authorBio": "Hi 👋 my name is Erik. I’m a software developer living and working in Minneapolis as a full-stack developer working with the cloud. I’m the author of the Excalibur.js open source project. I love teaching, cooking, making games, and running long distances. And sometimes I can give a talk and chew bubble gum at the same time.",
+    "authorEmail": "erik.onarheim@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "@ErikOnarheim",
+    "authorGitHub": "eonarheim",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://drive.google.com/open?id=1dSoZc2G1DO0NzlA-ePHdBpkpU5OtvCoY",
+    "tags": [
+      "web",
+      "game",
+      "javascript",
+      "beginner"
+    ],
+    "submissionDate": "2020-02-14T02:21:01.8024411Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3673",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-02-23T16:19:33.3048067Z",
+      "Raven-Last-Modified": "2020-02-23T16:19:33.3048067",
+      "@etag": "01000000-0001-231C-0000-000000000034",
+      "SerializedSizeOnDisk": 1542
+    }
+  },
+  {
+    "eventId": "tccc24",
+    "title": "From Developer to Dev Lead",
+    "abstract": "Do you aspire to be a Dev Lead? If yes, then this session is for you! Piyush recently transitioned from a Developer to a Dev Lead role. Here is  what he plans to present: \n\n1.  Offer real-life examples of both successes and failures during this transition. \n2.  Share tips on how to have an efficient transition. \n3.  Share the additional skills that you need to conquer this transition.",
+    "author": "Piyush Neekhra",
+    "authorBio": "Piyush Neekhra leads a team of Software developers for a Fortune 50 healthcare company in Chicago. He has over 10 years of experience working with multiple teams located in different geographical locations. He enjoys public speaking and is currently serving as an Area Director for Toastmasters(non-profit) in the Chicago area. He is also a proud member of a Dragon Boat Club.  He loves to talk about technology and how it impacts people.  Feel free to connect with him on LinkedIn at https://www.linkedin.com/in/piyushneekhra or email him at piyush.neekhra@mspspeaks.org",
+    "authorEmail": "piyushneekhra@gmail.com",
+    "authorUrl": null,
+    "authorTwitter": "@piyushneek",
+    "authorGitHub": "",
+    "room": "",
+    "hour": 0,
+    "pictureUrl": "https://midwestspeakingprofessionals.com/wp-content/uploads/2020/02/Photo-Piyush-Neekhra.png",
+    "tags": [
+      "developer",
+      "dev lead",
+      "career development"
+    ],
+    "submissionDate": "2020-01-21T14:30:00.2509499Z",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Talks",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Talk, TwinCitiesCodeCamp",
+      "@id": "talks/3257",
+      "Temp-Index-Score": 1.35615563,
+      "Last-Modified": "2020-03-06T18:46:12.6480744Z",
+      "Raven-Last-Modified": "2020-03-06T18:46:12.6480744",
+      "@etag": "01000000-0001-257C-0000-000000000001",
+      "SerializedSizeOnDisk": 1638
+    }
+  }
+]

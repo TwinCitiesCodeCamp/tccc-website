@@ -1,0 +1,38 @@
+
+<div class="event-talks">
+  <ul class="list-unstyled">
+    {% for talk in talkList %} 
+    <li class="media mb-5 talk-unit">
+      <span class="speaker-image-wrapper">
+        {% if talk.hasPicture %}
+        <img
+          src="{{ talk.pictureUrl | relative_url }}"
+          alt="{{ talk.author }}"
+        />
+        {% else %}
+        <img
+          src="{{ '/assets/images/unknown-speaker.jpg' | relative_url }}"
+          alt="{{ talk.author }}"
+        />
+        {% endif %}
+      </span>
+      <div class="media-body">
+        <h2 class="mt-0">
+          <a href="{{ talk.permalink }}">{{ talk.title }}</a>
+        </h2>
+        <h5>
+          by {{ talk.author }} {% if talk.authorTwitter != null%}
+          <a href="//twitter.com/{{ talk.authorTwitter }}"
+            ><i class="fa fa-twitter" style="color: #00aced"></i></a
+          >{% endif %} {% if talk.authorGitHub != null%}
+          <a href="//github.com/{{ talk.authorGitHub }}"
+            ><i class="fa fa-github" style="color: #000"></i></a
+          >{% endif %}
+        </h5>
+        {{ talk.abstract }}
+      </div>
+    </li>
+    
+     {% endfor %}
+  </ul>
+</div>

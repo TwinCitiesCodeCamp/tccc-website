@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: 'events/index.html'
+renderData:
+  title: 'Past Events'
+---
+
+<h2>Past Events</h2>
+
+<p>Take a stroll down memory lane and browse our past {{ allEvents.length }} events.</p>
+
+<ul>
+{%- for item in allEvents reversed %}
+  <li><a href="/events/{{item.eventId}}">TCCC {{ item.number }}</a>  {{ item.seasonYear }}</li>
+{% endfor -%}
+</ul>

@@ -1,0 +1,5 @@
+out
+_archive
+package.json
+package-lock.json
+.DS_Store

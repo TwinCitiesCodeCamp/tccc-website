@@ -1,212 +1,172 @@
-# Twin Cities Code Camp web site
+# Twin Cities Code Camp Website
 
-* hosted at [twincitiescodecamp.com](http://twincitiescodecamp.com)
-* runs on [Jekyll](http://jekyllrb.com)
+Source code for the TCCC static site generator. 
+Uses [Eleventy](https://11ty.dev).
 
-# Prerequisites
+# Run Locally
 
-To run the site on your computer, you need to have Jekyll installed.
-Jekyll itself has its own installation prerequisites, so please make
-sure you _follow them closely_ for your own operating system:
-
-* [Windows](https://jekyllrb.com/docs/installation/windows/)
-* [MacOS](https://jekyllrb.com/docs/installation/macos/)
-* [Linux](https://jekyllrb.com/docs/installation/ubuntu/)
-
-Please check out the [full Jekyll documentation](https://jekyllrb.com/docs/) to familiarize yourself
-with Jekyll.
-
-# Build and run the site
-
-Clone the repository:
-
-``` 
-git clone git@github.com:TwinCitiesCodeCamp/tccc-prototype.git
-```
-
-Install Ruby gems:
-
-``` 
-cd tccc-prototype
-bundle install
-```
-
-Build and run the site with Jekyll:
-
-``` 
-bundle exec jekyll serve
-```
-
-If you want to try Jekyll's experimental "incremental" builds and reduce 
-site build time, you can use the `--incremental` flag:
-
-``` 
-bundle exec jekyll serve --incremental
-```
-
-# Site Structure
-
-All data about events, talks, speakers, and sponsors is store
-in Jekyll _collections_. These collections are located under the
-`_collections` folder.
-
-Speakers, sponsors, and talks are stored in sub-folders specific
-to an event:
-
-``` 
-_collections/
-├── _events/
-│   ├── tccc1.html
-│   ├── tccc2.html
-│   ├── ...
-│   └── tccc24.html
-|
-├── _speakers/
-│   ├── tccc1
-│   |   ├── hank-hankerson.html
-│   |   ├── jane-smith.html
-|   |
-│   ├── tccc24
-│       ├── karen-anderson.html
-│       ├── peter-gibbons.html
-|
-├── _sponsors/
-│   ├── tccc1
-│   |   ├── sponsor1.html
-│   |   ├── sponsor2.html
-|   |
-│   ├── tccc24
-│       ├── sponsor3.html
-│       ├── sponsor4.html
-|
-├── _talks/
-    ├── tccc1
-    |   ├── hank-hankerson-intro-to-javascript.html
-    |   ├── jane-smith-advanced-aws.html
-    |
-    ├── tccc24
-        ├── karen-anderson-amazing-testing.html
-        ├── peter-gibbons-functional-programming-is-dead.html
-```
-
-## Event files
-
-Event files are primarily used to store data about the event:
-
-``` 
----
-layout: event
-event: tccc1
-title: TCCC 1
-eventDate: 2006-10-01
-address: ""
-locationName: ""
-number: 1
-registerUrl: 
-seasonYear: "Fall 2006"
----
-```
-
-When the event is rendered, the `event` layout will also include
-a listing of talks for that event.
-
-## Speaker files
-
-Speaker files contain metadata along with an HTML biography:
-
-``` 
----
-speakerId: KarenAnderson
-name: Karen Anderson
-image: http://url.to.image/profile.jpg
-speakerUrl: http://url.to.speaker.web.page
-twitter: twitter_username
-github: github_username
-event: tccc3
----
-
-<p>Speaker bio with optional markup.</p>
+Clone the repository and then run:
 
 ```
-
-NOTE: it is important to set the `speakerId` attribute equal to
-a talk file's `speakerId` attribute in order to link the speaker
-to the talk (see talk file information below).
-
-## Sponsor files
-
-Sponsor files contain metadata along with an HTML
-description:
-
-``` 
---- 
-name: Sponsor Name
-level: Diamond
-image: http://url.to.sponsor.logo/image.jpg
-link: https://url.to.sponsor.web.site
-twitter: twitter_username
-event: tccc23
----
-
-Sponsor information with <strong>optional markup</strong>.
+npm install
+npm run start
 ```
 
-## Talk files
-
-Talk files contain metadata along with an HTML
-abstract:
-
-``` 
----
-event: tccc22
-title: "An amazing talk!"
-speakerId: KarenAnderson
-layout: talk
-room: <room number, if known>
-time: <time of day, if known>
-tags: ["list", "of", "tags"]
----
-
-Talk abstract <em>with optional markup</em>.
+You should then see some URLs to access the site locally:
 
 ```
-
-NOTE: it is important to set the `speakerId` attribute equal to
-a speaker file's `speakerId` attribute in order to link the speaker
-to the talk (see speaker file information above).
-
-Tags are used to display tag stats on the main page.
-
-# How to Create a New Event
-
-Let's say that you need to create an event for the
-100th code camp event. This event will be identified as `tccc100` .
-
-1. Create a new event file: `_collections/_events/tccc100.html` :
-
-Make sure to set the `event` attribute in the YAML front-matter equal to `tccc100` , and fill in the rest of the metadata (reference the Event file information above).
-
-``` 
----
-layout: event
-event: tccc100
-title: TCCC 100
-eventDate: 2051-04-17
-address: "199 W Kellogg Blvd, St Paul, MN 55102"
-locationName: "XCel Energy Center"
-number: 100
-registerUrl: http://tccc100.tccc.com/register 
-seasonYear: "Spring 2051"
----
+[Browsersync] Access URLs:
+ -----------------------------------
+       Local: http://localhost:8083
+    External: http://10.0.0.239:8083
+ -----------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ -----------------------------------
+[Browsersync] Serving files from: _site
 ```
 
-2. Create new speakers, sponsors, and talks subfolders: 
+# How to Maintain Site Content
 
-`_collections/_speakers/tccc100/` <br/>
-`_collections/_sponsors/tccc100/` <br/>
-`_collections/_talks/tccc100/` 
+All site content is driven from .json data files located in
+[_data](_data).
 
-3. Create individual speakers, sponsors, and talks files in their respective subfolders. Make sure to set the `event` attribute in the YAML front-matter equal to `tccc100` 
+## Events
 
-4. When creating related speaker and talk files, make sure to link them by using the same `speakerId` attribute value in the two files.
+To add or edit an event, use the 
+[_data/events/events.json](_data/events/events.json) file.
 
+Event object example:
+
+```json
+{
+  "eventId": "tccc24",
+  "number": 24,
+  "registerUrl": "",
+  "dateTime": "2020-01-09T00:06:00.000Z",
+  "locationFriendlyName": "Normandale Community College",
+  "address": "9700 France Ave S, Bloomington, MN 55431",
+  "seasonYear": "Spring 2020",
+}
+```
+
+## Talks
+
+Talks are divided into files per event, located under the 
+[_data/talks](_data/talks) folder. 
+
+To create talks for a new event, first create a new .json file 
+under [_data/talks](_data/talks) for the event. For example,
+if you wanted to create talks for TCCC57, you would create
+`_data/talks/tccc57.json`. 
+
+Once you have located the talks .json file for the specific event,
+you can add, edit or remove talks from the array in the file.
+
+Talk object example:
+
+```json
+{
+  "eventId": "tccc24",
+  "title": "Advanced Machine Learning for Absolute Beginners",
+  "abstract": "In this session, <em>you will be confused</em>.",
+  "author": "Bill Gate",
+  "authorBio": "6 months experience. I like to play video games.",
+  "authorEmail": "expert@vr-sunset.xyz",
+  "authorUrl": "https://vr-sunset.xyz",
+  "authorTwitter": "all_about_teh_socialz",
+  "authorGitHub": "",
+  "room": "103",
+  "hour": 0,
+  "pictureUrl": "https://vr-sunset.xyz/404.jpg",
+  "tags": [
+    "machine learning",
+    "expert",
+    "fun",
+    "llamas"
+  ],
+}
+```
+
+> For what it's worth, you don't have to name these files with
+> the convention "`tcccXX.json`"
+> and they don't have to conform to a numbering scheme. All .json
+> files in this folder will be included and can be named anything, but
+> they should follow the numbering convention for maintainability.
+
+## Sponsors
+
+Sponsors work just like talks. They are divided into files per event,
+located under the [_data/sponsors](_data/sponsors) folder.
+
+Create a sponsors .json file for its event. For example, to create
+sponsors for TCCC31, you would create `_data/sponsors/tccc31.json`.
+
+Once you've located the sponsors data file, you can add, edit, or 
+remove sponsors from the array in the file.
+
+Sponsor object example:
+
+```json
+{
+  "name": "Megacorp",
+  "logo": "hhttps://picsum.photos/200",
+  "url": "https://www.vr-sunset.xyz",
+  "about": "We sponsor code camps. With <em>html</em>.",
+  "level": "Platinum",
+  "eventId": "tccc24",
+  "twitter": "@megacorp_socialz_lol"
+}
+```
+
+## Current Event / No Event
+
+To change or remove the currently featured event, modify the
+`currentEventId` constant in the [_data/currentEvent.js](_data/currentEvent.js)
+file.
+
+For example, to set the current event to "TCCC 24":
+
+```javascript
+const currentEventId = "tccc24";
+```
+
+> Note: this assumes there is a corresponding "tccc24" `eventId` in the
+> [_data/events/events.json](_data/events/events.json) file.
+
+Or, if you want to clear the current event due to a worldwide pandemic,
+just set the constant value to `null`:
+
+```javascript
+const currentEventId = null;
+```
+
+# Wait, how is each page created?
+
+The main site pages are created from top-level 
+[liquid templates](https://shopify.github.io/liquid/basics/introduction/):
+
+| Page | Template |
+| ---- | -------- |
+| Home | index.liquid |
+| Current Event Info | event-current.liquid |
+| Current Sponsors | sponsors.liquid |
+| Historic Event List | event-list.liquid |
+| About | about.liquid |
+| Code of Conduct | policies.liquid |
+| Event Detail / List of Talks | event-detail.liquid |
+| Talk Detail | talk.liquid |
+
+The main site layout and partials/helpers are all located 
+at [_includes](_includes).
+
+
+# Bugs, Issues, etc
+
+If something looks wrong, it probably is. Or maybe you are an expert
+in Eleventy and see something that could be done more easily. 
+Please help by submitting an issue or a pull request.
+
+# Resources
+
+- https://www.linkedin.com/pulse/eleventy-github-pages-lea-tortay/
