@@ -47,6 +47,10 @@ Event object example:
   "locationFriendlyName": "Normandale Community College",
   "address": "9700 France Ave S, Bloomington, MN 55431",
   "seasonYear": "Spring 2020",
+  "shirt": { 
+    "front": "/assets/images/shirts/<eventid>-front.jpg",
+    "back": "/assets/images/shirts/<eventid>-back.jpg",
+  }
 }
 ```
 
