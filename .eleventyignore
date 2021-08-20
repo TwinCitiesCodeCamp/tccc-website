@@ -3,3 +3,5 @@ _archive
 package.json
 package-lock.json
 .DS_Store
+.nojekyll
+.github

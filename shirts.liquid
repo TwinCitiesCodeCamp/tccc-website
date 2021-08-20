@@ -1,0 +1,26 @@
+---
+layout: default
+renderData:
+  title: Shirts of TCCC
+---
+
+<p>Are you a fan of Code Camps of days gone by? 
+  Do you enjoy looking at photos of old garments? Then look no further,
+  as you can look at past t-shirts from Twin Cities Code Camp right here!</p>
+  
+  <div class="shirts">
+{% for event in allEvents %}
+{% if event.shirt != undefined %}
+
+
+  <h3><span class="shirt-event-id">{{ event.eventId }}</span> 
+  - {{ event.seasonYear }}</h3>
+
+  <p><img src="{{ event.shirt.front }}" alt="{{ event.eventId }} front" /></p>
+
+  <p><img src="{{ event.shirt.back }}" alt="{{ event.eventId }} back" /></p>
+
+  {% endif %}
+{% endfor %}
+
+</div>

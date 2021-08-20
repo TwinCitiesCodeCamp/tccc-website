@@ -9,6 +9,12 @@ renderData:
 
 <p>Take a stroll down memory lane and browse our past {{ allEvents.length }} events.</p>
 
+<div class="alert alert-primary"><strong>Wait!</strong>
+  Do you enjoy looking at historical garments? Are you a fan of TCCC 
+  history? Then make sure to take a look at all of our
+  <a href="/shirts">TCCC shirts</a>!
+</div>
+
 <ul>
 {%- for item in allEvents reversed %}
   <li><a href="/events/{{item.eventId}}">TCCC {{ item.number }}</a>  {{ item.seasonYear }}</li>

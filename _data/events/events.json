@@ -198,6 +198,10 @@
     "seasonYear": "Spring 2011",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc10-front.jpg",
+      "back": "/assets/images/shirts/tccc10-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -219,6 +223,10 @@
     "seasonYear": "Fall 2011",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc11-front.jpg",
+      "back": "/assets/images/shirts/tccc11-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -240,6 +248,10 @@
     "seasonYear": "Spring 2012",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc12-front.jpg",
+      "back": "/assets/images/shirts/tccc12-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -261,6 +273,10 @@
     "seasonYear": "Fall 2012",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc13-front.jpg",
+      "back": "/assets/images/shirts/tccc13-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -282,6 +298,10 @@
     "seasonYear": "Spring 2013",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc14-front.jpg",
+      "back": "/assets/images/shirts/tccc14-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -303,6 +323,10 @@
     "seasonYear": "Fall 2013",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc15-front.jpg",
+      "back": "/assets/images/shirts/tccc15-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -324,6 +348,10 @@
     "seasonYear": "Spring 2014",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc16-front.jpg",
+      "back": "/assets/images/shirts/tccc16-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -366,6 +394,10 @@
     "seasonYear": "Spring 2015",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc18-front.jpg",
+      "back": "/assets/images/shirts/tccc18-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -387,6 +419,10 @@
     "seasonYear": "Fall 2015",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc19-front.jpg",
+      "back": "/assets/images/shirts/tccc19-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -408,6 +444,10 @@
     "seasonYear": "Spring 2016",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc20-front.jpg",
+      "back": "/assets/images/shirts/tccc20-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -429,6 +469,10 @@
     "seasonYear": "Spring 2017",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc21-front.jpg",
+      "back": "/assets/images/shirts/tccc21-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -450,6 +494,10 @@
     "seasonYear": "Spring 2018",
     "isAcceptingTalkSubmissions": false,
     "noTalkSubmissionsAfter": null,
+    "shirt": {
+      "front": "/assets/images/shirts/tccc22-front.jpg",
+      "back": "/assets/images/shirts/tccc22-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
@@ -471,6 +519,10 @@
     "seasonYear": "Spring 2019",
     "isAcceptingTalkSubmissions": true,
     "noTalkSubmissionsAfter": "2019-02-17T06:00:00.0000000+00:00",
+    "shirt": {
+      "front": "/assets/images/shirts/tccc23-front.jpg",
+      "back": "/assets/images/shirts/tccc23-back.jpg"
+    },
     "ravenMetadata": {
       "Raven-Entity-Name": "Events",
       "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Event, TwinCitiesCodeCamp",
