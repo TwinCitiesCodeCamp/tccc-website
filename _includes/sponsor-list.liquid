@@ -1,0 +1,28 @@
+{% if sponsorList.length > 0 %}
+<section>
+
+<h4>{{ level }} Level</h4>
+
+{% for sponsor in sponsorList %}
+<div class="media talk-unit mb-4">
+  <img
+    src="{{ sponsor.logo }}"
+    class="mr-3"
+    style="max-width: 300px"
+  />
+  <div class="media-body">
+    <h3 class="mt-0">{{ sponsor.name }}</h3>
+    <p>
+      {{ sponsor.about }}
+    </p>
+    <p>
+      <a href="{{sponsor.url}}">{{sponsor.url}}</a>
+      <br />
+      <a href="//twitter.com/{{sponsor.twitter}}">{{sponsor.twitter}}</a>
+    </p>
+  </div>
+</div>
+{% endfor %}
+
+</section>
+{% endif %}

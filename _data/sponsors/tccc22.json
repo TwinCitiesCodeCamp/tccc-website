@@ -1,0 +1,192 @@
+[
+  {
+    "name": "DevJam",
+    "logo": "/Content/Images/Sponsors/DevJam.jpg",
+    "url": "http://devjam.com",
+    "about": "<p>DevJam is a collection of mentors, producers and builders. We create products in-house as well as coach others around improving their product learning through faster validation and delivery cycles. </p>\n\n<p>Our work is rooted in lean UX, responsive engineering and continuous delivery that feeds continuous learning. Along with product development, we’ve helped companies of all sizes pragmatically adopt and adapt agile methods through courses and coaches who know how and when to blend product discovery and product delivery.</p>",
+    "level": "Silver",
+    "eventId": "tccc22",
+    "twitter": "@devjams",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/249",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-01-31T14:50:48.6984897Z",
+      "Raven-Last-Modified": "2018-01-31T14:50:48.6984897",
+      "@etag": "01000000-0000-6EC6-0000-000000000002",
+      "SerializedSizeOnDisk": 892
+    }
+  },
+  {
+    "name": "Beacon Hill",
+    "logo": "/Content/Images/Sponsors/BeaconHill.jpg",
+    "url": "https://www.beaconhillstaffing.com",
+    "about": "Founded by industry leaders to set a new standard in search, career placement and flexible staffing, we deliver coordinated staffing solutions with unparalleled service, a commitment to project completion and success and a passion for innovation, creativity and continuous improvement.\n\n<br><br>Our niche brands and specialty divisions provide direct hire, executive search, temporary staffing, contract consulting, and temp/contract-to-hire solutions to emerging growth companies and the Fortune 500 across market sectors, career specialties/disciplines, and industries.",
+    "level": "Platinum",
+    "eventId": "tccc22",
+    "twitter": "@BHStaffingGroup",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/281",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-02-15T16:13:33.7868697Z",
+      "Raven-Last-Modified": "2018-02-15T16:13:33.7868697",
+      "@etag": "01000000-0000-725F-0000-00000000000A",
+      "SerializedSizeOnDisk": 963
+    }
+  },
+  {
+    "name": "CODE Magazine",
+    "logo": "http://www.codemag.com/Images/Logos/CODEMagazine_Small.png",
+    "url": "http://www.codemag.com/",
+    "about": "Founded in 1993 and based in Houston, TX, EPS Software/CODE is widely-recognized for advanced technical expertise and the ability to help companies build better software with modern technology. We serve clients worldwide from offices in Houston and Salzburg, Austria, within a variety of industries including oil & gas, information & technology, medical, legal, and a host of others. In addition to writing new applications, we also specialize in legacy conversions, such as Visual FoxPro, Visual Basic 6 and older .NET Technologies, to today's technologies like WPF, ASP.NET, Cloud technologies, various mobile devices, including iOS and Android and more. Additionally, we train developers with our CODE Training division and we produce CODE Magazine - the Leading Independent Magazine for Software Developers.",
+    "level": "Silver",
+    "eventId": "tccc22",
+    "twitter": "@CODEmagazine",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/283",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-02-15T16:34:49.0898341Z",
+      "Raven-Last-Modified": "2018-02-15T16:34:49.0898341",
+      "@etag": "01000000-0000-725F-0000-00000000000E",
+      "SerializedSizeOnDisk": 1206
+    }
+  },
+  {
+    "name": "Super Go Faster",
+    "logo": "/Content/Images/Sponsors/SuperGoFaster.jpg",
+    "url": "http://supergofaster.com",
+    "about": "Building better software by providing what matters most: The right people. We’re a Twin Cities software consulting company, leading a tireless crew to find and partner with the best consultants on the planet. At least, those within driving distance.",
+    "level": "Silver",
+    "eventId": "tccc22",
+    "twitter": "@supergofaster",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/282",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-02-15T16:34:54.8246547Z",
+      "Raven-Last-Modified": "2018-02-15T16:34:54.8246547",
+      "@etag": "01000000-0000-725F-0000-00000000000F",
+      "SerializedSizeOnDisk": 634
+    }
+  },
+  {
+    "name": "RavenDB",
+    "logo": "/Content/Images/Sponsors/RavenDB.jpg",
+    "url": "https://ravendb.net",
+    "about": "RavenDB is the open source NoSQL database for .NET. Blazing query speed, and a joy to use. We're cross-platform, free for open source and non-commercial use. Find us on NuGet.",
+    "level": "Silver",
+    "eventId": "tccc22",
+    "twitter": "@ravendb",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/313",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-02-16T20:39:37.4275367Z",
+      "Raven-Last-Modified": "2018-02-16T20:39:37.4275367",
+      "@etag": "01000000-0000-7295-0000-000000000003",
+      "SerializedSizeOnDisk": 533
+    }
+  },
+  {
+    "name": "Target",
+    "logo": "/Content/Images/Sponsors/Target.gif",
+    "url": "https://www.target.com",
+    "about": "With a digital career at Target, you’ll help transform one of the nation’s most-loved brands. Develop innovative solutions, leverage cutting-edge technologies to make our platforms even better, or drive this critical work forward through marketing or project management. If you are a developer, check out <a href=\"http://codewithtarget.com\">CodewithTarget.com</a>.",
+    "level": "Silver",
+    "eventId": "tccc22",
+    "twitter": "@target",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/345",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-02-19T16:02:36.5912262Z",
+      "Raven-Last-Modified": "2018-02-19T16:02:36.5912262",
+      "@etag": "01000000-0000-733C-0000-000000000002",
+      "SerializedSizeOnDisk": 728
+    }
+  },
+  {
+    "name": "Magenic",
+    "logo": "/assets/images/sponsors/tccc22/magenic.jpg",
+    "url": "https://magenic.com/",
+    "about": "Magenic is the leading modern application development firm that addresses your toughest, most complex software development challenges and delivers results. We are a full-service, professional services partner that has local consultants and a proven process. Magenic will get your projects to market sooner by using premier technical talent in a flexible way that best suits your organization.",
+    "level": "Platinum",
+    "eventId": "tccc22",
+    "twitter": "@magenic",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/217",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1285273Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1285273",
+      "@etag": "01000000-0000-EB6A-0000-000000000044",
+      "SerializedSizeOnDisk": 763
+    }
+  },
+  {
+    "name": "Aon Benfield",
+    "logo": "/assets/images/sponsors/tccc22/aon.jpg",
+    "url": "http://www.aon.com",
+    "about": "Aon is a leading global professional services firm providing a broad range of risk, retirement and health solutions.",
+    "level": "Gold",
+    "eventId": "tccc22",
+    "twitter": "@aonbenfield",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/284",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1293116Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1293116",
+      "@etag": "01000000-0000-EB6A-0000-000000000045",
+      "SerializedSizeOnDisk": 486
+    }
+  },
+  {
+    "name": "NDC Minneapolis",
+    "logo": "/assets/images/sponsors/tccc22/ndc.png",
+    "url": "https://ndcminnesota.com",
+    "about": "<strong>About NDC</strong>\n<p>\nSince its start-up in Oslo 2008, the Norwegian Developers Conference (NDC) quickly became one of Europe`s largest conferences for .NET & Agile development. Today NDC Conferences are 5-day events with 2 days of pre-conference workshops and 3 days of conference sessions.\n</p>\n<p>\n<strong>NDC Minnesota</strong>\n</p>\n<p>\nFrom 7-10 May 2018, Saint Paul will host the first ever NDC Minnesota. The conference will be a 4-day event with 2 days of pre-conference workshops and 2 days of conference.\n\nThe conference will cover topics such as:\n\nNET Framework - Agile - C++ - Cloud - Database - Design - Devops - Embedded - Front-End Framework - Fun - Functional Programming - Gadgets - Internet of Things - Javascript - Microsoft - Misc Languages - Mobile - People - Programming Languages - Security - Techniques - Testing - Tools - UX – Web and more.\n</p>",
+    "level": "Diamond",
+    "eventId": "tccc22",
+    "twitter": "@NDC_Conferences",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/377",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1293116Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1293116",
+      "@etag": "01000000-0000-EB6A-0000-000000000046",
+      "SerializedSizeOnDisk": 1280
+    }
+  },
+  {
+    "name": "Techmasters Twin Cities",
+    "logo": "/assets/images/sponsors/tccc22/techmasters.jpg",
+    "url": "http://www.techmasters-tc.com",
+    "about": "<p>Founded in 2009, we’re a group of tech types who realize that adding soft skills to our technical talents makes us more effective in our careers, businesses and the rest of our lives. We’re a Chartered Affiliate of Toastmasters, International, a worldwide organization dedicated to helping its members improve their communication skills.</p>\n\n<p>If you are in the Minneapolis, MN area and you are a…</p>\n<ul><li>Developer</li>\n<li>Recruiter</li>\n<li>Entrepreneur</li>\n<li>Consultant</li>\n<li>Security Expert</li>\n<li>Technical Sales professional</li>\n</ul>\n<p>\n…or if you just have a passion for technology you owe it to yourself to check out TechMasters. Do you geek out over things like the latest development tools or restoring old arcade machines? We do too. And we’d love to hear what YOU have to share.</p>",
+    "level": "Silver",
+    "eventId": "tccc22",
+    "twitter": "@techmasters",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/409",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1293116Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1293116",
+      "@etag": "01000000-0000-EB6A-0000-000000000047",
+      "SerializedSizeOnDisk": 1238
+    }
+  }
+]

@@ -1,0 +1,12 @@
+---
+layout: default
+renderData:
+  title: Schedule
+---
+
+{% if currentEvent == null %}
+  {% include no-event %}
+{% else %}
+
+  {% include talk-list, talkList: currentEvent.talks %}
+{% endif %}

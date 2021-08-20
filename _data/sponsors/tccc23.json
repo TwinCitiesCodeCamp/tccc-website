@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Magenic",
+    "logo": "/Content/Images/Sponsors/Magenic.jpg",
+    "url": "https://magenic.com",
+    "about": "Magenic is the leading modern application development firm that addresses your toughest, most complex software development challenges and delivers results. We are a full-service, professional services partner that has local consultants and a proven process. Magenic will get your projects to market sooner by using premier technical talent in a flexible way that best suits your organization.",
+    "level": "Platinum",
+    "eventId": "tccc23",
+    "twitter": "@magenic",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/443",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-11-06T23:27:36.2917179Z",
+      "Raven-Last-Modified": "2018-11-06T23:27:36.2917179",
+      "@etag": "01000000-0000-B18E-0000-000000000008",
+      "SerializedSizeOnDisk": 752
+    }
+  },
+  {
+    "name": "RavenDB",
+    "logo": "https://ravendb.net/img/raven_logo.png?v2",
+    "url": "https://ravendb.net",
+    "about": "RavenDB is the industry’s first fully-transactional, NoSQL ACID database that combines scalability, high-availability, speed and performance. The company produces two ORM tools, NHibernate and Entity Framework Profilers, that inspect, analyze and suggest improvements to database access patterns in applications. Hibernating Rhinos is headquartered in Hadera, Israel with offices in the U.S. and Poland and extends its reach through over 1500+ customers worldwide.",
+    "level": "Silver",
+    "eventId": "tccc23",
+    "twitter": "@ravendb",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/442",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2018-11-06T23:28:53.2145464Z",
+      "Raven-Last-Modified": "2018-11-06T23:28:53.2145464",
+      "@etag": "01000000-0000-B18E-0000-00000000000A",
+      "SerializedSizeOnDisk": 829
+    }
+  },
+  {
+    "name": "Super Go Faster",
+    "logo": "/Content/Images/Sponsors/SuperGoFaster.jpg",
+    "url": "http://supergofaster.com",
+    "about": "Building better software by providing what matters most: The right people. We’re a Twin Cities software consulting company, leading a tireless crew to find and partner with the best consultants on the planet. At least, those within driving distance.",
+    "level": "Silver",
+    "eventId": "tccc23",
+    "twitter": "@supergofaster",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/537",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-02-14T22:43:59.6719675Z",
+      "Raven-Last-Modified": "2019-02-14T22:43:59.6719675",
+      "@etag": "01000000-0000-CA13-0000-000000000002",
+      "SerializedSizeOnDisk": 634
+    }
+  },
+  {
+    "name": "Target",
+    "logo": "/Content/Images/Sponsors/Target.gif",
+    "url": "https://www.target.com",
+    "about": "With a digital career at Target, you’ll help transform one of the nation’s most-loved brands. Develop innovative solutions, leverage cutting-edge technologies to make our platforms even better, or drive this critical work forward through marketing or project management. If you are a developer, check out <a href=\"http://codewithtarget.com\">CodewithTarget.com</a>.",
+    "level": "Silver",
+    "eventId": "tccc23",
+    "twitter": "@target",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/633",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-03-21T19:43:25.6976359Z",
+      "Raven-Last-Modified": "2019-03-21T19:43:25.6976359",
+      "@etag": "01000000-0000-D1A9-0000-000000000002",
+      "SerializedSizeOnDisk": 728
+    }
+  },
+  {
+    "name": "Daugherty",
+    "logo": "/assets/images/sponsors/tccc23/daugherty.png",
+    "url": "https://www.daugherty.com",
+    "about": "Since 1985, Daugherty Business Solutions has specialized in helping companies think bigger and expect more, all while delivering results with a real-world approach. With expertise in the areas of enterprise planning, digital engagement, agile transformation, technology optimization, IoT and Mobile Applications, Information Management and more, Daugherty consultants are solving mission-critical projects for some of the most well-known companies in the world. Their partnering ability, proven methods, and team of 1,000+ consultants sets them apart in providing world-class strategy, technology and innovation across all industries and business functions. Discover the Daugherty Difference by visiting <a href=\"https://daugherty.com\">daugherty.com</a>",
+    "level": "Diamond",
+    "eventId": "tccc23",
+    "twitter": "@daughertytweets",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/441",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1303165Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1303165",
+      "@etag": "01000000-0000-EB6A-0000-000000000048",
+      "SerializedSizeOnDisk": 1142
+    }
+  },
+  {
+    "name": "JetBrains",
+    "logo": "/assets/images/sponsors/tccc23/jetbrains.png",
+    "url": "https://www.jetbrains.com",
+    "about": "<h1>The drive to develop</h1>\n\n<p>At JetBrains, code is our passion. For over 15 years we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover and create.</p>\n\n<h1>Our mission</h1>\n\n<p>We make professional software development a more productive and enjoyable experience.</p>\n\n<p>We help developers work faster by automating common, repetitive tasks to enable them to stay focused on code design and the big picture. We provide tools to explore and familiarize with code bases faster. Our products make it easy for you to take care of quality during all stages of development and spend less time on maintenance tasks.</p>",
+    "level": "Gold",
+    "eventId": "tccc23",
+    "twitter": "@jetbrains",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/473",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1303165Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1303165",
+      "@etag": "01000000-0000-EB6A-0000-000000000049",
+      "SerializedSizeOnDisk": 1144
+    }
+  },
+  {
+    "name": "Total Expert",
+    "logo": "/assets/images/sponsors/tccc23/total-expert.png",
+    "url": "https://totalexpert.com/",
+    "about": "<p>The first enterprise-grade Marketing Operating System built for the future of banks and mortgage lenders.\n</p>\n<p>Marketing | Co-marketing | Compliance | CRM</p>\n<p>\nTotal Expert’s Marketing Operating System gives your organization a centralized platform to manage your brand at an enterprise level. You gain greater oversight and audit-ready compliance, fueling fast, confident decisions. </p>",
+    "level": "Gold",
+    "eventId": "tccc23",
+    "twitter": "@TotalExpertInc",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/505",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1303165Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1303165",
+      "@etag": "01000000-0000-EB6A-0000-00000000004A",
+      "SerializedSizeOnDisk": 791
+    }
+  },
+  {
+    "name": "Patterson",
+    "logo": "/assets/images/sponsors/tccc23/patterson.png",
+    "url": "https://www.pattersondental.com",
+    "about": "We provide technology, products, services and programs that enhance the dental practice lifestyle and patient experience.",
+    "level": "Gold",
+    "eventId": "tccc23",
+    "twitter": "@pattersondental",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/569",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1303165Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1303165",
+      "@etag": "01000000-0000-EB6A-0000-00000000004B",
+      "SerializedSizeOnDisk": 511
+    }
+  },
+  {
+    "name": "NDC Minnesota",
+    "logo": "/assets/images/sponsors/tccc23/ndc.png",
+    "url": "https://ndcminnesota.com",
+    "about": "<p>\nFrom 6-9 May 2019, Saint Paul will host the 2nd annual NDC Minnesota. The conference will be a 4-day event with 2 days of pre-conference workshops and 2 days of conference.</p>\n\n<p>The conference will cover topics such as:</p>\n\n<p>NET Framework - Agile - C++ - Cloud - Database - Design - Devops - Embedded - Front-End Framework - Fun - Functional Programming - Gadgets - Internet of Things - Javascript - Microsoft - Misc Languages - Mobile - People - Programming Languages - Security - Techniques - Testing - Tools - UX – Web and more. </p>",
+    "level": "Diamond",
+    "eventId": "tccc23",
+    "twitter": "@NDC_Conferences",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/601",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1313117Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1313117",
+      "@etag": "01000000-0000-EB6A-0000-00000000004C",
+      "SerializedSizeOnDisk": 937
+    }
+  },
+  {
+    "name": "SafeNet",
+    "logo": "/assets/images/sponsors/tccc23/safenet.png",
+    "url": "https://safenetconsulting.com",
+    "about": "<p>SafeNet was started in 1994 on the foundation that consulting could be done differently. More than 20 years later, we are still demonstrating to our clients that consulting can move you – to rethink your future, to think differently about a challenge, to reshape your customer’s experience, and to see a bigger picture. SafeNet, a tech-focused second location in the heart of downtown, delivers technology solutions that leverage the cloud to deliver custom solutions for your users through web, mobile, IoT, and cutting-edge interfaces.</p>\n\n<p>SafeNet consultants lead the charge as trusted digital advisors who will support your team with strategic thinking and pragmatic execution. We work with progressive organizations who place value in the application of emerging technologies to drive their business forward.</p>",
+    "level": "Silver",
+    "eventId": "tccc23",
+    "twitter": "@safenet",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/665",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2019-07-09T17:10:39.1313117Z",
+      "Raven-Last-Modified": "2019-07-09T17:10:39.1313117",
+      "@etag": "01000000-0000-EB6A-0000-00000000004D",
+      "SerializedSizeOnDisk": 1208
+    }
+  }
+]

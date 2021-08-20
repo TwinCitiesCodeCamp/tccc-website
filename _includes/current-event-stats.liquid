@@ -1,0 +1,68 @@
+{% if currentEvent != null %}
+
+<div class="card-group">
+  <div class="card border-0">
+    <div class="icon-circle bg-primary-tccc"><i class="fa fa-star"></i></div>
+    <div class="card-body">
+      <h5 class="card-title text-center">{{ currentEventSpeakers | size }} Speakers</h5>
+      <p class="card-text">
+        {% for speaker in currentEventSpeakers %}
+        <img src="{{ speaker.pictureUrl | relative_url }}" class="m-0" style="width: 60px" />
+        {% endfor %}
+      </p>
+    </div>
+  </div>
+  <div class="card border-0">
+    <div class="icon-circle bg-info-tccc"><i class="fa fa-tags"></i></div>
+    <div class="card-body">
+      <h5 class="card-title text-center">Topics</h5>
+      <p class="card-text text-center">
+        {% for tag in currentEventTags limit:20 %}
+        <span class="tag">
+          <i class="fa fa-tag" style="font-size: 15px"></i> {{ tag }}
+        </span>
+        {% endfor %}
+      </p>
+    </div>
+  </div>
+  <div class="card border-0">
+    <div class="icon-circle bg-success-tccc">
+      <i class="fa fa-thumbs-up"></i>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title text-center">{{ currentEvent.talks | size }} Talks</h5>
+      <p class="card-text">
+        <ul class="list-unstyled">
+          {% assign shuffledTalks = currentEvent.talks | shuffle %}
+          {% for talk in shuffledTalks limit:5 %}
+
+          
+
+          <li>
+            <div class="media position-relative mb-3 p-1 stat-talk">
+              <span class="speaker-image-wrapper-stats">
+                {% if talk.hasPicture %}
+                <img src="{{ talk.pictureUrl }}" alt="{{ talk.author }}" />
+                {% else %}
+                <img
+                src="{{ '/assets/images/unknown-speaker.jpg' | relative_url }}"
+                alt="{{ talk.author }}"
+                />
+                {% endif %}
+              </span>
+              <div class="media-body"> 
+                <a href="{{ talk.permalink| relative_url}}" class="stretched-link">{{ talk.title }}</a>
+              </div>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+        <div class="text-center">
+          <a href="/events/{{ currentEvent.eventId | relative_url }}">View all</a>
+        </div>
+      </p>
+    </div>
+  </div>
+</div>
+
+{% endif %}

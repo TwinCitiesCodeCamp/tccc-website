@@ -1,0 +1,25 @@
+{
+  "name": "11test",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "build:watch": "eleventy --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twincitiescodecamp/tccc-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twincitiescodecamp/tccc-website/issues"
+  },
+  "homepage": "https://github.com/twincitiescodecamp/tccc-website#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

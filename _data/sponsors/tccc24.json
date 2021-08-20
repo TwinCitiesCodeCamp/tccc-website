@@ -1,0 +1,78 @@
+[
+  {
+    "name": "JetBrains",
+    "logo": "https://www.jetbrains.com/company/brand/img/logo1.svg",
+    "url": "https://www.jetbrains.com",
+    "about": "We make professional software development a more productive and enjoyable experience.\nWhichever technologies you use, there's a JetBrains tool to match",
+    "level": "Silver",
+    "eventId": "tccc24",
+    "twitter": "@jetbrains",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/697",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2020-01-29T19:39:07.0208446Z",
+      "Raven-Last-Modified": "2020-01-29T19:39:07.0208446",
+      "@etag": "01000000-0001-1D4D-0000-000000000001",
+      "SerializedSizeOnDisk": 537
+    }
+  },
+  {
+    "name": "Magenic",
+    "logo": "https://pbs.twimg.com/profile_images/953746738661093376/4A-ihlm-.jpg",
+    "url": "https://www.magenic.com",
+    "about": "Magenic is the digital consulting company built to move you Fast Forward.",
+    "level": "Platinum",
+    "eventId": "tccc24",
+    "twitter": "@magenic",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/699",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2020-01-29T19:39:58.3576926Z",
+      "Raven-Last-Modified": "2020-01-29T19:39:58.3576926",
+      "@etag": "01000000-0001-1D4D-0000-000000000003",
+      "SerializedSizeOnDisk": 469
+    }
+  },
+  {
+    "name": "Robert Half Technology",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEeBnZhvnSqxw/company-logo_200_200/0?e=2159024400&v=beta&t=nw1YJmt4-D13B6Fi64aafj1n69sPHwC_b5yU-fecaEU",
+    "url": "https://www.roberthalf.com",
+    "about": "Finally, a Hack for Hiring Tech Talent.\nYour go-to source for technology staffing and project work",
+    "level": "Platinum",
+    "eventId": "tccc24",
+    "twitter": "@roberthalf",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/729",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2020-01-31T15:43:52.5456549Z",
+      "Raven-Last-Modified": "2020-01-31T15:43:52.5456549",
+      "@etag": "01000000-0001-1DB5-0000-000000000003",
+      "SerializedSizeOnDisk": 595
+    }
+  },
+  {
+    "name": "NDC Minnesota",
+    "logo": "http://sessionize.com/image?f=44bc5910a8332c8c977fabdfba1e1172,1140,400,0,1,b9-563d-4745-a517-1ebf84fc059b.5b95d02f-8ff1-4e11-a926-f585852a457a.png",
+    "url": "https://ndcminnesota.com",
+    "about": "Since its start-up in Oslo 2008, the Norwegian Developers Conference (NDC) quickly became one of Europe`s largest conferences for .NET & Agile development. Today NDC Conferences are 5-day events with 2 days of pre-conference workshops and 3 days of conference sessions.",
+    "level": "Diamond",
+    "eventId": "tccc24",
+    "twitter": "@NDC_conferences",
+    "ravenMetadata": {
+      "Raven-Entity-Name": "Sponsors",
+      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
+      "@id": "sponsors/698",
+      "Temp-Index-Score": 4.44201946,
+      "Last-Modified": "2020-01-31T16:05:17.2009548Z",
+      "Raven-Last-Modified": "2020-01-31T16:05:17.2009548",
+      "@etag": "01000000-0001-1DB5-0000-000000000004",
+      "SerializedSizeOnDisk": 758
+    }
+  }
+]
