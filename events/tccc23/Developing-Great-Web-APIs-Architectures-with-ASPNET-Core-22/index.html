@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Developing Great Web APIs Architectures with ASP.NET Core 2.2</title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/images/favico.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Titillium+Web|Lato:300,400,700);"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="/assets/css/styles.css"
+    />
+    <style>
+      img {
+        max-width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="mb-5 pb-5">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark pb-0 pt-0">
+          <a class="navbar-brand" href="/"
+            ><i class="fa fa-code"></i
+          ></a>
+
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarNav">
+
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="/event"
+                  >Event</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/schedule"
+                  >Schedule</a
+                >
+              </li>
+              
+              <li class="nav-item">
+                <a class="nav-link" href="/sponsors"
+                  >Sponsors</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/events"
+                  >Past Events</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/policies"
+                  >Code of Conduct</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/about"
+                  >About</a
+                >
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="text-center pb-5 pt-5">
+        <h1><i class="fa fa-code colored-code"></i> Twin Cities Code Camp</h1>
+        <h2>Postponed!</h2>
+        <p>
+          Due to the Covid-19 pandemic, Twin Cities Code Camp has been postponed. We are keeping an eye on Spring 2022.
+        </p>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        
+
+
+<div class="media">
+  <span class="speaker-image-wrapper">
+    
+    <img src="/assets/images/speakers/tccc23/chris-woodruff.jpg" alt="Chris Woodruff" />
+    
+  </span>
+  <div class="media-body">
+    <h2 class="mt-0">
+      Developing Great Web APIs Architectures with ASP.NET Core 2.2
+    </h2>
+    <h6>
+      
+      <span class="tag"> <i class="fa fa-tag"></i> architecture </span>
+      
+      <span class="tag"> <i class="fa fa-tag"></i> asp.net core </span>
+      
+      <span class="tag"> <i class="fa fa-tag"></i> web </span>
+      
+      <span class="tag"> <i class="fa fa-tag"></i> rest </span>
+      
+    </h6>
+    <h5>
+      by Chris Woodruff 
+      <a href="//twitter.com/@cwoodruff"
+        ><i class="fa fa-twitter" style="color: #00aced"></i></a
+      > 
+      <a href="//github.com/cwoodruff"
+        ><i class="fa fa-github" style="color: #000"></i></a
+      >
+    </h5>
+
+    
+    <p>
+      <strong>Sun, Oct 01, 2006</strong><br/>
+      <strong>Room:</strong> P0806 A&B<br />
+      <strong>Time:</strong> 
+    </p>
+    
+
+    <div>
+      <p>You know you have to have a great experience when you develop your apps, right? The greatest experience for your user's centers around their data. That’s why developing a great set of Web APIs is so important. Using ASP.NET Core Web API is a modern cross-platform framework for the modern web. ASP.NET Core Web API can be run on Windows and Linux using all the modern web servers. The secret to it all is knowing how to architect your Web APIs for the best experience.</p>
+<p>
+Using the architecture in this talk allows your APIs specifically to work better due to:
+</p>
+<ul>
+<li>Allowing a clear decoupling of the API endpoints, Data Access (Synthetic or Production) and finally the Data Domain classes.</li>
+<li>The API Endpoints (Controllers) have no knowledge or responsibility of Data Domain and behind it Data Access.</li>
+<li>Because of the decoupling and separation of responsibilities testing can be done easily and without issues.</li>
+<li>Data Access segments of the architecture can easily be switched out without impacting the Domain or API Endpoints.</li>
+</ul>
+<p>By using this architecture not only does the development story become easier but your end users get a much more stable API set to consume. The talk will explain and get you started on using these concepts with your ASP.NET Core 2.2 Web API solutions.</p>
+    </div>
+
+    <hr />
+
+    <h5>About the Author</h5>
+    <p>Chris Woodruff (or Woody as he is commonly known as) has a degree in Computer Science from Michigan State University’s College of Engineering. Woody has been developing and architecting software solutions for over 20 years and has worked in many different platforms and tools. He is a community leader, helping such events as GRDevNight, GRDevDay, West Michigan Day of .NET and Beer City Code. He was also instrumental in bringing the popular Give Camp event to Western Michigan where technology professionals lend their time and development expertise to assist local non-profits. As a speaker and podcaster, Woody has spoken and discussed a variety of topics, including database design and open source. He has been a Microsoft MVP in Visual C#, Data Platform and SQL and was recognized in 2010 as one of the top 20 MVPs world-wide. Woody is a Developer Advocate for JetBrains and evangelizes .NET, .NET Core and JetBrains' products in North America.</p>
+  </div>
+</div>
+
+      </div>
+    </main>
+    <footer class="mt-5">
+      <p class="text-center">
+        <small
+          >&copy; 2021 Twin Cities Code Camp. A plain HTML web site 
+          built with
+          <a href="https://11ty.dev">Eleventy</a>.</small>
+      </p>
+    </footer>
+
+  </body>
+</html>

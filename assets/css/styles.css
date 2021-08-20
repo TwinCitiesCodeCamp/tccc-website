@@ -1,0 +1,164 @@
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #ebebeb;
+  background-color: #2b3e50;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+header {
+  background-image: url("../images/wide_sepia.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 4px 20px 0 black;
+}
+
+header nav {
+  background-color: #4e5d6c;
+  font-size: 18px;
+  color: #ebebeb;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ebebeb;
+}
+
+header .nav-item {
+  margin-right: 1rem;
+}
+
+.colored-code {
+  color: #df691a;
+  text-shadow: 1px 4px #f0ad4e, 2px 8px #5cb85c, 3px 12px #5bc0de;
+  -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(50%, transparent), to(rgba(255, 255, 255, 0.2)));
+}
+header {
+  font-family: "Titillium Web", sans-serif;
+}
+
+header h1 {
+  font-size: 5rem;
+}
+
+header h2 {
+  font-size: 3rem;
+}
+
+.home-text {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.home-text h1 {
+  font-size: 2.4rem;
+}
+
+.card {
+  color: #ebebeb;
+  background-color: #2b3e50;
+}
+
+.icon-circle {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  border-radius: 50px;
+  padding-top: 22px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card .fa {
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+.bg-info-tccc {
+  background-color: #5bc0de;
+}
+
+.bg-danger-tccc {
+  background-color: #d9534f;
+}
+
+.bg-warning-tccc {
+  background-color: #f0ad4e;
+}
+
+.bg-success-tccc {
+  background-color: #5cb85c;
+}
+
+.bg-primary-tccc {
+  background-color: #df691a;
+}
+
+a,
+a:link,
+a:visited {
+  color: #df691a;
+}
+
+.speaker-image-wrapper {
+  width: 15rem;
+  margin-right: 1rem;
+}
+
+.speaker-image-wrapper-small {
+  width: 10rem;
+  margin-right: 1rem;
+}
+
+.speaker-image-wrapper-stats {
+  width: 2.5rem;
+  margin-right: 1rem;
+  display: inline-block;
+}
+
+.speaker-image-wrapper img,
+.speaker-image-wrapper-small img,
+.speaker-image-wrapper-stats img {
+  border-radius: 50%;
+  width: 100%;
+  box-shadow: 1px 1px 15px 0 #222;
+}
+
+.talk-unit {
+  background-color: #3d5871;
+  padding: 1rem;
+  box-shadow: 2px 2px 5px 0 #19242f;
+}
+
+.tag {
+  color: #fff;
+  display: inline-block;
+  padding: 8px 12px 8px 12px;
+  background-color: rgba(255, 255, 255, 0.3);
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+
+.current-event-details img {
+  width: 100%;
+}
+
+.stat-talk {
+  background-color: #4e5d6c;
+}
+
+.stat-talk a {
+  color: #fff;
+}
+
+a.tag {
+  color: #fff;
+}

@@ -1,0 +1,162 @@
+<h1>Twin Cities Code Camp Website</h1>
+<p>Source code for the TCCC static site generator.
+Uses <a href="https://11ty.dev">Eleventy</a>.</p>
+<h1>Run Locally</h1>
+<p>Clone the repository and then run:</p>
+<pre><code>npm install
+npm run start
+</code></pre>
+<p>You should then see some URLs to access the site locally:</p>
+<pre><code>[Browsersync] Access URLs:
+ -----------------------------------
+       Local: http://localhost:8083
+    External: http://10.0.0.239:8083
+ -----------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ -----------------------------------
+[Browsersync] Serving files from: _site
+</code></pre>
+<h1>How to Maintain Site Content</h1>
+<p>All site content is driven from .json data files located in
+<a href="_data">_data</a>.</p>
+<h2>Events</h2>
+<p>To add or edit an event, use the
+<a href="_data/events/events.json">_data/events/events.json</a> file.</p>
+<p>Event object example:</p>
+<pre><code class="language-json">{
+  &quot;eventId&quot;: &quot;tccc24&quot;,
+  &quot;number&quot;: 24,
+  &quot;registerUrl&quot;: &quot;&quot;,
+  &quot;dateTime&quot;: &quot;2020-01-09T00:06:00.000Z&quot;,
+  &quot;locationFriendlyName&quot;: &quot;Normandale Community College&quot;,
+  &quot;address&quot;: &quot;9700 France Ave S, Bloomington, MN 55431&quot;,
+  &quot;seasonYear&quot;: &quot;Spring 2020&quot;,
+}
+</code></pre>
+<h2>Talks</h2>
+<p>Talks are divided into files per event, located under the
+<a href="_data/talks">_data/talks</a> folder.</p>
+<p>To create talks for a new event, first create a new .json file
+under <a href="_data/talks">_data/talks</a> for the event. For example,
+if you wanted to create talks for TCCC57, you would create
+<code>_data/talks/tccc57.json</code>.</p>
+<p>Once you have located the talks .json file for the specific event,
+you can add, edit or remove talks from the array in the file.</p>
+<p>Talk object example:</p>
+<pre><code class="language-json">{
+  &quot;eventId&quot;: &quot;tccc24&quot;,
+  &quot;title&quot;: &quot;Advanced Machine Learning for Absolute Beginners&quot;,
+  &quot;abstract&quot;: &quot;In this session, &lt;em&gt;you will be confused&lt;/em&gt;.&quot;,
+  &quot;author&quot;: &quot;Bill Gate&quot;,
+  &quot;authorBio&quot;: &quot;6 months experience. I like to play video games.&quot;,
+  &quot;authorEmail&quot;: &quot;expert@vr-sunset.xyz&quot;,
+  &quot;authorUrl&quot;: &quot;https://vr-sunset.xyz&quot;,
+  &quot;authorTwitter&quot;: &quot;all_about_teh_socialz&quot;,
+  &quot;authorGitHub&quot;: &quot;&quot;,
+  &quot;room&quot;: &quot;103&quot;,
+  &quot;hour&quot;: 0,
+  &quot;pictureUrl&quot;: &quot;https://vr-sunset.xyz/404.jpg&quot;,
+  &quot;tags&quot;: [
+    &quot;machine learning&quot;,
+    &quot;expert&quot;,
+    &quot;fun&quot;,
+    &quot;llamas&quot;
+  ],
+}
+</code></pre>
+<blockquote>
+<p>For what it's worth, you don't have to name these files with
+the convention &quot;<code>tcccXX.json</code>&quot;
+and they don't have to conform to a numbering scheme. All .json
+files in this folder will be included and can be named anything, but
+they should follow the numbering convention for maintainability.</p>
+</blockquote>
+<h2>Sponsors</h2>
+<p>Sponsors work just like talks. They are divided into files per event,
+located under the <a href="_data/sponsors">_data/sponsors</a> folder.</p>
+<p>Create a sponsors .json file for its event. For example, to create
+sponsors for TCCC31, you would create <code>_data/sponsors/tccc31.json</code>.</p>
+<p>Once you've located the sponsors data file, you can add, edit, or
+remove sponsors from the array in the file.</p>
+<p>Sponsor object example:</p>
+<pre><code class="language-json">{
+  &quot;name&quot;: &quot;Megacorp&quot;,
+  &quot;logo&quot;: &quot;hhttps://picsum.photos/200&quot;,
+  &quot;url&quot;: &quot;https://www.vr-sunset.xyz&quot;,
+  &quot;about&quot;: &quot;We sponsor code camps. With &lt;em&gt;html&lt;/em&gt;.&quot;,
+  &quot;level&quot;: &quot;Platinum&quot;,
+  &quot;eventId&quot;: &quot;tccc24&quot;,
+  &quot;twitter&quot;: &quot;@megacorp_socialz_lol&quot;
+}
+</code></pre>
+<h2>Current Event / No Event</h2>
+<p>To change or remove the currently featured event, modify the
+<code>currentEventId</code> constant in the <a href="_data/currentEvent.js">_data/currentEvent.js</a>
+file.</p>
+<p>For example, to set the current event to &quot;TCCC 24&quot;:</p>
+<pre><code class="language-javascript">const currentEventId = &quot;tccc24&quot;;
+</code></pre>
+<blockquote>
+<p>Note: this assumes there is a corresponding &quot;tccc24&quot; <code>eventId</code> in the
+<a href="_data/events/events.json">_data/events/events.json</a> file.</p>
+</blockquote>
+<p>Or, if you want to clear the current event due to a worldwide pandemic,
+just set the constant value to <code>null</code>:</p>
+<pre><code class="language-javascript">const currentEventId = null;
+</code></pre>
+<h1>Wait, how is each page created?</h1>
+<p>The main site pages are created from top-level
+<a href="https://shopify.github.io/liquid/basics/introduction/">liquid templates</a>:</p>
+<table>
+<thead>
+<tr>
+<th>Page</th>
+<th>Template</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Home</td>
+<td>index.liquid</td>
+</tr>
+<tr>
+<td>Current Event Info</td>
+<td>event-current.liquid</td>
+</tr>
+<tr>
+<td>Current Sponsors</td>
+<td>sponsors.liquid</td>
+</tr>
+<tr>
+<td>Historic Event List</td>
+<td>event-list.liquid</td>
+</tr>
+<tr>
+<td>About</td>
+<td>about.liquid</td>
+</tr>
+<tr>
+<td>Code of Conduct</td>
+<td>policies.liquid</td>
+</tr>
+<tr>
+<td>Event Detail / List of Talks</td>
+<td>event-detail.liquid</td>
+</tr>
+<tr>
+<td>Talk Detail</td>
+<td>talk.liquid</td>
+</tr>
+</tbody>
+</table>
+<p>The main site layout and partials/helpers are all located
+at <a href="_includes">_includes</a>.</p>
+<h1>Bugs, Issues, etc</h1>
+<p>If something looks wrong, it probably is. Or maybe you are an expert
+in Eleventy and see something that could be done more easily.
+Please help by submitting an issue or a pull request.</p>
+<h1>Resources</h1>
+<ul>
+<li>https://www.linkedin.com/pulse/eleventy-github-pages-lea-tortay/</li>
+</ul>
