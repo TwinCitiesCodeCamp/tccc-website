@@ -8,23 +8,12 @@ Uses [Eleventy](https://11ty.dev).
 Clone the repository and then run:
 
 ```
-npm install
-npm run start
+yarn
+yarn start
 ```
 
-You should then see some URLs to access the site locally:
-
-```
-[Browsersync] Access URLs:
- -----------------------------------
-       Local: http://localhost:8083
-    External: http://10.0.0.239:8083
- -----------------------------------
-          UI: http://localhost:3001
- UI External: http://localhost:3001
- -----------------------------------
-[Browsersync] Serving files from: _site
-```
+> NOTE: we use `yarn` and not `npm`. Please install and use 
+> `yarn` with `npm install --global yarn`.
 
 # How to Maintain Site Content
 
