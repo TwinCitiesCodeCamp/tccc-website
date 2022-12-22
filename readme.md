@@ -174,4 +174,3 @@ Please help by submitting an issue or a pull request.
 # Resources
 
 - https://www.linkedin.com/pulse/eleventy-github-pages-lea-tortay/
-
