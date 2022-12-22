@@ -3,20 +3,13 @@
 Uses <a href="https://11ty.dev">Eleventy</a>.</p>
 <h1>Run Locally</h1>
 <p>Clone the repository and then run:</p>
-<pre><code>npm install
-npm run start
+<pre><code>yarn
+yarn start
 </code></pre>
-<p>You should then see some URLs to access the site locally:</p>
-<pre><code>[Browsersync] Access URLs:
- -----------------------------------
-       Local: http://localhost:8083
-    External: http://10.0.0.239:8083
- -----------------------------------
-          UI: http://localhost:3001
- UI External: http://localhost:3001
- -----------------------------------
-[Browsersync] Serving files from: _site
-</code></pre>
+<blockquote>
+<p>NOTE: we use <code>yarn</code> and not <code>npm</code>. Please install and use
+<code>yarn</code> with <code>npm install --global yarn</code>.</p>
+</blockquote>
 <h1>How to Maintain Site Content</h1>
 <p>All site content is driven from .json data files located in
 <a href="_data">_data</a>.</p>
