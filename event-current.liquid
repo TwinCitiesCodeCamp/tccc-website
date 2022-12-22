@@ -6,29 +6,32 @@ renderData:
 ---
 
 {% if currentEvent == null %}
-{% include no-event %}
+  {% include no-event %}
 
 {% else %}
 
-<div class="current-event-details">
-  <p class="lead">
-    Code Camp takes place {{ currentEvent.dateTime | date: "%a, %b %d, %Y" }}
-    at {{ currentEvent.locationFriendlyName }}.
-  </p>
+  <div class="current-event-details">
+    <p class="lead">
+      Code Camp takes place {{ currentEvent.dateTime | date: "%a, %b %d, %Y" }}
+      at {{ currentEvent.locationFriendlyName }}.
+    </p>
 
-  <p>
-    <h3><a href="https://google.com/maps/search/{{ currentEvent.address }}"
-      >{{ currentEvent.address }}</a
-    ></h3>
-  </p>
+    <p>
+      <h3>
+        <a href="https://google.com/maps/search/{{ currentEvent.address }}">{{ currentEvent.address }}</a>
+      </h3>
+    </p>
 
-  <p class="lead">Coming to the event? Please <a href="{{ currentEvent.registerUrl}} ">register</a>!</p>
+    {% if currentEvent.registerUrl != "" %}
+      <p class="lead">Coming to the event? Please
+        <a href="{{ currentEvent.registerUrl}} ">register</a>!</p>
+    {% else %}
+      <p class="lead">Registration link coming soon.</p>
+    {% endif %}
 
-  <p>
-    <img
-      src="https://www.normandale.edu/why-normandale/images/maps.PNG"
-    />
-  </p>
-</div>
+    <p>
+      <img src="https://www.normandale.edu/why-normandale/images/maps.PNG" />
+    </p>
+  </div>
 
 {% endif %}

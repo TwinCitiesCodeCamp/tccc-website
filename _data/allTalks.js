@@ -1,5 +1,4 @@
 module.exports = function () {
-  
   let allTalks = [];
 
   require("fs")
