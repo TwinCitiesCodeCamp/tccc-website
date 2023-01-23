@@ -8,5 +8,9 @@ renderData:
   {% include no-event %}
 {% else %}
 
+    <p class="lead">Interested in giving a talk at the next event?
+      <a href="https://sessionize.com/twin-cities-code-camp-24/">Submit your talk</a>.</p>
+
+
   {% include talk-list, talkList: currentEvent.talks %}
 {% endif %}
