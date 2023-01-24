@@ -28,6 +28,10 @@ header nav {
   color: #ebebeb;
 }
 
+.navbar {
+  padding-left: 1rem;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color: #ebebeb;
 }
