@@ -117,7 +117,9 @@ a:visited {
 }
 
 .speaker-image-wrapper-small {
+  min-width: 200px;
   width: 10rem;
+  display: inline-block;
   margin-right: 1rem;
 }
 
@@ -178,4 +180,16 @@ a.tag {
 
 .shirt-event-id {
   text-transform: uppercase;
+}
+
+.media {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 480px) {
+  .media {
+    display: flex;
+    flex-direction: column;
+  }
 }
