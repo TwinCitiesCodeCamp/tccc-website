@@ -55,5 +55,41 @@
       "@etag": "01000000-0001-1DB5-0000-000000000004",
       "SerializedSizeOnDisk": 758
     }
+  },
+  {
+    "name": "Super Go Faster",
+    "logo": "https://images.squarespace-cdn.com/content/v1/612567c57e021b07fb6fc03d/62f00658-5671-4110-8064-90e1c931bfd7/Site+Header+Long+Logo+Star.png?format=500w",
+    "url": "https://www.supergofaster.com",
+    "about": "Super Go Faster is a software consulting firm that matches top freelancer talent to your toughest projects.  Let us help with the heavy lifting.",
+    "level": "Silver",
+    "eventId": "tccc24",
+    "twitter": ""
+  },
+  {
+    "name": "RBA",
+    "logo": "https://www.rbaconsulting.com/wp-content/uploads/2019/06/rba-logo-1.png",
+    "url": "https://www.rbaconsulting.com/",
+    "about": "At RBA we have designed our services and engagement types to align to the unique needs of our clients. We have designed our teams to add capacity to your team, help deliver a solution on new technologies, and support your organization after launch.",
+    "level": "Platinum",
+    "eventId": "tccc24",
+    "twitter": ""
+  },
+  {
+    "name": "Thrivent",
+    "logo": "https://cdn.thrivent.com/5f/13/47c264b148bbbed64eec802f8bad/logo-thrivent-rgb-rev.svg",
+    "url": "https://www.thrivent.com/",
+    "about": "Wherever your heart is leading you, Thrivent helps make sure your finances support the journey. A Thrivent financial advisor can help you take control of your personal finances to achieve your lifelong goals, including supporting your loved ones and the causes you care about. Connect with a Thrivent financial advisor to start planning with purpose.",
+    "level": "Gold",
+    "eventId": "tccc24",
+    "twitter": ""
+  },
+  {
+    "name": "Xpirit",
+    "logo": "https://xpirit.com/wp-content/themes/xpirit/images/logo-w.svg",
+    "url": "https://xpirit.com/",
+    "about": "We are highly experienced consultants, helping companies in their journey to cloud-native by building Engineering Cultures. Our ‘pure consultancy’ approach will assess your specific business context. We provide open and honest insights into what we think your company needs to make an efficient transition, which is highly valued by the customers we serve.",
+    "level": "Platinum",
+    "eventId": "tccc24",
+    "twitter": ""
   }
 ]
