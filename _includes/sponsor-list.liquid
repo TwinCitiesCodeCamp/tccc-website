@@ -1,28 +1,33 @@
 {% if sponsorList.length > 0 %}
-<section>
+  <section>
 
-<h4>{{ level }} Level</h4>
+    <h4>{{ level }} Level</h4>
 
-{% for sponsor in sponsorList %}
-<div class="media talk-unit mb-4">
-  <img
-    src="{{ sponsor.logo }}"
-    class="mr-3"
-    style="max-width: 300px"
-  />
-  <div class="media-body">
-    <h3 class="mt-0">{{ sponsor.name }}</h3>
-    <p>
-      {{ sponsor.about }}
-    </p>
-    <p>
-      <a href="{{sponsor.url}}">{{sponsor.url}}</a>
-      <br />
-      <a href="//twitter.com/{{sponsor.twitter}}">{{sponsor.twitter}}</a>
-    </p>
-  </div>
-</div>
-{% endfor %}
+    {% for sponsor in sponsorList %}
+      <div class="media talk-unit mb-4">
+        <div class="media-body" style="width: 75%;">
+          <h3 class="mt-0">{{ sponsor.name }}</h3>
+          <p>
+            {{ sponsor.about }}
+          </p>
+          <p>
+            <a href="{{sponsor.url}}">{{ sponsor.url }}</a>
+            <br/>
+            <a href="//twitter.com/{{sponsor.twitter}}">{{ sponsor.twitter }}</a>
+          </p>
+        </div>
 
-</section>
+        <div style="text-align: right; margin-left: 2rem;">
+          <span style="width: 200px;">
+            <img
+              src="{{ sponsor.logo }}"
+              class="ml-3"
+              style="width: 200px" />
+          </span>
+        </div>
+
+      </div>
+    {% endfor %}
+
+  </section>
 {% endif %}
