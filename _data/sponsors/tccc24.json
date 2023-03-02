@@ -58,9 +58,9 @@
   },
   {
     "name": "Super Go Faster",
-    "logo": "https://images.squarespace-cdn.com/content/v1/612567c57e021b07fb6fc03d/62f00658-5671-4110-8064-90e1c931bfd7/Site+Header+Long+Logo+Star.png?format=500w",
+    "logo": "/assets/images/sgf-logo-original-250.png",
     "url": "https://www.supergofaster.com",
-    "about": "Super Go Faster is a software consulting firm that matches top freelancer talent to your toughest projects.  Let us help with the heavy lifting.",
+    "about": "Building better software by providing what matters most. The people.",
     "level": "Silver",
     "eventId": "tccc24",
     "twitter": ""
