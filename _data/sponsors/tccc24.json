@@ -38,23 +38,13 @@
     }
   },
   {
-    "name": "NDC Minnesota",
-    "logo": "http://sessionize.com/image?f=44bc5910a8332c8c977fabdfba1e1172,1140,400,0,1,b9-563d-4745-a517-1ebf84fc059b.5b95d02f-8ff1-4e11-a926-f585852a457a.png",
-    "url": "https://ndcminnesota.com",
-    "about": "Since its start-up in Oslo 2008, the Norwegian Developers Conference (NDC) quickly became one of Europe`s largest conferences for .NET & Agile development. Today NDC Conferences are 5-day events with 2 days of pre-conference workshops and 3 days of conference sessions.",
+    "name": "Request Metrics",
+    "logo": "https://requestmetrics.com/assets/images/request_metrics_logo.svg",
+    "url": "https://requestmetrics.com/",
+    "about": "Request Metrics monitors your software as the user sees it–everything else is just diagnostics. Get simplified visibility into your software's APIs, behavior, and performance with a single script tag.",
     "level": "Diamond",
     "eventId": "tccc24",
-    "twitter": "@NDC_conferences",
-    "ravenMetadata": {
-      "Raven-Entity-Name": "Sponsors",
-      "Raven-Clr-Type": "TwinCitiesCodeCamp.Models.Sponsor, TwinCitiesCodeCamp",
-      "@id": "sponsors/698",
-      "Temp-Index-Score": 4.44201946,
-      "Last-Modified": "2020-01-31T16:05:17.2009548Z",
-      "Raven-Last-Modified": "2020-01-31T16:05:17.2009548",
-      "@etag": "01000000-0001-1DB5-0000-000000000004",
-      "SerializedSizeOnDisk": 758
-    }
+    "twitter": "@requestmetrics"
   },
   {
     "name": "Super Go Faster",
