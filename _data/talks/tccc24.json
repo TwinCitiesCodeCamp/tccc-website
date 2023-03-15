@@ -12,7 +12,7 @@
     "room": "P0806",
     "hour": 9,
     "pictureUrl": "https://sessionize.com/image/80b5-400o400o2-RpfkdSsNghm7DJLT5ViKq9.jpg",
-    "tags": [],
+    "tags": ["javascript", "typescript"],
     "submissionDate": ""
   },
   {
@@ -28,7 +28,7 @@
     "room": "P0838",
     "hour": 9,
     "pictureUrl": "https://sessionize.com/image/516a-400o400o2-14-a231-4cc6-a97f-95940dac3fa5.e6f98402-92a3-4dcd-bed8-aa0aa6196a08.jpg",
-    "tags": [],
+    "tags": ["infrastructure"],
     "submissionDate": ""
   },
   {
@@ -44,7 +44,7 @@
     "room": "Garden Room",
     "hour": 9,
     "pictureUrl": "https://sessionize.com/image/7a04-400o400o2-LwFBafHHMMVyyQK9vMXFpv.jpg",
-    "tags": [],
+    "tags": ["csharp", ".net"],
     "submissionDate": ""
   },
   {
@@ -60,7 +60,7 @@
     "room": "P0808",
     "hour": 9,
     "pictureUrl": "https://sessionize.com/image/e451-400o400o2-3cCPW7rgMFV6YEt4nG82sj.jpg",
-    "tags": [],
+    "tags": ["web", "observability"],
     "submissionDate": ""
   },
   {
@@ -76,7 +76,7 @@
     "room": "P1808",
     "hour": 9,
     "pictureUrl": "https://sessionize.com/image/9113-400o400o2-D9feqh5GWGinJVxA293QG3.png",
-    "tags": [],
+    "tags": ["accessibility"],
     "submissionDate": ""
   },
   {
@@ -92,7 +92,7 @@
     "room": "P0838",
     "hour": 10.25,
     "pictureUrl": "https://sessionize.com/image/c6b6-400o400o2-5d-ebe8-4dd2-aa15-47a54d9e4701.2dfc2449-78bb-456f-9afb-5ee292914268.JPG",
-    "tags": [],
+    "tags": ["tech"],
     "submissionDate": ""
   },
   {
@@ -108,7 +108,7 @@
     "room": "P0806",
     "hour": 10.25,
     "pictureUrl": "https://sessionize.com/image/f839-400o400o2-DPusC3uPZM8uJRTUzw58wh.jpg",
-    "tags": [],
+    "tags": ["architecture"],
     "submissionDate": ""
   },
   {
@@ -124,7 +124,7 @@
     "room": "Garden Room",
     "hour": 10.25,
     "pictureUrl": "https://sessionize.com/image/f7f1-400o400o2-78Guf1D4AufM9RDKeHfdeo.jpg",
-    "tags": [],
+    "tags": ["git"],
     "submissionDate": ""
   },
   {
@@ -140,7 +140,7 @@
     "room": "P1808",
     "hour": 10.25,
     "pictureUrl": "https://sessionize.com/image/31ff-400o400o2-45aHwoc1A8jXycMLZMUkdS.jpg",
-    "tags": [],
+    "tags": ["testing"],
     "submissionDate": ""
   },
   {
@@ -156,7 +156,7 @@
     "room": "P0808",
     "hour": 10.25,
     "pictureUrl": "",
-    "tags": [],
+    "tags": ["testing"],
     "submissionDate": ""
   },
   {
@@ -172,7 +172,7 @@
     "room": "P0838",
     "hour": 12.5,
     "pictureUrl": "https://sessionize.com/image/7d6a-400o400o2-6d-db28-4e1b-a167-5686432d1218.a4c5b72d-df34-4b65-9764-9c9c862dbe67.jpg",
-    "tags": [],
+    "tags": ["csharp"],
     "submissionDate": ""
   },
   {
@@ -188,7 +188,7 @@
     "room": "P0808",
     "hour": 12.5,
     "pictureUrl": "https://sessionize.com/image/e162-400o400o2-Vc66RsG46VQU2fyc2AaVwv.jpg",
-    "tags": [],
+    "tags": ["security"],
     "submissionDate": ""
   },
   {
@@ -204,7 +204,7 @@
     "room": "Garden Room",
     "hour": 12.5,
     "pictureUrl": "https://sessionize.com/image/e451-400o400o2-3cCPW7rgMFV6YEt4nG82sj.jpg",
-    "tags": [],
+    "tags": ["javascript", "security"],
     "submissionDate": ""
   },
   {
@@ -220,7 +220,7 @@
     "room": "P1808",
     "hour": 12.5,
     "pictureUrl": "https://sessionize.com/image/a717-400o400o2-f4oxzoXuDCU8wPVF4AnRi6.jpg",
-    "tags": [],
+    "tags": ["interviewing"],
     "submissionDate": ""
   },
   {
@@ -236,7 +236,7 @@
     "room": "P0806",
     "hour": 12.5,
     "pictureUrl": "https://sessionize.com/image/fcec-400o400o2-48-5e30-468c-8296-aef341a52d17.f2f97659-132b-4107-bf2e-35bcfc2224ce.jpg",
-    "tags": [],
+    "tags": ["interviewing"],
     "submissionDate": ""
   },
   {
@@ -252,7 +252,7 @@
     "room": "Garden Room",
     "hour": 1.75,
     "pictureUrl": "https://sessionize.com/image/4ff6-400o400o2-ca-b2d3-47c3-8475-c25bb2b257f7.46c617ba-de75-407a-82ad-9cafa721d559.jpg",
-    "tags": [],
+    "tags": ["redis"],
     "submissionDate": ""
   },
   {
@@ -268,7 +268,7 @@
     "room": "P0806",
     "hour": 1.75,
     "pictureUrl": "https://sessionize.com/image/cc1b-400o400o2-UHgxKKwf7uQ33zoAnN5RrP.jpg",
-    "tags": [],
+    "tags": ["multitenancy"],
     "submissionDate": ""
   },
   {
@@ -284,7 +284,7 @@
     "room": "P1808",
     "hour": 1.75,
     "pictureUrl": "https://sessionize.com/image/97d7-400o400o2-nrWzm2jm91FigoeBeyR3u4.jpg",
-    "tags": [],
+    "tags": ["react", "javascript"],
     "submissionDate": ""
   },
   {
@@ -300,7 +300,7 @@
     "room": "P0808",
     "hour": 1.75,
     "pictureUrl": "https://sessionize.com/image/e1c9-400o400o2-hGg1mF5ZAaupCjQU4cK6oZ.jpg",
-    "tags": [],
+    "tags": ["cloud"],
     "submissionDate": ""
   },
   {
@@ -316,7 +316,7 @@
     "room": "P0838",
     "hour": 1.75,
     "pictureUrl": "https://sessionize.com/image/ba72-400o400o2-SVVhXJdb9e9K8YDxQwgCxe.png",
-    "tags": [],
+    "tags": ["stories"],
     "submissionDate": ""
   }
 ]
