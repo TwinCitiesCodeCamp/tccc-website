@@ -5,12 +5,10 @@ pagination:
   size: 1
   alias: event
 permalink: 'events/{{event.eventId}}/index.html'
-renderData:
-  title: "{{ event.seasonYear }}"
 ---
 
 <h1>{{ event.seasonYear }}, {{ event.dateTime | date: "%a, %b %d, %Y" }}</h1>
 
-<hr />
-  
+<hr/>
+
 {% include talk-list, talkList: event.talks %}

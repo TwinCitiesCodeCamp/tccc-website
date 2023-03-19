@@ -5,8 +5,6 @@ pagination:
   size: 1
   alias: talk
 permalink: '{{talk.permalink}}'
-renderData:
-  title: "{{ talk.title }}"
 ---
 
 {% assign event = allEvents | where: "eventId", talk.eventId | first %}
