@@ -93,7 +93,7 @@
 <div class="media">
   <span class="speaker-image-wrapper">
     
-    <img src="" alt="Chad Yost" />
+      <img src="" alt="Chad Yost" />
     
   </span>
   <div class="media-body">
@@ -104,31 +104,35 @@
       
     </h6>
     <h5>
-      by Chad Yost 
-      <a href="//twitter.com/"
-        ><i class="fa fa-twitter" style="color: #00aced"></i></a
-      > 
+      by Chad Yost
+      
+        <a href="//twitter.com/">
+          <i class="fa fa-twitter" style="color: #00aced"></i>
+        </a>
+      
+      
     </h5>
 
     
-    <p>
-      <strong>Sun, Oct 01, 2006</strong><br/>
-      <strong>Room:</strong> <br />
-      <strong>Time:</strong> 
-    </p>
+      <p>
+        <strong>Sun, Oct 01, 2006</strong><br/>
+        <strong>Room:</strong>
+        <br/>
+        <strong>Time:</strong>
+        0:00
+      </p>
     
 
     <div>
       <p>    <a href="ChadYost.zip">Content</a></p><p>    Managed memory is a wonderful thing. No longer having to worry about deleting pointers,    leaking memory, having enough space available, it is all taken care of for you by    the Garbage Collector. But what happens when a large amount of your data is large    enough that it needs to go into the large object heap. How do you make sure that    you are not fragmenting it so much that the next request to get data has space?    How do you make sure that these large pieces of data are not mapped into the address    space all the time, taking up valuable space in the 2GB limit?</p><p>    This presentation will focus on some specific functionality that Thomson-West implemented    to handle large legal documents (MB of XML), that can be slow to retrieve via soap    in a manner that kept them out of the large object heap. Discussion will center    on implementing a soap extension that generically parses a soap response to pull    out the large strings, pushing them to the Virtual Heap, instead of placing them    on the large object heap.</p>
     </div>
 
-    <hr />
+    <hr/>
 
     <h5>About the Author</h5>
     <p>    Chad Yost has been developing in the windows environment since 1989. Initially in    C/C++, he now spends most of his time designing and developing code in .NET. He    currently is part of a team that is developing standards and class libraries that    will be used across products within Thomson-West.<h3>    Links</h3><ul>    <li><a href="http://www.thomson.com/">Thomson-West</a></li></ul></p>
   </div>
 </div>
-
       </div>
     </main>
     <footer class="mt-5">
