@@ -40,12 +40,15 @@ module.exports = function () {
           .replace(/ /g, "-");
 
       const permalink = `/events/${eventId}/${slug}/index.html`
+      const hourParts = talk.hour.toString().split('.');
+      const time = `${hourParts[0]}:${hourParts.length > 1 ? ((+hourParts[1])/100 * 60).toFixed(0) : "00"}`
 
       return {
         ...talk,
         hasPicture: !!talk.pictureUrl && talk.pictureUrl.trim() !== '',
         slug,
-        permalink
+        permalink,
+        time
       };
     } catch (err) {
       console.log("error on talk", talk);
