@@ -115,6 +115,7 @@ a:visited {
   width: 15rem;
   margin-right: 1rem;
   min-width: 150px;
+  max-width: 150px;
 }
 
 .speaker-image-wrapper-small {
@@ -122,6 +123,7 @@ a:visited {
   width: 10rem;
   display: inline-block;
   margin-right: 1rem;
+  max-width: 150px;
 }
 
 .speaker-image-wrapper-stats {
