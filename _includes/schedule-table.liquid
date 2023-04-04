@@ -1,0 +1,33 @@
+<table class="table scheduleTable">
+
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      {% for room in schedule.uniqueRooms %}
+        <th>{{ room }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for hour in schedule.hours %}
+      <tr>
+        <td class="timeCell">{{ hour.timeDisplay }}</td>
+        {% if hour.isExtra == true %}
+          <td colspan="{{schedule.roomCount}}" class="extraHour">
+            <span>
+              {{ hour.talks.first.title }}</span>
+          </td>
+        {% else %}
+          {% for talk in hour.talks %}
+            <td>
+              <a href="{{talk.permalink}}">
+                {{ talk.title }}</a><br/>
+              ({{ talk.author }})
+            </td>
+          {% endfor %}
+        {% endif %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
