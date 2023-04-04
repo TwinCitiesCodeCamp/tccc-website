@@ -196,3 +196,16 @@ a.tag {
     flex-direction: column;
   }
 }
+
+.scheduleTable, .scheduleTable a{
+  color: #ebebeb;
+}
+
+.timeCell {
+  white-space: nowrap;
+}
+
+td.extraHour {
+  text-align: center;
+  padding-bottom: 40px;
+}
