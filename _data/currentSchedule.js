@@ -3,7 +3,7 @@ const currentEventFunc = require("./currentEvent");
 
 const extraThings = [
   {
-    hour: 8.25,
+    hour: 8,
     title: "Check-in and Breakfast (requires a breakfast ticket)",
     isExtra: true,
   },
