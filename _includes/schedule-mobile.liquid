@@ -1,0 +1,32 @@
+<div class="scheduleMobile">
+  {% for hour in schedule.hours %}
+
+    <div>
+      <h3>{{ hour.timeDisplay }}</h3>
+      <ul>
+        {% for talk in hour.talks %}
+
+
+          {% if talk.isExtra == true %}
+            <li>
+
+              {{ talk.title }}
+            </li>
+
+          {% else %}
+
+            <li>
+              <strong>{{ talk.room }}:</strong>
+              <a href="{{talk.permalink}}">{{ talk.title }}</a>
+
+              ({{ talk.author }})</li>
+
+          {% endif %}
+
+
+        {% endfor %}
+      </ul>
+    </div>
+
+  {% endfor %}
+</div>
