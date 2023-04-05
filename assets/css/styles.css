@@ -209,3 +209,46 @@ td.extraHour {
   text-align: center;
   padding-bottom: 40px;
 }
+
+@media (max-width: 768px) {
+  .schedule-large-screen {
+    display: none;
+    visibility: hidden;
+  }
+  .schedule-small-screen {
+    display: block;
+    visibility: visible;
+  }
+}
+
+@media (min-width: 768px) {
+  .schedule-small-screen {
+    display: none;
+    visibility: hidden;
+  }
+  .schedule-large-screen {
+    display: block;
+    visibility: visible;
+  }
+}
+
+.scheduleMobile h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.scheduleMobile h4 {
+  font-size: 1rem;
+}
+
+.scheduleMobile a {
+  color: #ebebeb;
+}
+
+.scheduleMobile label {
+  font-weight: normal;
+}
+
+.scheduleMobile li {
+  margin-bottom: 1rem;
+}
