@@ -2,7 +2,7 @@
   {% for hour in schedule.hours %}
 
     <div>
-      <h3>{{ hour.timeDisplay }}</h3>
+      <h3>{{ hour.timeDisplay }} - {{ hour.endTimeDisplay }}</h3>
       <ul>
         {% for talk in hour.talks %}
 
