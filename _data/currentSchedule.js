@@ -1,4 +1,12 @@
-const { parse, parseISO, setHours, setMinutes, format } = require("date-fns");
+const {
+  parse,
+  parseISO,
+  setHours,
+  setMinutes,
+  format,
+  addHours,
+  addMinutes,
+} = require("date-fns");
 const currentEventFunc = require("./currentEvent");
 
 const extraThings = [
@@ -6,21 +14,25 @@ const extraThings = [
     hour: 8,
     title: "Check-in and Breakfast (requires a breakfast ticket)",
     isExtra: true,
+    durationMinutes: 45,
   },
   {
     hour: 8.75,
     title: "Welcome and Opening Remarks (Garden Room)",
     isExtra: true,
+    durationMinutes: 15,
   },
   {
     hour: 11.25,
     title: "Lunch Break",
     isExtra: true,
+    durationMinutes: 60,
   },
   {
     hour: 15,
     title: "Closing Remarks and Prize Drawings (Garden Room)",
     isExtra: true,
+    durationMinutes: 30,
   },
 ];
 
@@ -50,14 +62,23 @@ module.exports = () => {
       const hourVal = Math.trunc(hour);
       const minuteVal = (hour % 1) * 60;
 
+      const durationMins = hourTalks[0].isExtra
+        ? hourTalks[0].durationMinutes
+        : 60;
+
       const parsed = parseISO(currentEvent.dateTime, new Date());
       const withHours = setHours(parsed, hourVal);
       const withMinutes = setMinutes(withHours, minuteVal);
-      const timeDisplay = format(withMinutes, "h:mm a");
+      const timeDisplay = format(withMinutes, "h:mm");
+      const endTimeDisplay = format(
+        addMinutes(withMinutes, durationMins),
+        "h:mm"
+      );
 
       return {
         hour,
         timeDisplay,
+        endTimeDisplay,
         talks: hourTalks,
         isExtra: hourTalks[0].isExtra,
       };

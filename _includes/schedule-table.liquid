@@ -12,7 +12,7 @@
   <tbody>
     {% for hour in schedule.hours %}
       <tr>
-        <td class="timeCell">{{ hour.timeDisplay }}</td>
+        <td class="timeCell">{{ hour.timeDisplay }} - {{ hour.endTimeDisplay }}</td>
         {% if hour.isExtra == true %}
           <td colspan="{{schedule.roomCount}}" class="extraHour">
             <span>
