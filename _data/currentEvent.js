@@ -1,5 +1,5 @@
 const eventsFunc = require('./allEvents')
-const currentEventId = 'tccc24';
+const currentEventId = null;
 
 module.exports = () => {
   return eventsFunc().find(e => e.eventId === currentEventId);

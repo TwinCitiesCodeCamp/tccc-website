@@ -4,22 +4,21 @@ renderData:
   title: Sponsors
 ---
 
-<h1>Sponsors of Twin Cities Code Camp</h1>
+<div class="home-text text-center">
+  <h1>Twin Cities Code Camp</h1>
+</div>
 
-{% if currentEvent == null %}
-  {% include no-event %}
-{% else %}
-
+<h2>The End of an Era...</h2>
 <p>
-  Interested in becoming a sponsor? It's easy. Head over to 
-  <a href="/sponsorship-details">sponsorship details</a>.
+After 24 events over 17 years, we have decided to stop running Twin Cities Code Camp. We want to thank all those who have been a part of the event, either as an attendee and/or as a speaker. The developer community is what makes a Code Camp what it is, and the Twin Cities developer community made TCCC events an amazing experience. We also want to thank all of the sponsors throughout the years, along with those involved with the facilities we used. Take care, and we hope to see you down the road.
 </p>
-
-{% include sponsor-list, sponsorList: currentSponsors.diamond, level: 'Diamond' %}
-{% include sponsor-list, sponsorList: currentSponsors.platinum, level: 'Platinum' %}
-{% include sponsor-list, sponsorList: currentSponsors.gold, level: 'Gold' %}
-{% include sponsor-list, sponsorList: currentSponsors.silver, level: 'Silver' %}
-{% include sponsor-list, sponsorList: currentSponsors.bronze, level: 'Bronze' %}
-
-
-{% endif %}
+<p>
+The TCCC Leadership Team
+</p>
+<p>
+<ul>
+<li>Jason Bock</li>
+<li>Mike Hodnick</li>
+<li>Sheila Dennis</li>
+</ul>
+</p>
