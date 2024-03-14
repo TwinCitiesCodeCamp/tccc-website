@@ -1,29 +1,67 @@
 ---
 layout: default
-renderData:
-  title: 'Twin Cities Code Camp'
 pagination:
   data: allTalks
   size: 1
   alias: talk
 permalink: '{{talk.permalink}}'
+renderData:
+  title: "{{ talk.title }}"
 ---
 
-<div class="home-text text-center">
-  <h1>Twin Cities Code Camp</h1>
-</div>
+{% assign event = allEvents | where: "eventId", talk.eventId | first %}
 
-<h2>The End of an Era...</h2>
-<p>
-After 24 events over 17 years, we have decided to stop running Twin Cities Code Camp. We want to thank all those who have been a part of the event, either as an attendee and/or as a speaker. The developer community is what makes a Code Camp what it is, and the Twin Cities developer community made TCCC events an amazing experience. We also want to thank all of the sponsors throughout the years, along with those involved with the facilities we used. Take care, and we hope to see you down the road.
-</p>
-<p>
-The TCCC Leadership Team
-</p>
-<p>
-<ul>
-<li>Jason Bock</li>
-<li>Mike Hodnick</li>
-<li>Sheila Dennis</li>
-</ul>
-</p>
+<div class="media">
+  <span class="speaker-image-wrapper">
+    {% if talk.pictureUrl != null %}
+      <img src="{{ talk.pictureUrl | relative_url }}" alt="{{ talk.author }}" />
+    {% else %}
+      <img src="{{ '/assets/images/unknown-speaker.jpg' | relative_url }}" alt="{{ talk.author }}" />
+    {% endif %}
+  </span>
+  <div class="media-body">
+    <h2 class="mt-0">
+      {{ talk.title }}
+    </h2>
+    <h6>
+      {% for tag in talk.tags %}
+        <span class="tag">
+          <i class="fa fa-tag"></i>
+          {{ tag }}
+        </span>
+      {% endfor %}
+    </h6>
+    <h5>
+      by {{ talk.author }}
+      {% if talk.authorTwitter != null %}
+        <a href="//twitter.com/{{ talk.authorTwitter }}">
+          <i class="fa fa-twitter" style="color: #00aced"></i>
+        </a>
+      {% endif %}
+      {% if talk.authorGitHub != null %}
+        <a href="//github.com/{{ talk.authorGitHub}}">
+          <i class="fa fa-github" style="color: #000"></i>
+        </a>
+      {% endif %}
+    </h5>
+
+    {% if talk.room != null and talk.title != null %}
+      <p>
+        <strong>{{ event.dateTime | date: "%a, %b %d, %Y" }}</strong><br/>
+        <strong>Room:</strong>
+        {{ talk.room }}<br/>
+        <strong>Time:</strong>
+        {{ talk.time }}
+      </p>
+    {% endif %}
+
+    <div>
+      {{ talk.abstract }}
+    </div>
+
+    <hr/>
+
+    <h5>About the Author</h5>
+    <p>{{ talk.authorBio }}</p>
+  </div>
+</div>
